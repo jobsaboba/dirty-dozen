@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-16",
+  "updated": "2026-11-15T06:12:44+0000",
+  "races": [
+    {
+      "time": "15:25",
+      "meeting": "Kelso",
+      "name": "RacingTV Proudly Supports Teenage Cancer Trust Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 2f 25y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Fine Point",
+          "stars": 4,
+          "odds": "6/4",
+          "jockey": "Joshua Thompson",
+          "trainer": "A Nicol",
+          "total": 49.69,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": 7.69,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.95,
+          "profit": -0.33,
+          "bank": 95.59
+        },
+        {
+          "rank": 2,
+          "horse": "Cawthorne Cracker",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Toby Wynne",
+          "trainer": "O Greenall & J Guerriero",
+          "total": 45.11,
+          "boxes": {
+            "life": 17,
+            "trn": null,
+            "jky": 11.11,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.95,
+          "profit": 1.43,
+          "bank": 95.59
+        },
+        {
+          "rank": 3,
+          "horse": "Struth",
+          "stars": 3,
+          "odds": "13/2",
+          "jockey": "D R Fox",
+          "trainer": "L Russell & M Scudamore",
+          "total": 32.42,
+          "boxes": {
+            "life": 6,
+            "trn": null,
+            "jky": 18.42,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.95,
+          "profit": -0.95,
+          "bank": 95.59
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 1,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 2.85,
+  "returned": 3.0,
+  "profit": 0.15,
+  "bank": {
+    "start": 95.44,
+    "end": 95.59,
+    "next_stake": 0.96,
+    "season_start": 10.0,
+    "season_end": 250.54
+  }
+}

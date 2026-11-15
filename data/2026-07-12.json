@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-12",
+  "updated": "2026-11-15T06:12:44+0000",
+  "races": [
+    {
+      "time": "14:16",
+      "meeting": "Perth",
+      "name": "Saints In The Community Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 4f 35y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Summergrounds",
+          "stars": 4,
+          "odds": "11/2",
+          "jockey": "Danny McMenamin",
+          "trainer": "N G Richards",
+          "total": 102.45,
+          "boxes": {
+            "life": 11,
+            "trn": null,
+            "jky": 25.45,
+            "ht": 29.0,
+            "hj": 21.0,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.84,
+          "profit": -0.84,
+          "bank": 81.71
+        },
+        {
+          "rank": 2,
+          "horse": "Atlantic City",
+          "stars": 4,
+          "odds": "5/4",
+          "jockey": "S Bowen",
+          "trainer": "O Murphy",
+          "total": 101.0,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": 25.0,
+            "ht": null,
+            "hj": 25.0,
+            "tjc": null,
+            "fav": 33,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.84,
+          "profit": -0.31,
+          "bank": 81.71
+        },
+        {
+          "rank": 3,
+          "horse": "Bold Light",
+          "stars": 5,
+          "odds": "15/2",
+          "jockey": "Gregor Walkingshaw",
+          "trainer": "L Russell & M Scudamore",
+          "total": 57.0,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": 30.0,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.84,
+          "profit": -0.84,
+          "bank": 81.71
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 1,
+    "settled": 3,
+    "won": 0,
+    "placed": 1,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 2.52,
+  "returned": 0.53,
+  "profit": -1.99,
+  "bank": {
+    "start": 83.7,
+    "end": 81.71,
+    "next_stake": 0.82,
+    "season_start": 10.0,
+    "season_end": 250.54
+  }
+}

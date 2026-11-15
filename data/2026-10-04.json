@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-04",
+  "updated": "2026-11-15T06:12:44+0000",
+  "races": [
+    {
+      "time": "15:40",
+      "meeting": "Kelso",
+      "name": "Join Racing TV Now Conditional Jockeys' Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 4f 189y",
+      "going": "Good to Firm (Good in places)",
+      "runners": 8,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Luminaries",
+          "stars": 3,
+          "odds": "10/3",
+          "jockey": "Charlie Maggs",
+          "trainer": "Ewan Whillans",
+          "total": 61.9,
+          "boxes": {
+            "life": 19,
+            "trn": null,
+            "jky": 6.9,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.94,
+          "profit": 1.88,
+          "bank": 94.1
+        },
+        {
+          "rank": 2,
+          "horse": "Helsgetaway",
+          "stars": 3,
+          "odds": "9/2",
+          "jockey": "Gregor Walkingshaw",
+          "trainer": "L Russell & M Scudamore",
+          "total": 41.0,
+          "boxes": {
+            "life": null,
+            "trn": null,
+            "jky": 30.0,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.94,
+          "profit": -0.94,
+          "bank": 94.1
+        },
+        {
+          "rank": 3,
+          "horse": "Lone Star",
+          "stars": 3,
+          "odds": "7/2",
+          "jockey": "Oscar Palmer",
+          "trainer": "P A Kirby",
+          "total": 34,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.94,
+          "profit": -0.94,
+          "bank": 94.1
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 1,
+    "settled": 3,
+    "won": 1,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 2.82,
+  "returned": 2.82,
+  "profit": 0.0,
+  "bank": {
+    "start": 94.1,
+    "end": 94.1,
+    "next_stake": 0.94,
+    "season_start": 10.0,
+    "season_end": 250.54
+  }
+}

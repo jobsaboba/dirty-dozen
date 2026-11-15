@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-27",
+  "updated": "2026-11-15T06:12:44+0000",
+  "races": [
+    {
+      "time": "16:07",
+      "meeting": "Ffos Las",
+      "name": "EX1 Digital Forensic Services Apprentice Handicap",
+      "class": "6",
+      "distance": "1m 2f",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Grand Pier",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Harry Vigors",
+          "trainer": "W Greatrex",
+          "total": 44,
+          "boxes": {
+            "life": 11,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.06,
+          "profit": 2.12,
+          "bank": 105.53
+        },
+        {
+          "rank": 2,
+          "horse": "Takeitorleaveit",
+          "stars": 4,
+          "odds": "4/1",
+          "jockey": "Donagh Murphy",
+          "trainer": "J G Portman",
+          "total": 35,
+          "boxes": {
+            "life": 18,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.06,
+          "profit": -1.06,
+          "bank": 105.53
+        },
+        {
+          "rank": 3,
+          "horse": "Fast Steps",
+          "stars": 4,
+          "odds": "5/1",
+          "jockey": "Charlie Tucker",
+          "trainer": "B R Millman",
+          "total": 24,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.06,
+          "profit": -1.06,
+          "bank": 105.53
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 1,
+    "settled": 3,
+    "won": 1,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 3.18,
+  "returned": 3.18,
+  "profit": 0.0,
+  "bank": {
+    "start": 105.53,
+    "end": 105.53,
+    "next_stake": 1.06,
+    "season_start": 10.0,
+    "season_end": 250.54
+  }
+}

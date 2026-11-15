@@ -1,0 +1,121 @@
+{
+  "date": "2026-03-01",
+  "updated": "2026-11-15T06:12:44+0000",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "name": "3A's Wales Largest Motorhome And Caravan Dealer Maiden Hurdle (GBB Race)",
+      "class": "4",
+      "distance": "2m 4f",
+      "going": "Heavy",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Inishcorker",
+          "stars": 3,
+          "odds": "4/5",
+          "jockey": "Harry Cobden",
+          "trainer": "Miss R Curtis",
+          "total": 83.88,
+          "boxes": {
+            "life": null,
+            "trn": null,
+            "jky": 21.88,
+            "ht": null,
+            "hj": 29.0,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": -0.05,
+          "bank": 10.97
+        },
+        {
+          "rank": 2,
+          "horse": "Limerick Star",
+          "stars": 4,
+          "odds": "2/1",
+          "jockey": "Callum Pritchard",
+          "trainer": "P Hobbs & J White",
+          "total": 50.33,
+          "boxes": {
+            "life": 25,
+            "trn": null,
+            "jky": 8.33,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": -0.03,
+          "bank": 10.97
+        },
+        {
+          "rank": 3,
+          "horse": "Slack Alice",
+          "stars": 2,
+          "odds": "40/1",
+          "jockey": "R P McLernon",
+          "trainer": "M Bowen",
+          "total": 32.91,
+          "boxes": {
+            "life": 11,
+            "trn": null,
+            "jky": 15.91,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.97
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 1,
+    "settled": 3,
+    "won": 0,
+    "placed": 2,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 0.33,
+  "returned": 0.14,
+  "profit": -0.19,
+  "bank": {
+    "start": 11.16,
+    "end": 10.97,
+    "next_stake": 0.11,
+    "season_start": 10.0,
+    "season_end": 250.54
+  }
+}

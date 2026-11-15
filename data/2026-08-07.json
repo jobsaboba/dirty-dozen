@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-07",
+  "updated": "2026-11-15T06:12:44+0000",
+  "races": [
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "name": "Champagne Pommery Cuvee Louise Gold Cup Handicap",
+      "class": "4",
+      "distance": "7f 15y",
+      "going": "Good",
+      "runners": 11,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Eagle Bay",
+          "stars": 4,
+          "odds": "3/1",
+          "jockey": "S D Bowen",
+          "trainer": "H Bethell",
+          "total": 117.0,
+          "boxes": {
+            "life": 29,
+            "trn": null,
+            "jky": 25.0,
+            "ht": null,
+            "hj": 25.0,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.8,
+          "profit": -0.8,
+          "bank": 79.59
+        },
+        {
+          "rank": 2,
+          "horse": "Jonny Concrete",
+          "stars": 3,
+          "odds": "10/3",
+          "jockey": "Jack Nicholls",
+          "trainer": "I Jardine",
+          "total": 46,
+          "boxes": {
+            "life": 19,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.8,
+          "profit": 1.6,
+          "bank": 79.59
+        },
+        {
+          "rank": 3,
+          "horse": "Passing Thought",
+          "stars": 3,
+          "odds": "17/2",
+          "jockey": "K Shoemark",
+          "trainer": "E Walker",
+          "total": 31,
+          "boxes": {
+            "life": 20,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.8,
+          "profit": -0.8,
+          "bank": 79.59
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 1,
+    "settled": 3,
+    "won": 1,
+    "placed": 0,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 2.4,
+  "returned": 2.4,
+  "profit": 0.0,
+  "bank": {
+    "start": 79.59,
+    "end": 79.59,
+    "next_stake": 0.8,
+    "season_start": 10.0,
+    "season_end": 250.54
+  }
+}

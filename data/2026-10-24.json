@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-24",
+  "updated": "2026-11-15T06:12:44+0000",
+  "races": [
+    {
+      "time": "15:55",
+      "meeting": "Kelso",
+      "name": "racingtv/freetrial Conditional Jockeys' Training Series Handicap Hurdle",
+      "class": "4",
+      "distance": "2m 6f 151y",
+      "going": "Good",
+      "runners": 9,
+      "picks": [
+        {
+          "rank": 1,
+          "horse": "Summergrounds",
+          "stars": 3,
+          "odds": "3/1",
+          "jockey": "Ella McGarry",
+          "trainer": "N G Richards",
+          "total": 73.0,
+          "boxes": {
+            "life": 11,
+            "trn": null,
+            "jky": null,
+            "ht": 29.0,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.09,
+          "profit": -0.22,
+          "bank": 111.02
+        },
+        {
+          "rank": 2,
+          "horse": "Lets Mingle",
+          "stars": 5,
+          "odds": "11/2",
+          "jockey": "Gregor Walkingshaw",
+          "trainer": "L Russell & M Scudamore",
+          "total": 56.0,
+          "boxes": {
+            "life": 18,
+            "trn": null,
+            "jky": 30.0,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.09,
+          "profit": 3.6,
+          "bank": 111.02
+        },
+        {
+          "rank": 3,
+          "horse": "Bold Light",
+          "stars": 4,
+          "odds": "4/1",
+          "jockey": "Miss Megan Davies",
+          "trainer": "L Russell & M Scudamore",
+          "total": 34,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.09,
+          "profit": -1.09,
+          "bank": 111.02
+        }
+      ]
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "races": 1,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "staked": 3.27,
+  "returned": 5.56,
+  "profit": 2.29,
+  "bank": {
+    "start": 108.73,
+    "end": 111.02,
+    "next_stake": 1.11,
+    "season_start": 10.0,
+    "season_end": 250.54
+  }
+}
