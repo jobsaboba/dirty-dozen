@@ -78,12 +78,17 @@
     overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
   .pick .od{color:var(--sky); font-weight:800; font-size:.7rem}
 
-  /* the box: total across all twelve criteria, on the selection's right */
-  .tbox{flex-shrink:0; text-align:center; background:var(--panel2); border:1px solid var(--line);
+  /* the boxes: gold = how many of the twelve criteria it scores in (0–12),
+     green = the raw points total across them — both on the pick's right */
+  .scoregrp{flex-shrink:0; display:flex; gap:5px; align-items:stretch}
+  .dbox, .tbox{flex-shrink:0; text-align:center; background:var(--panel2); border:1px solid var(--line);
     border-radius:11px; padding:4px 9px; min-width:52px}
+  .dbox .tv{font-weight:900; font-size:1.02rem; color:var(--gold); line-height:1.1; font-variant-numeric:tabular-nums}
+  .dbox .tl{font-size:.5rem; color:var(--dim); letter-spacing:1px; text-transform:uppercase}
   .tbox .tv{font-weight:900; font-size:1.02rem; color:var(--em); line-height:1.1; font-variant-numeric:tabular-nums}
   .tbox .tl{font-size:.5rem; color:var(--dim); letter-spacing:1px; text-transform:uppercase}
   .pick.open .tbox{border-color:var(--em)}
+  .pick.open .dbox{border-color:var(--gold)}
   .chev{flex-shrink:0; color:var(--dim); font-size:.6rem; width:10px; text-align:center}
 
   .boxes12{display:none; grid-template-columns:repeat(4,1fr); gap:5px; padding:8px 0 4px 35px}
@@ -155,8 +160,8 @@
 <div id="app"><div class="err">Loading…</div></div>
 
 <footer class="hint">
-  Top three of every race with <b>8+ runners</b> — each horse's box is its <b>total across the Holy Grail's twelve criteria</b>. Tap a pick to see all twelve.<br>
-  £10 bank · 1% of the bank on every pick · each-way at Ladbrokes: ½ win · ½ place at 1/5 odds.
+  Top three of every race with <b>8+ runners</b> — ranked by criteria scored. <b style="color:var(--gold)">Gold box</b>: how many of the twelve criteria the horse scores in (0–12). <b style="color:var(--em)">Green box</b>: the raw points total. Tap a pick to see all twelve.<br>
+  DD's own ledger: £10 bank · 1% of the bank on every pick · each-way at Ladbrokes: ½ win · ½ place at 1/5 odds.
   <span id="updated" style="display:block"></span>
 </footer>
 
@@ -274,7 +279,10 @@ function render(){
         (stars ? '<span class="st">' + stars + '</span>' : '') + '</div>' +
         '<span class="jt">' + esc([p.jockey, p.trainer].filter(Boolean).join(" / ")) +
         ' · <span class="od">' + esc(p.odds || "—") + '</span></span></div>' +
+        '<div class="scoregrp">' +
+        '<div class="dbox"><div class="tv">' + p.dd + '</div><div class="tl">of 12</div></div>' +
         '<div class="tbox"><div class="tv">' + fmt(p.total) + '</div><div class="tl">pts</div></div>' +
+        '</div>' +
         '<div class="chev">▾</div></div>' +
         '<div class="boxes12">' + b12 + '</div>' +
         '<div class="resline">' + moneyLine(p) + '</div>';
