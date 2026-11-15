@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:51",
@@ -18,6 +18,7 @@
           "odds": "4/1",
           "jockey": "Tom Kiely-Marshall",
           "trainer": "T Davidson",
+          "dd": 4,
           "total": 76.0,
           "boxes": {
             "life": 15,
@@ -35,17 +36,47 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.33,
-          "profit": -0.33,
-          "bank": 33.61
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 24.1
         },
         {
           "rank": 2,
+          "horse": "Thunderstorm Katie",
+          "stars": 3,
+          "odds": "11/2",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "dd": 4,
+          "total": 30,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.24,
+          "profit": 0.01,
+          "bank": 24.1
+        },
+        {
+          "rank": 3,
           "horse": "Belsito",
           "stars": 3,
           "odds": "4/1",
           "jockey": "T Eaves",
           "trainer": "K A Ryan",
+          "dd": 3,
           "total": 44,
           "boxes": {
             "life": 17,
@@ -63,37 +94,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.33,
-          "profit": 0.79,
-          "bank": 33.61
-        },
-        {
-          "rank": 3,
-          "horse": "Kelpie Grey",
-          "stars": 3,
-          "odds": "9/4",
-          "jockey": "P Mulrennan",
-          "trainer": "J S Goldie",
-          "total": 42,
-          "boxes": {
-            "life": 9,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.33,
-          "profit": -0.33,
-          "bank": 33.61
+          "stake": 0.24,
+          "profit": 0.58,
+          "bank": 24.1
         }
       ]
     },
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Pearl Eye",
-          "stars": 5,
-          "odds": "16/5",
-          "jockey": "P Mulrennan",
-          "trainer": "J S Goldie",
-          "total": 53,
-          "boxes": {
-            "life": 20,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.34,
-          "profit": 0.65,
-          "bank": 34.15
-        },
-        {
-          "rank": 2,
           "horse": "Obito",
           "stars": 3,
           "odds": "18/5",
           "jockey": "D Tudhope",
           "trainer": "D O'Meara",
+          "dd": 3,
           "total": 24,
           "boxes": {
             "life": 15,
@@ -158,9 +134,38 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.34,
-          "profit": -0.05,
-          "bank": 34.15
+          "stake": 0.24,
+          "profit": -0.03,
+          "bank": 24.49
+        },
+        {
+          "rank": 2,
+          "horse": "Pearl Eye",
+          "stars": 5,
+          "odds": "16/5",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "dd": 2,
+          "total": 53,
+          "boxes": {
+            "life": 20,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.24,
+          "profit": 0.46,
+          "bank": 24.49
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "10/3",
           "jockey": "Billy Garritty",
           "trainer": "M & D Easterby",
+          "dd": 2,
           "total": 23,
           "boxes": {
             "life": 6,
@@ -186,9 +192,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.34,
-          "profit": -0.06,
-          "bank": 34.15
+          "stake": 0.24,
+          "profit": -0.04,
+          "bank": 24.49
         }
       ]
     },
@@ -203,67 +209,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Recobella",
-          "stars": 5,
-          "odds": "13/8",
-          "jockey": "Mikey Sheehy",
-          "trainer": "P A Kirby",
-          "total": 46,
-          "boxes": {
-            "life": 13,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.34,
-          "profit": -0.34,
-          "bank": 34.49
-        },
-        {
-          "rank": 2,
-          "horse": "Uncle Liam",
-          "stars": 4,
-          "odds": "5/1",
-          "jockey": "Lauren Young",
-          "trainer": "J S Goldie",
-          "total": 29,
-          "boxes": {
-            "life": 12,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.34,
-          "profit": 1.02,
-          "bank": 34.49
-        },
-        {
-          "rank": 3,
           "horse": "Sugarpiehoneybunch",
           "stars": 2,
           "odds": "13/2",
           "jockey": "Aiden Brookes",
           "trainer": "S G West",
+          "dd": 3,
           "total": 27,
           "boxes": {
             "life": 9,
@@ -281,9 +232,67 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.34,
-          "profit": -0.34,
-          "bank": 34.49
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 24.73
+        },
+        {
+          "rank": 2,
+          "horse": "Recobella",
+          "stars": 5,
+          "odds": "13/8",
+          "jockey": "Mikey Sheehy",
+          "trainer": "P A Kirby",
+          "dd": 2,
+          "total": 46,
+          "boxes": {
+            "life": 13,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 24.73
+        },
+        {
+          "rank": 3,
+          "horse": "Uncle Liam",
+          "stars": 4,
+          "odds": "5/1",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "dd": 2,
+          "total": 29,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.24,
+          "profit": 0.72,
+          "bank": 24.73
         }
       ]
     },
@@ -298,39 +307,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Arishka's Dream",
-          "stars": 4,
-          "odds": "5/2",
-          "jockey": "Ray Dawson",
-          "trainer": "D & C Kubler",
-          "total": 42,
-          "boxes": {
-            "life": 9,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.34,
-          "profit": -0.34,
-          "bank": 33.76
-        },
-        {
-          "rank": 2,
           "horse": "Guernsey Lady",
           "stars": 3,
           "odds": "7/2",
           "jockey": "J F Egan",
           "trainer": "P D Evans",
+          "dd": 3,
           "total": 29,
           "boxes": {
             "life": 7,
@@ -348,17 +330,18 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.34,
-          "profit": -0.05,
-          "bank": 33.76
+          "stake": 0.25,
+          "profit": -0.04,
+          "bank": 24.19
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "La Belle Forest",
           "stars": 5,
           "odds": "6/1",
           "jockey": "K Shoemark",
           "trainer": "A Watson",
+          "dd": 3,
           "total": 21,
           "boxes": {
             "life": 10,
@@ -376,9 +359,38 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.34,
-          "profit": -0.34,
-          "bank": 33.76
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 24.19
+        },
+        {
+          "rank": 3,
+          "horse": "Carefree Dream",
+          "stars": 2,
+          "odds": "6/1",
+          "jockey": "Taylor Fisher",
+          "trainer": "J S Moore",
+          "dd": 3,
+          "total": 18,
+          "boxes": {
+            "life": 5,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 24.19
         }
       ]
     },
@@ -398,6 +410,7 @@
           "odds": "5/2",
           "jockey": "Ray Dawson",
           "trainer": "G Harris",
+          "dd": 3,
           "total": 57,
           "boxes": {
             "life": 14,
@@ -415,17 +428,47 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.34,
-          "profit": -0.34,
-          "bank": 35.53
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 25.72
         },
         {
           "rank": 2,
+          "horse": "Toralou",
+          "stars": 2,
+          "odds": "13/2",
+          "jockey": "David Probert",
+          "trainer": "D M Loughnane",
+          "dd": 3,
+          "total": 22,
+          "boxes": {
+            "life": 6,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.24,
+          "profit": 0.04,
+          "bank": 25.72
+        },
+        {
+          "rank": 3,
           "horse": "Grey Soul",
           "stars": 4,
           "odds": "12/1",
           "jockey": "K Shoemark",
           "trainer": "Dan Horsford",
+          "dd": 2,
           "total": 32,
           "boxes": {
             "life": 27,
@@ -443,37 +486,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.34,
-          "profit": 2.45,
-          "bank": 35.53
-        },
-        {
-          "rank": 3,
-          "horse": "Devious Devan",
-          "stars": 5,
-          "odds": "9/2",
-          "jockey": "Jack Dace",
-          "trainer": "W Muir & C Grassick",
-          "total": 23,
-          "boxes": {
-            "life": 6,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.34,
-          "profit": -0.34,
-          "bank": 35.53
+          "stake": 0.24,
+          "profit": 1.73,
+          "bank": 25.72
         }
       ]
     },
@@ -493,6 +508,7 @@
           "odds": "13/8",
           "jockey": "Daniel Muscutt",
           "trainer": "J R Fanshawe",
+          "dd": 3,
           "total": 65,
           "boxes": {
             "life": 27,
@@ -510,9 +526,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.36,
-          "profit": -0.36,
-          "bank": 34.45
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 25.7
         },
         {
           "rank": 2,
@@ -521,6 +537,7 @@
           "odds": "7/1",
           "jockey": "David Probert",
           "trainer": "D Skelton",
+          "dd": 3,
           "total": 35,
           "boxes": {
             "life": 22,
@@ -538,37 +555,38 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.36,
-          "profit": -0.36,
-          "bank": 34.45
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 25.7
         },
         {
           "rank": 3,
-          "horse": "Aravalli",
+          "horse": "Willow Wood",
           "stars": 3,
-          "odds": "28/1",
-          "jockey": "Taylor Fisher",
-          "trainer": "J Tickle",
-          "total": 31,
+          "odds": "16/5",
+          "jockey": "K Shoemark",
+          "trainer": "E Walker",
+          "dd": 2,
+          "total": 28,
           "boxes": {
-            "life": 31,
+            "life": 11,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": null,
+            "fav": 17,
             "cd": null,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.36,
-          "profit": -0.36,
-          "bank": 34.45
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.26,
+          "profit": 0.5,
+          "bank": 25.7
         }
       ]
     }
@@ -577,20 +595,20 @@
     "picks": 18,
     "races": 6,
     "settled": 18,
-    "won": 4,
-    "placed": 3,
-    "lost": 11,
+    "won": 5,
+    "placed": 5,
+    "lost": 8,
     "nr": 0,
     "pending": 0
   },
-  "staked": 6.15,
-  "returned": 7.12,
-  "profit": 0.97,
+  "staked": 4.41,
+  "returned": 6.36,
+  "profit": 1.95,
   "bank": {
-    "start": 33.48,
-    "end": 34.45,
-    "next_stake": 0.34,
+    "start": 23.75,
+    "end": 25.7,
+    "next_stake": 0.26,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

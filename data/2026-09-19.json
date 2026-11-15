@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:20",
@@ -18,6 +18,7 @@
           "odds": "15/2",
           "jockey": "Jack Callan",
           "trainer": "G Boughey",
+          "dd": 3,
           "total": 70,
           "boxes": {
             "life": 57,
@@ -35,9 +36,9 @@
           },
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.92,
-          "profit": -0.92,
-          "bank": 89.67
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 38.87
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "10/3",
           "jockey": "D Tudhope",
           "trainer": "D O'Meara",
+          "dd": 3,
           "total": 48,
           "boxes": {
             "life": 10,
@@ -63,9 +65,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.92,
-          "profit": -0.15,
-          "bank": 89.67
+          "stake": 0.4,
+          "profit": -0.07,
+          "bank": 38.87
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "11/2",
           "jockey": "Tom Marquand",
           "trainer": "T Coyle & K Wood",
+          "dd": 3,
           "total": 42,
           "boxes": {
             "life": 15,
@@ -91,9 +94,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.92,
-          "profit": -0.92,
-          "bank": 89.67
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 38.87
         }
       ]
     },
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Deep Havana",
-          "stars": 4,
-          "odds": "10/3",
-          "jockey": "James Doyle",
-          "trainer": "H Al Jehani",
-          "total": 98,
-          "boxes": {
-            "life": 60,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 12,
-          "res": "LOSE",
-          "stake": 0.9,
-          "profit": -0.9,
-          "bank": 89.4
-        },
-        {
-          "rank": 2,
           "horse": "Goldmoyne",
           "stars": 3,
           "odds": "22/1",
           "jockey": "Jason Hart",
           "trainer": "James Owen",
+          "dd": 4,
           "total": 81.3,
           "boxes": {
             "life": 20,
@@ -158,17 +134,18 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.9,
-          "profit": 1.53,
-          "bank": 89.4
+          "stake": 0.39,
+          "profit": 0.66,
+          "bank": 38.75
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Desert Falcon",
           "stars": 4,
           "odds": "7/1",
           "jockey": "Ryan Sexton",
           "trainer": "Miss J A Camacho",
+          "dd": 4,
           "total": 45,
           "boxes": {
             "life": 26,
@@ -186,9 +163,38 @@
           },
           "pos": 17,
           "res": "LOSE",
-          "stake": 0.9,
-          "profit": -0.9,
-          "bank": 89.4
+          "stake": 0.39,
+          "profit": -0.39,
+          "bank": 38.75
+        },
+        {
+          "rank": 3,
+          "horse": "Deep Havana",
+          "stars": 4,
+          "odds": "10/3",
+          "jockey": "James Doyle",
+          "trainer": "H Al Jehani",
+          "dd": 3,
+          "total": 98,
+          "boxes": {
+            "life": 60,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.39,
+          "profit": -0.39,
+          "bank": 38.75
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "4/1",
           "jockey": "Jason Hart",
           "trainer": "James Owen",
+          "dd": 5,
           "total": 106.3,
           "boxes": {
             "life": 28,
@@ -225,9 +232,9 @@
           },
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.89,
-          "profit": -0.89,
-          "bank": 88.6
+          "stake": 0.39,
+          "profit": -0.39,
+          "bank": 37.58
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "4/1",
           "jockey": "Tom Marquand",
           "trainer": "W J Haggas",
+          "dd": 3,
           "total": 63,
           "boxes": {
             "life": 20,
@@ -253,37 +261,38 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.89,
-          "profit": -0.89,
-          "bank": 88.6
+          "stake": 0.39,
+          "profit": -0.39,
+          "bank": 37.58
         },
         {
           "rank": 3,
-          "horse": "Tuco Salamanca",
+          "horse": "Stratusnine",
           "stars": 3,
-          "odds": "16/1",
-          "jockey": "Marco Ghiani",
-          "trainer": "Ollie Sangster",
-          "total": 41,
+          "odds": "10/1",
+          "jockey": "C J Whiteley",
+          "trainer": "H Palmer",
+          "dd": 3,
+          "total": 33,
           "boxes": {
-            "life": 36,
+            "life": 15,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": 5,
+            "fav": 8,
+            "cd": 10,
+            "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.89,
-          "profit": 0.98,
-          "bank": 88.6
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.39,
+          "profit": -0.39,
+          "bank": 37.58
         }
       ]
     },
@@ -298,11 +307,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Quest For Fun",
+          "stars": null,
+          "odds": "4/1",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "dd": 4,
+          "total": 30,
+          "boxes": {
+            "life": 11,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.38,
+          "profit": -0.38,
+          "bank": 36.44
+        },
+        {
+          "rank": 2,
           "horse": "Jannas Journey",
           "stars": null,
           "odds": "3/1",
           "jockey": "D Tudhope",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 69,
           "boxes": {
             "life": 26,
@@ -320,17 +359,18 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.89,
-          "profit": -0.89,
-          "bank": 98.57
+          "stake": 0.38,
+          "profit": -0.38,
+          "bank": 36.44
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Dwindling Funds",
           "stars": null,
           "odds": "7/2",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 50,
           "boxes": {
             "life": 23,
@@ -348,37 +388,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.89,
-          "profit": -0.89,
-          "bank": 98.57
-        },
-        {
-          "rank": 3,
-          "horse": "Viper",
-          "stars": null,
-          "odds": "22/1",
-          "jockey": "O J Orr",
-          "trainer": "B Ellison",
-          "total": 43,
-          "boxes": {
-            "life": 38,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.89,
-          "profit": 11.75,
-          "bank": 98.57
+          "stake": 0.38,
+          "profit": -0.38,
+          "bank": 36.44
         }
       ]
     }
@@ -387,20 +399,20 @@
     "picks": 12,
     "races": 4,
     "settled": 12,
-    "won": 1,
-    "placed": 3,
-    "lost": 8,
+    "won": 0,
+    "placed": 2,
+    "lost": 10,
     "nr": 0,
     "pending": 0
   },
-  "staked": 10.8,
-  "returned": 17.71,
-  "profit": 6.91,
+  "staked": 4.68,
+  "returned": 1.38,
+  "profit": -3.3,
   "bank": {
-    "start": 91.66,
-    "end": 98.57,
-    "next_stake": 0.99,
+    "start": 39.74,
+    "end": 36.44,
+    "next_stake": 0.36,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

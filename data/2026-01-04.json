@@ -1,6 +1,6 @@
 {
   "date": "2026-01-04",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:45",
@@ -18,6 +18,7 @@
           "odds": null,
           "jockey": "Joe Anderson",
           "trainer": "Jamie Snowden",
+          "dd": 5,
           "total": 116.67,
           "boxes": {
             "life": 25,
@@ -46,6 +47,7 @@
           "odds": null,
           "jockey": "",
           "trainer": "Jamie Snowden",
+          "dd": 3,
           "total": 102.0,
           "boxes": {
             "life": 30,
@@ -69,14 +71,15 @@
         },
         {
           "rank": 3,
-          "horse": "River Voyage",
+          "horse": "Lightonthewing",
           "stars": null,
           "odds": null,
-          "jockey": "",
-          "trainer": "Miss R Curtis",
+          "jockey": "C P O'Shea",
+          "trainer": "Mrs S Gardner",
+          "dd": 3,
           "total": 27,
           "boxes": {
-            "life": 27,
+            "life": 19,
             "trn": null,
             "jky": null,
             "ht": null,
@@ -84,8 +87,8 @@
             "tjc": null,
             "fav": null,
             "cd": null,
-            "dist": null,
-            "crs": null,
+            "dist": 5,
+            "crs": 3,
             "trnc": null,
             "cjkc": null
           },
@@ -113,6 +116,7 @@
           "odds": "10/3",
           "jockey": "Harry Cobden",
           "trainer": "Miss E C Lavelle",
+          "dd": 5,
           "total": 120.88,
           "boxes": {
             "life": 50,
@@ -141,6 +145,7 @@
           "odds": "6/1",
           "jockey": "S Bowen",
           "trainer": "K Woollacott",
+          "dd": 5,
           "total": 96.0,
           "boxes": {
             "life": 33,
@@ -169,6 +174,7 @@
           "odds": "8/1",
           "jockey": "G Sheehan",
           "trainer": "O Signy",
+          "dd": 4,
           "total": 81.81,
           "boxes": {
             "life": 12,
@@ -203,39 +209,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Laughing John",
-          "stars": 5,
-          "odds": "4/1",
-          "jockey": "James Bowen",
-          "trainer": "N J Henderson",
-          "total": 75.0,
-          "boxes": {
-            "life": 29,
-            "trn": null,
-            "jky": null,
-            "ht": 29.0,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
-        },
-        {
-          "rank": 2,
           "horse": "Tzarmix",
           "stars": 4,
           "odds": "8/1",
           "jockey": "J J Burke",
           "trainer": "A Ralph",
+          "dd": 5,
           "total": 71.59,
           "boxes": {
             "life": 15,
@@ -258,12 +237,42 @@
           "bank": null
         },
         {
+          "rank": 2,
+          "horse": "Laughing John",
+          "stars": 5,
+          "odds": "4/1",
+          "jockey": "James Bowen",
+          "trainer": "N J Henderson",
+          "dd": 3,
+          "total": 75.0,
+          "boxes": {
+            "life": 29,
+            "trn": null,
+            "jky": null,
+            "ht": 29.0,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        },
+        {
           "rank": 3,
           "horse": "Reina Del Mar",
           "stars": 3,
           "odds": "20/1",
           "jockey": "S Bowen",
           "trainer": "Tim Vaughan",
+          "dd": 3,
           "total": 64.0,
           "boxes": {
             "life": 14,
@@ -303,6 +312,7 @@
           "odds": "6/4",
           "jockey": "J J Burke",
           "trainer": "F O'Brien",
+          "dd": 4,
           "total": 98.59,
           "boxes": {
             "life": 25,
@@ -331,6 +341,7 @@
           "odds": "12/1",
           "jockey": "Harry Cobden",
           "trainer": "Dan Horsford",
+          "dd": 3,
           "total": 83.88,
           "boxes": {
             "life": 33,
@@ -359,6 +370,7 @@
           "odds": "9/2",
           "jockey": "S Bowen",
           "trainer": "Miss R Curtis",
+          "dd": 3,
           "total": 67.0,
           "boxes": {
             "life": null,
@@ -397,10 +409,10 @@
   "returned": 0,
   "profit": 0,
   "bank": {
-    "start": 10.49,
-    "end": 10.49,
-    "next_stake": 0.1,
+    "start": 10.52,
+    "end": 10.52,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

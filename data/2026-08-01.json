@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "18:00",
@@ -18,6 +18,7 @@
           "odds": "85/40",
           "jockey": "P J McDonald",
           "trainer": "E Bethell",
+          "dd": 2,
           "total": 48,
           "boxes": {
             "life": 15,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.82,
-          "profit": 1.05,
-          "bank": 83.25
+          "stake": 0.49,
+          "profit": 0.62,
+          "bank": 50.07
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "9/2",
           "jockey": "Mikey Sheehy",
           "trainer": "A Keatley",
+          "dd": 2,
           "total": 38,
           "boxes": {
             "life": 27,
@@ -63,9 +65,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.82,
-          "profit": -0.04,
-          "bank": 83.25
+          "stake": 0.49,
+          "profit": -0.02,
+          "bank": 50.07
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "8/1",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 2,
           "total": 31,
           "boxes": {
             "life": 25,
@@ -91,9 +94,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.82,
-          "profit": 0.25,
-          "bank": 83.25
+          "stake": 0.49,
+          "profit": 0.15,
+          "bank": 50.07
         }
       ]
     },
@@ -108,11 +111,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Manila Scouse",
+          "stars": 4,
+          "odds": "13/2",
+          "jockey": "Sean Kirrane",
+          "trainer": "T D Easterby",
+          "dd": 4,
+          "total": 26,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 49.97
+        },
+        {
+          "rank": 2,
           "horse": "Corolla Point",
           "stars": 5,
           "odds": "3/1",
           "jockey": "P J McDonald",
           "trainer": "E Bethell",
+          "dd": 3,
           "total": 79,
           "boxes": {
             "life": 36,
@@ -130,17 +163,18 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.83,
-          "profit": 1.49,
-          "bank": 83.91
+          "stake": 0.5,
+          "profit": 0.9,
+          "bank": 49.97
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Arklow Lad",
           "stars": 3,
           "odds": "4/1",
           "jockey": "C J Whiteley",
           "trainer": "M Appleby",
+          "dd": 3,
           "total": 51,
           "boxes": {
             "life": 29,
@@ -158,37 +192,9 @@
           },
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 83.91
-        },
-        {
-          "rank": 3,
-          "horse": "Fluorescence",
-          "stars": 4,
-          "odds": "5/1",
-          "jockey": "Gina Mangan",
-          "trainer": "E Bethell",
-          "total": 49,
-          "boxes": {
-            "life": 33,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 11,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.83,
-          "profit": 0.0,
-          "bank": 83.91
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 49.97
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "11/2",
           "jockey": "Kaiya Fraser",
           "trainer": "T Davidson",
+          "dd": 4,
           "total": 64.0,
           "boxes": {
             "life": 15,
@@ -225,9 +232,9 @@
           },
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.84,
-          "profit": -0.84,
-          "bank": 84.25
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 50.17
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "10/1",
           "jockey": "Amie Waugh",
           "trainer": "T Davidson",
+          "dd": 3,
           "total": 60.0,
           "boxes": {
             "life": 15,
@@ -253,9 +261,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.84,
-          "profit": -0.84,
-          "bank": 84.25
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 50.17
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "4/1",
           "jockey": "A Mullen",
           "trainer": "I Jardine",
+          "dd": 3,
           "total": 56,
           "boxes": {
             "life": 18,
@@ -281,9 +290,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.84,
-          "profit": 2.02,
-          "bank": 84.25
+          "stake": 0.5,
+          "profit": 1.2,
+          "bank": 50.17
         }
       ]
     },
@@ -298,11 +307,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Starliner",
+          "stars": 4,
+          "odds": "7/1",
+          "jockey": "Kaiya Fraser",
+          "trainer": "Miss L A Perratt",
+          "dd": 4,
+          "total": 25,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 49.05
+        },
+        {
+          "rank": 2,
           "horse": "Mwafaq",
           "stars": 5,
           "odds": "5/2",
           "jockey": "Ethan Tindall",
           "trainer": "R A Fahey",
+          "dd": 3,
           "total": 66,
           "boxes": {
             "life": 23,
@@ -320,17 +359,18 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.84,
-          "profit": -0.21,
-          "bank": 82.36
+          "stake": 0.5,
+          "profit": -0.12,
+          "bank": 49.05
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Sanafi Zabeel",
           "stars": 4,
           "odds": "3/1",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 45,
           "boxes": {
             "life": 18,
@@ -348,37 +388,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.84,
-          "profit": -0.84,
-          "bank": 82.36
-        },
-        {
-          "rank": 3,
-          "horse": "Rajapour",
-          "stars": 4,
-          "odds": "5/1",
-          "jockey": "Mark Winn",
-          "trainer": "D O'Meara",
-          "total": 30,
-          "boxes": {
-            "life": 14,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 11,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.84,
-          "profit": -0.84,
-          "bank": 82.36
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 49.05
         }
       ]
     },
@@ -398,6 +410,7 @@
           "odds": "11/10",
           "jockey": "C J Whiteley",
           "trainer": "D O'Meara",
+          "dd": 4,
           "total": 53,
           "boxes": {
             "life": 12,
@@ -415,9 +428,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.82,
-          "profit": 0.54,
-          "bank": 81.26
+          "stake": 0.49,
+          "profit": 0.32,
+          "bank": 48.39
         },
         {
           "rank": 2,
@@ -426,6 +439,7 @@
           "odds": "9/2",
           "jockey": "Sean Kirrane",
           "trainer": "T D Easterby",
+          "dd": 3,
           "total": 31,
           "boxes": {
             "life": 15,
@@ -443,37 +457,38 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.82,
-          "profit": -0.82,
-          "bank": 81.26
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.39
         },
         {
           "rank": 3,
-          "horse": "Braes Of Doune",
-          "stars": 4,
-          "odds": "9/2",
-          "jockey": "P Mulrennan",
-          "trainer": "J S Goldie",
-          "total": 27,
+          "horse": "Hostelry",
+          "stars": 3,
+          "odds": "14/1",
+          "jockey": "T Eaves",
+          "trainer": "Mrs R Carr",
+          "dd": 3,
+          "total": 21,
           "boxes": {
-            "life": 10,
+            "life": 13,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 17,
+            "fav": null,
             "cd": null,
-            "dist": null,
-            "crs": null,
+            "dist": 5,
+            "crs": 3,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 4,
+          "pos": 5,
           "res": "LOSE",
-          "stake": 0.82,
-          "profit": -0.82,
-          "bank": 81.26
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.39
         }
       ]
     }
@@ -483,19 +498,19 @@
     "races": 5,
     "settled": 15,
     "won": 4,
-    "placed": 4,
-    "lost": 7,
+    "placed": 3,
+    "lost": 8,
     "nr": 0,
     "pending": 0
   },
-  "staked": 12.45,
-  "returned": 11.72,
-  "profit": -0.73,
+  "staked": 7.44,
+  "returned": 6.51,
+  "profit": -0.93,
   "bank": {
-    "start": 81.99,
-    "end": 81.26,
-    "next_stake": 0.81,
+    "start": 49.32,
+    "end": 48.39,
+    "next_stake": 0.48,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

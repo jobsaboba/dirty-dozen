@@ -1,6 +1,6 @@
 {
   "date": "2026-01-06",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:30",
@@ -18,6 +18,7 @@
           "odds": null,
           "jockey": "Joshua Thompson",
           "trainer": "Micky Hammond",
+          "dd": 3,
           "total": 22.69,
           "boxes": {
             "life": 5,
@@ -46,6 +47,7 @@
           "odds": null,
           "jockey": "Joe Williamson",
           "trainer": "P A Kirby",
+          "dd": 2,
           "total": 19.0,
           "boxes": {
             "life": 14,
@@ -74,6 +76,7 @@
           "odds": null,
           "jockey": "",
           "trainer": "Miss S E Forster",
+          "dd": 2,
           "total": 18,
           "boxes": {
             "life": 8,
@@ -113,6 +116,7 @@
           "odds": null,
           "jockey": "Bruce Lynn",
           "trainer": "N W Alexander",
+          "dd": 2,
           "total": 20.0,
           "boxes": {
             "life": 12,
@@ -141,6 +145,7 @@
           "odds": null,
           "jockey": "",
           "trainer": "L Russell & M Scudamore",
+          "dd": 1,
           "total": 17,
           "boxes": {
             "life": 17,
@@ -169,6 +174,7 @@
           "odds": null,
           "jockey": "",
           "trainer": "N W Alexander",
+          "dd": 1,
           "total": 12,
           "boxes": {
             "life": 12,
@@ -208,6 +214,7 @@
           "odds": null,
           "jockey": "Harry Reed",
           "trainer": "T Davidson",
+          "dd": 4,
           "total": 88.81,
           "boxes": {
             "life": 9,
@@ -236,6 +243,7 @@
           "odds": null,
           "jockey": "",
           "trainer": "James Owen",
+          "dd": 4,
           "total": 73.3,
           "boxes": {
             "life": 12,
@@ -264,6 +272,7 @@
           "odds": null,
           "jockey": "Sean Quinlan",
           "trainer": "N G Richards",
+          "dd": 3,
           "total": 56.0,
           "boxes": {
             "life": 12,
@@ -303,6 +312,7 @@
           "odds": null,
           "jockey": "B S Hughes",
           "trainer": "Micky Hammond",
+          "dd": 3,
           "total": 52.55,
           "boxes": {
             "life": 9,
@@ -326,16 +336,17 @@
         },
         {
           "rank": 2,
-          "horse": "Scots Poet",
+          "horse": "Newport",
           "stars": null,
           "odds": null,
-          "jockey": "",
-          "trainer": "Ewan Whillans",
-          "total": 28,
+          "jockey": "Charlie Maggs",
+          "trainer": "I Jardine",
+          "dd": 3,
+          "total": 24.9,
           "boxes": {
-            "life": 18,
+            "life": 8,
             "trn": null,
-            "jky": null,
+            "jky": 6.9,
             "ht": null,
             "hj": null,
             "tjc": null,
@@ -354,23 +365,24 @@
         },
         {
           "rank": 3,
-          "horse": "Newport",
+          "horse": "National Question",
           "stars": null,
           "odds": null,
-          "jockey": "Charlie Maggs",
-          "trainer": "I Jardine",
-          "total": 24.9,
+          "jockey": "",
+          "trainer": "A Nicol",
+          "dd": 3,
+          "total": 22,
           "boxes": {
-            "life": 8,
+            "life": 14,
             "trn": null,
-            "jky": 6.9,
+            "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
             "fav": null,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
             "trnc": null,
             "cjkc": null
           },
@@ -398,6 +410,7 @@
           "odds": null,
           "jockey": "B S Hughes",
           "trainer": "A Keatley",
+          "dd": 3,
           "total": 65.55,
           "boxes": {
             "life": 22,
@@ -426,6 +439,7 @@
           "odds": null,
           "jockey": "",
           "trainer": "N G Richards",
+          "dd": 1,
           "total": 29.0,
           "boxes": {
             "life": null,
@@ -454,6 +468,7 @@
           "odds": null,
           "jockey": "Kielan Woods",
           "trainer": "Nick Scholfield",
+          "dd": 1,
           "total": 18.37,
           "boxes": {
             "life": null,
@@ -492,10 +507,10 @@
   "returned": 0,
   "profit": 0,
   "bank": {
-    "start": 10.49,
-    "end": 10.49,
-    "next_stake": 0.1,
+    "start": 10.52,
+    "end": 10.52,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

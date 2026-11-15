@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:45",
@@ -18,6 +18,7 @@
           "odds": "9/2",
           "jockey": "Mason Paetel",
           "trainer": "J Butler",
+          "dd": 3,
           "total": 39,
           "boxes": {
             "life": 17,
@@ -35,17 +36,47 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.94,
-          "profit": -0.94,
-          "bank": 93.21
+          "stake": 0.29,
+          "profit": -0.29,
+          "bank": 28.33
         },
         {
           "rank": 2,
+          "horse": "Naturalia",
+          "stars": 3,
+          "odds": "15/2",
+          "jockey": "Shay Farmer",
+          "trainer": "D W Whillans",
+          "dd": 3,
+          "total": 26,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.29,
+          "profit": -0.29,
+          "bank": 28.33
+        },
+        {
+          "rank": 3,
           "horse": "Motawaared",
           "stars": 5,
           "odds": "7/4",
           "jockey": "Lauren Young",
           "trainer": "J S Goldie",
+          "dd": 2,
           "total": 38,
           "boxes": {
             "life": 5,
@@ -63,37 +94,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.94,
-          "profit": 0.99,
-          "bank": 93.21
-        },
-        {
-          "rank": 3,
-          "horse": "Royal Blaze",
-          "stars": 3,
-          "odds": "28/1",
-          "jockey": "William Pyle",
-          "trainer": "Ewan Whillans",
-          "total": 27,
-          "boxes": {
-            "life": 17,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": null,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.94,
-          "profit": -0.94,
-          "bank": 93.21
+          "stake": 0.29,
+          "profit": 0.3,
+          "bank": 28.33
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "2/1",
           "jockey": "H Crouch",
           "trainer": "Cian Hughes",
+          "dd": 3,
           "total": 55,
           "boxes": {
             "life": 17,
@@ -130,9 +134,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.93,
-          "profit": 1.12,
-          "bank": 93.19
+          "stake": 0.28,
+          "profit": 0.34,
+          "bank": 28.33
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "11/4",
           "jockey": "Billy Garritty",
           "trainer": "M & D Easterby",
+          "dd": 2,
           "total": 27,
           "boxes": {
             "life": 10,
@@ -158,9 +163,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.93,
-          "profit": -0.21,
-          "bank": 93.19
+          "stake": 0.28,
+          "profit": -0.06,
+          "bank": 28.33
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "11/2",
           "jockey": "O J Orr",
           "trainer": "R A Fahey",
+          "dd": 2,
           "total": 17,
           "boxes": {
             "life": 9,
@@ -186,9 +192,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 93.19
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 28.33
         }
       ]
     },
@@ -203,67 +209,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Topwarrior",
-          "stars": 5,
-          "odds": "9/4",
-          "jockey": "H Crouch",
-          "trainer": "R M Beckett",
-          "total": 50,
-          "boxes": {
-            "life": 12,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 91.18
-        },
-        {
-          "rank": 2,
-          "horse": "Eye Of Dubai",
-          "stars": 4,
-          "odds": "10/3",
-          "jockey": "Jason Hart",
-          "trainer": "J & S Quinn",
-          "total": 42,
-          "boxes": {
-            "life": 15,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.93,
-          "profit": -0.15,
-          "bank": 91.18
-        },
-        {
-          "rank": 3,
           "horse": "Parisiac",
           "stars": 4,
           "odds": "10/3",
           "jockey": "Jack Nicholls",
           "trainer": "I Jardine",
+          "dd": 4,
           "total": 33,
           "boxes": {
             "life": 14,
@@ -281,9 +232,67 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 91.18
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 27.49
+        },
+        {
+          "rank": 2,
+          "horse": "Dandy Magic",
+          "stars": 3,
+          "odds": "10/1",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "dd": 4,
+          "total": 30,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 27.49
+        },
+        {
+          "rank": 3,
+          "horse": "Topwarrior",
+          "stars": 5,
+          "odds": "9/4",
+          "jockey": "H Crouch",
+          "trainer": "R M Beckett",
+          "dd": 3,
+          "total": 50,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 27.49
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "11/8",
           "jockey": "Jason Hart",
           "trainer": "J & S Quinn",
+          "dd": 3,
           "total": 51,
           "boxes": {
             "life": 15,
@@ -320,9 +330,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.91,
-          "profit": -0.33,
-          "bank": 92.67
+          "stake": 0.27,
+          "profit": -0.1,
+          "bank": 27.93
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "5/1",
           "jockey": "Rhys Elliott",
           "trainer": "G Tutty",
+          "dd": 3,
           "total": 36,
           "boxes": {
             "life": 15,
@@ -348,9 +359,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.91,
-          "profit": -0.91,
-          "bank": 92.67
+          "stake": 0.27,
+          "profit": -0.27,
+          "bank": 27.93
         },
         {
           "rank": 3,
@@ -359,6 +370,7 @@
           "odds": "5/1",
           "jockey": "Billy Garritty",
           "trainer": "M & D Easterby",
+          "dd": 3,
           "total": 34,
           "boxes": {
             "life": 12,
@@ -376,9 +388,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.91,
-          "profit": 2.73,
-          "bank": 92.67
+          "stake": 0.27,
+          "profit": 0.81,
+          "bank": 27.93
         }
       ]
     },
@@ -393,39 +405,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Flying Moonlight",
-          "stars": 3,
-          "odds": "9/2",
-          "jockey": "Greg Fairley",
-          "trainer": "A M Thomson",
-          "total": 44,
-          "boxes": {
-            "life": 11,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.93,
-          "profit": -0.05,
-          "bank": 91.69
-        },
-        {
-          "rank": 2,
           "horse": "Penelope's Sister",
           "stars": 4,
           "odds": "5/1",
           "jockey": "Shay Farmer",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 33,
           "boxes": {
             "life": 12,
@@ -443,17 +428,18 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 91.69
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 27.37
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Keats House",
           "stars": 4,
           "odds": "5/1",
           "jockey": "Billy Garritty",
           "trainer": "M & D Easterby",
+          "dd": 3,
           "total": 30,
           "boxes": {
             "life": 8,
@@ -471,9 +457,38 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.93,
+          "stake": 0.28,
           "profit": 0.0,
-          "bank": 91.69
+          "bank": 27.37
+        },
+        {
+          "rank": 3,
+          "horse": "Blufferonthebus",
+          "stars": 3,
+          "odds": "6/1",
+          "jockey": "S H James",
+          "trainer": "Craig Lidster",
+          "dd": 3,
+          "total": 23,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 27.37
         }
       ]
     }
@@ -483,19 +498,19 @@
     "races": 5,
     "settled": 15,
     "won": 3,
-    "placed": 5,
-    "lost": 7,
+    "placed": 3,
+    "lost": 9,
     "nr": 0,
     "pending": 0
   },
-  "staked": 13.92,
-  "returned": 11.51,
-  "profit": -2.41,
+  "staked": 4.2,
+  "returned": 2.96,
+  "profit": -1.24,
   "bank": {
-    "start": 94.1,
-    "end": 91.69,
-    "next_stake": 0.92,
+    "start": 28.61,
+    "end": 27.37,
+    "next_stake": 0.27,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

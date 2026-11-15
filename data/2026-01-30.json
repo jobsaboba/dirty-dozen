@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:20",
@@ -18,6 +18,7 @@
           "odds": "9/2",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
+          "dd": 6,
           "total": 186.81,
           "boxes": {
             "life": 40,
@@ -35,9 +36,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
-          "profit": -0.01,
-          "bank": 11.81
+          "stake": 0.1,
+          "profit": -0.0,
+          "bank": 10.53
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "5/2",
           "jockey": "S Bowen",
           "trainer": "O Murphy",
+          "dd": 4,
           "total": 77.0,
           "boxes": {
             "life": 10,
@@ -63,9 +65,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "profit": 0.18,
-          "bank": 11.81
+          "stake": 0.1,
+          "profit": 0.15,
+          "bank": 10.53
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "11/10",
           "jockey": "N de Boinville",
           "trainer": "N J Henderson",
+          "dd": 3,
           "total": 74.5,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.81
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.53
         }
       ]
     },
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Trade War",
-          "stars": 3,
-          "odds": "28/1",
-          "jockey": "G Sheehan",
-          "trainer": "Evan Williams",
-          "total": 63.81,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": 32.81,
-            "ht": null,
-            "hj": 31.0,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.52
-        },
-        {
-          "rank": 2,
           "horse": "Turenne",
           "stars": 5,
           "odds": "8/11",
           "jockey": "Jack Tudor",
           "trainer": "D Pipe",
+          "dd": 4,
           "total": 57.55,
           "boxes": {
             "life": 12,
@@ -158,24 +134,54 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.11,
           "profit": -0.05,
-          "bank": 11.52
+          "bank": 10.26
         },
         {
-          "rank": 3,
-          "horse": "Roi Du Roume",
-          "stars": 3,
-          "odds": "17/2",
-          "jockey": "S Bowen",
-          "trainer": "M Bowen",
-          "total": 50.0,
+          "rank": 2,
+          "horse": "Titanium Ring",
+          "stars": 4,
+          "odds": "13/2",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "H D Daly",
+          "dd": 3,
+          "total": 49.05,
           "boxes": {
             "life": null,
             "trn": null,
-            "jky": 25.0,
+            "jky": 21.05,
             "ht": null,
-            "hj": 25.0,
+            "hj": 22.0,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.26
+        },
+        {
+          "rank": 3,
+          "horse": "Trade War",
+          "stars": 3,
+          "odds": "28/1",
+          "jockey": "G Sheehan",
+          "trainer": "Evan Williams",
+          "dd": 2,
+          "total": 63.81,
+          "boxes": {
+            "life": null,
+            "trn": null,
+            "jky": 32.81,
+            "ht": null,
+            "hj": 31.0,
             "tjc": null,
             "fav": null,
             "cd": null,
@@ -184,11 +190,11 @@
             "trnc": null,
             "cjkc": null
           },
-          "pos": 7,
+          "pos": 4,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.52
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.26
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "10/3",
           "jockey": "S Bowen",
           "trainer": "B Pauling",
+          "dd": 4,
           "total": 89.0,
           "boxes": {
             "life": 6,
@@ -236,6 +243,7 @@
           "odds": "5/1",
           "jockey": "G Sheehan",
           "trainer": "Billy Aprahamian",
+          "dd": 4,
           "total": 84.81,
           "boxes": {
             "life": 10,
@@ -253,9 +261,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 12.12
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.76
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "10/1",
           "jockey": "Ben Jones",
           "trainer": "K Woollacott",
+          "dd": 3,
           "total": 29,
           "boxes": {
             "life": 21,
@@ -281,9 +290,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "profit": 0.72,
-          "bank": 12.12
+          "stake": 0.1,
+          "profit": 0.6,
+          "bank": 10.76
         }
       ]
     },
@@ -298,39 +307,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Seasmoke",
-          "stars": 4,
-          "odds": "9/2",
-          "jockey": "G Sheehan",
-          "trainer": "Billy Aprahamian",
-          "total": 86.81,
-          "boxes": {
-            "life": 12,
-            "trn": null,
-            "jky": 32.81,
-            "ht": null,
-            "hj": 31.0,
-            "tjc": null,
-            "fav": 11,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.12,
-          "profit": -0.01,
-          "bank": 12.11
-        },
-        {
-          "rank": 2,
           "horse": "Lady Harriett",
           "stars": 3,
           "odds": "7/2",
           "jockey": "S Bowen",
           "trainer": "M Bowen",
+          "dd": 5,
           "total": 74.0,
           "boxes": {
             "life": 4,
@@ -353,21 +335,51 @@
           "bank": null
         },
         {
-          "rank": 3,
-          "horse": "Fay Ce Que Voudras",
-          "stars": 3,
-          "odds": "7/2",
-          "jockey": "C O'Farrell",
-          "trainer": "Kerry Lee",
-          "total": 54,
+          "rank": 2,
+          "horse": "Seasmoke",
+          "stars": 4,
+          "odds": "9/2",
+          "jockey": "G Sheehan",
+          "trainer": "Billy Aprahamian",
+          "dd": 4,
+          "total": 86.81,
           "boxes": {
-            "life": 21,
+            "life": 12,
             "trn": null,
-            "jky": null,
+            "jky": 32.81,
             "ht": null,
-            "hj": null,
+            "hj": 31.0,
             "tjc": null,
-            "fav": 33,
+            "fav": 11,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": -0.01,
+          "bank": 10.75
+        },
+        {
+          "rank": 3,
+          "horse": "Shesupincourt",
+          "stars": 2,
+          "odds": "11/2",
+          "jockey": "Freddie Mitchell",
+          "trainer": "R Potter",
+          "dd": 4,
+          "total": 50.67,
+          "boxes": {
+            "life": 6,
+            "trn": null,
+            "jky": 16.67,
+            "ht": null,
+            "hj": 20.0,
+            "tjc": null,
+            "fav": 8,
             "cd": null,
             "dist": null,
             "crs": null,
@@ -393,14 +405,14 @@
     "nr": 3,
     "pending": 0
   },
-  "staked": 1.08,
-  "returned": 1.43,
-  "profit": 0.35,
+  "staked": 0.94,
+  "returned": 1.21,
+  "profit": 0.27,
   "bank": {
-    "start": 11.76,
-    "end": 12.11,
-    "next_stake": 0.12,
+    "start": 10.48,
+    "end": 10.75,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

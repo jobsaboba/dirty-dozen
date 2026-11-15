@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "16:30",
@@ -18,6 +18,7 @@
           "odds": "85/40",
           "jockey": "Billy Garritty",
           "trainer": "J & S Quinn",
+          "dd": 1,
           "total": 33,
           "boxes": {
             "life": null,
@@ -35,9 +36,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.38,
-          "profit": -0.38,
-          "bank": 82.72
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 54.54
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "200/1",
           "jockey": "Rhys Elliott",
           "trainer": "J S Goldie",
+          "dd": 1,
           "total": 20,
           "boxes": {
             "life": 20,
@@ -63,9 +65,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.38,
-          "profit": 45.6,
-          "bank": 82.72
+          "stake": 0.25,
+          "profit": 30.0,
+          "bank": 54.54
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "9/4",
           "jockey": "Sean Kirrane",
           "trainer": "T D Easterby",
+          "dd": 1,
           "total": 17,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.38,
-          "profit": -0.38,
-          "bank": 82.72
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 54.54
         }
       ]
     },
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Fans Favourite",
-          "stars": 5,
-          "odds": "11/10",
-          "jockey": "C J Whiteley",
-          "trainer": "H Palmer",
-          "total": 56,
-          "boxes": {
-            "life": 23,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.83,
-          "profit": 0.55,
-          "bank": 82.56
-        },
-        {
-          "rank": 2,
           "horse": "Shifter",
           "stars": 3,
           "odds": "13/2",
           "jockey": "Paula Muir",
           "trainer": "W Storey",
+          "dd": 3,
           "total": 35,
           "boxes": {
             "life": 14,
@@ -158,17 +134,18 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.83,
-          "profit": 0.12,
-          "bank": 82.56
+          "stake": 0.55,
+          "profit": 0.08,
+          "bank": 53.52
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Tap Dancer",
           "stars": 4,
           "odds": "9/2",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 27,
           "boxes": {
             "life": 5,
@@ -186,9 +163,38 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 82.56
+          "stake": 0.55,
+          "profit": -0.55,
+          "bank": 53.52
+        },
+        {
+          "rank": 3,
+          "horse": "Penelope's Sister",
+          "stars": 3,
+          "odds": "9/1",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "dd": 3,
+          "total": 23,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": null,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.55,
+          "profit": -0.55,
+          "bank": 53.52
         }
       ]
     },
@@ -203,67 +209,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Ashen",
-          "stars": 3,
-          "odds": "11/4",
-          "jockey": "P Mulrennan",
-          "trainer": "J S Goldie",
-          "total": 47,
-          "boxes": {
-            "life": 4,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.83,
-          "profit": -0.19,
-          "bank": 81.42
-        },
-        {
-          "rank": 2,
-          "horse": "Novak",
-          "stars": 5,
-          "odds": "10/3",
-          "jockey": "Lauren Young",
-          "trainer": "I Jardine",
-          "total": 39,
-          "boxes": {
-            "life": 12,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 81.42
-        },
-        {
-          "rank": 3,
           "horse": "Glorious Kitty",
           "stars": 3,
           "odds": "7/2",
           "jockey": "Lewis Chalkley",
           "trainer": "M & D Easterby",
+          "dd": 4,
           "total": 29,
           "boxes": {
             "life": 10,
@@ -281,9 +232,67 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.83,
+          "stake": 0.54,
+          "profit": -0.08,
+          "bank": 52.78
+        },
+        {
+          "rank": 2,
+          "horse": "Ashen",
+          "stars": 3,
+          "odds": "11/4",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "dd": 3,
+          "total": 47,
+          "boxes": {
+            "life": 4,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.54,
           "profit": -0.12,
-          "bank": 81.42
+          "bank": 52.78
+        },
+        {
+          "rank": 3,
+          "horse": "Novak",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "Lauren Young",
+          "trainer": "I Jardine",
+          "dd": 3,
+          "total": 39,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.54,
+          "profit": -0.54,
+          "bank": 52.78
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "13/8",
           "jockey": "Jake Dickson",
           "trainer": "G Tutty",
+          "dd": 3,
           "total": 59,
           "boxes": {
             "life": 21,
@@ -320,9 +330,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.81,
-          "profit": 0.79,
-          "bank": 80.59
+          "stake": 0.53,
+          "profit": 0.52,
+          "bank": 52.24
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "4/1",
           "jockey": "D Nolan",
           "trainer": "D O'Meara",
+          "dd": 3,
           "total": 42,
           "boxes": {
             "life": 15,
@@ -348,9 +359,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 80.59
+          "stake": 0.53,
+          "profit": -0.53,
+          "bank": 52.24
         },
         {
           "rank": 3,
@@ -359,6 +370,7 @@
           "odds": "13/2",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 41,
           "boxes": {
             "life": 23,
@@ -376,9 +388,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 80.59
+          "stake": 0.53,
+          "profit": -0.53,
+          "bank": 52.24
         }
       ]
     },
@@ -393,39 +405,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Hunterian",
-          "stars": 5,
-          "odds": "3/1",
-          "jockey": "A Mullen",
-          "trainer": "C Johnston",
-          "total": 42,
-          "boxes": {
-            "life": 9,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.81,
-          "profit": 1.46,
-          "bank": 81.12
-        },
-        {
-          "rank": 2,
           "horse": "Approaching Dawn",
           "stars": 4,
           "odds": "4/1",
           "jockey": "Lauren Young",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 28,
           "boxes": {
             "life": 12,
@@ -443,37 +428,67 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 81.12
+          "stake": 0.52,
+          "profit": -0.52,
+          "bank": 50.68
         },
         {
-          "rank": 3,
-          "horse": "Rory's Gold",
-          "stars": 3,
-          "odds": "7/2",
-          "jockey": "Amie Waugh",
-          "trainer": "S Waugh",
-          "total": 23,
+          "rank": 2,
+          "horse": "Mayor Of Maghera",
+          "stars": 4,
+          "odds": "11/2",
+          "jockey": "D Nolan",
+          "trainer": "R M Smith",
+          "dd": 3,
+          "total": 21,
           "boxes": {
-            "life": 6,
+            "life": 8,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 17,
+            "fav": 8,
             "cd": null,
-            "dist": null,
+            "dist": 5,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.81,
-          "profit": -0.12,
-          "bank": 81.12
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.52,
+          "profit": -0.52,
+          "bank": 50.68
+        },
+        {
+          "rank": 3,
+          "horse": "Braes Of Doune",
+          "stars": 2,
+          "odds": "14/1",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "dd": 3,
+          "total": 18,
+          "boxes": {
+            "life": 10,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": null,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.52,
+          "profit": -0.52,
+          "bank": 50.68
         }
       ]
     },
@@ -488,11 +503,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Billy No Mates",
+          "stars": 3,
+          "odds": "9/2",
+          "jockey": "Rhys Elliott",
+          "trainer": "M Dods",
+          "dd": 3,
+          "total": 18,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": null,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.51,
+          "profit": -0.51,
+          "bank": 50.73
+        },
+        {
+          "rank": 2,
           "horse": "Gallus Norman",
           "stars": 5,
           "odds": "7/2",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 2,
           "total": 36,
           "boxes": {
             "life": 25,
@@ -510,17 +555,18 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.81,
-          "profit": 1.7,
-          "bank": 82.58
+          "stake": 0.51,
+          "profit": 1.07,
+          "bank": 50.73
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Aighear",
           "stars": 3,
           "odds": "15/2",
           "jockey": "Amie Waugh",
           "trainer": "J S Goldie",
+          "dd": 2,
           "total": 24,
           "boxes": {
             "life": 14,
@@ -538,37 +584,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 82.58
-        },
-        {
-          "rank": 3,
-          "horse": "Ebony Maw",
-          "stars": 2,
-          "odds": "12/1",
-          "jockey": "Aiden Brookes",
-          "trainer": "Ewan Whillans",
-          "total": 20,
-          "boxes": {
-            "life": 10,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": null,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.81,
-          "profit": 0.57,
-          "bank": 82.58
+          "stake": 0.51,
+          "profit": -0.51,
+          "bank": 50.73
         }
       ]
     },
@@ -583,39 +601,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Nala The Lioness",
-          "stars": 4,
-          "odds": "11/4",
-          "jockey": "P Mulrennan",
-          "trainer": "D Killahena & G McPherson",
-          "total": 42,
-          "boxes": {
-            "life": 9,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.83,
-          "profit": -0.19,
-          "bank": 83.93
-        },
-        {
-          "rank": 2,
           "horse": "Desert Quest",
           "stars": 4,
           "odds": "7/2",
           "jockey": "Aiden Brookes",
           "trainer": "Ewan Whillans",
+          "dd": 3,
           "total": 36,
           "boxes": {
             "life": 15,
@@ -633,37 +624,67 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.83,
-          "profit": -0.12,
-          "bank": 83.93
+          "stake": 0.51,
+          "profit": -0.08,
+          "bank": 50.03
         },
         {
-          "rank": 3,
-          "horse": "Is She Now",
+          "rank": 2,
+          "horse": "Late Claim",
           "stars": 3,
-          "odds": "10/3",
-          "jockey": "D Nolan",
-          "trainer": "D Bourke",
-          "total": 27,
+          "odds": "13/2",
+          "jockey": "Finlay Bassett",
+          "trainer": "J Mackie",
+          "dd": 3,
+          "total": 18,
           "boxes": {
-            "life": 10,
+            "life": 5,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 17,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.51,
+          "profit": -0.51,
+          "bank": 50.03
+        },
+        {
+          "rank": 3,
+          "horse": "Nala The Lioness",
+          "stars": 4,
+          "odds": "11/4",
+          "jockey": "P Mulrennan",
+          "trainer": "D Killahena & G McPherson",
+          "dd": 2,
+          "total": 42,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
             "cd": null,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.83,
-          "profit": 1.66,
-          "bank": 83.93
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.51,
+          "profit": -0.11,
+          "bank": 50.03
         }
       ]
     }
@@ -672,20 +693,20 @@
     "picks": 21,
     "races": 7,
     "settled": 21,
-    "won": 6,
-    "placed": 7,
-    "lost": 8,
+    "won": 3,
+    "placed": 5,
+    "lost": 13,
     "nr": 0,
     "pending": 0
   },
-  "staked": 15.9,
-  "returned": 61.95,
-  "profit": 46.05,
+  "staked": 10.23,
+  "returned": 35.22,
+  "profit": 24.99,
   "bank": {
-    "start": 37.88,
-    "end": 83.93,
-    "next_stake": 0.84,
+    "start": 25.04,
+    "end": 50.03,
+    "next_stake": 0.5,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

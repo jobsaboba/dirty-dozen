@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "17:15",
@@ -13,39 +13,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Sovereign Beach",
-          "stars": 3,
-          "odds": "15/8",
-          "jockey": "S Donohoe",
-          "trainer": "Ollie Sangster",
-          "total": 33,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 1.05,
-          "profit": -1.05,
-          "bank": 102.83
-        },
-        {
-          "rank": 2,
           "horse": "Q T Boy",
           "stars": 2,
           "odds": "11/2",
           "jockey": "William Carson",
           "trainer": "P D Evans",
+          "dd": 2,
           "total": 22,
           "boxes": {
             "life": 14,
@@ -63,9 +36,38 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.05,
-          "profit": 0.05,
-          "bank": 102.83
+          "stake": 0.48,
+          "profit": 0.02,
+          "bank": 47.24
+        },
+        {
+          "rank": 2,
+          "horse": "Sovereign Beach",
+          "stars": 3,
+          "odds": "15/8",
+          "jockey": "S Donohoe",
+          "trainer": "Ollie Sangster",
+          "dd": 1,
+          "total": 33,
+          "boxes": {
+            "life": null,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.48,
+          "profit": -0.48,
+          "bank": 47.24
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "7/2",
           "jockey": "Oliver Carmichael",
           "trainer": "Eve Johnson Houghton",
+          "dd": 1,
           "total": 17,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.05,
-          "profit": -1.05,
-          "bank": 102.83
+          "stake": 0.48,
+          "profit": -0.48,
+          "bank": 47.24
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "11/4",
           "jockey": "P Cosgrave",
           "trainer": "J Ryan",
+          "dd": 3,
           "total": 47,
           "boxes": {
             "life": 9,
@@ -130,9 +134,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.03,
-          "profit": 1.7,
-          "bank": 103.86
+          "stake": 0.47,
+          "profit": 0.78,
+          "bank": 47.71
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "7/2",
           "jockey": "Finley Marsh",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 33,
           "boxes": {
             "life": 19,
@@ -158,9 +163,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.03,
-          "profit": -1.03,
-          "bank": 103.86
+          "stake": 0.47,
+          "profit": -0.47,
+          "bank": 47.71
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "17/2",
           "jockey": "Ashley Lewis",
           "trainer": "G Harris",
+          "dd": 3,
           "total": 29,
           "boxes": {
             "life": 13,
@@ -186,9 +192,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.03,
-          "profit": 0.36,
-          "bank": 103.86
+          "stake": 0.47,
+          "profit": 0.16,
+          "bank": 47.71
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "7/4",
           "jockey": "Edward Greatrex",
           "trainer": "J G Portman",
+          "dd": 3,
           "total": 48,
           "boxes": {
             "life": 10,
@@ -225,9 +232,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.04,
-          "profit": -0.34,
-          "bank": 102.43
+          "stake": 0.48,
+          "profit": -0.16,
+          "bank": 47.05
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "9/2",
           "jockey": "Finley Marsh",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 23,
           "boxes": {
             "life": 7,
@@ -253,9 +261,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.04,
-          "profit": -0.05,
-          "bank": 102.43
+          "stake": 0.48,
+          "profit": -0.02,
+          "bank": 47.05
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "17/2",
           "jockey": "Liam Wright",
           "trainer": "John Berry",
+          "dd": 3,
           "total": 23,
           "boxes": {
             "life": 12,
@@ -281,9 +290,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.04,
-          "profit": -1.04,
-          "bank": 102.43
+          "stake": 0.48,
+          "profit": -0.48,
+          "bank": 47.05
         }
       ]
     }
@@ -298,14 +307,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 9.36,
-  "returned": 6.91,
-  "profit": -2.45,
+  "staked": 4.29,
+  "returned": 3.16,
+  "profit": -1.13,
   "bank": {
-    "start": 104.88,
-    "end": 102.43,
-    "next_stake": 1.02,
+    "start": 48.18,
+    "end": 47.05,
+    "next_stake": 0.47,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

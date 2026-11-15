@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:47",
@@ -18,6 +18,7 @@
           "odds": "9/2",
           "jockey": "Rowan Scott",
           "trainer": "T Davidson",
+          "dd": 4,
           "total": 84.0,
           "boxes": {
             "life": 30,
@@ -35,65 +36,67 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.05,
-          "profit": 2.84,
-          "bank": 106.83
+          "stake": 0.34,
+          "profit": 0.92,
+          "bank": 34.18
         },
         {
           "rank": 2,
-          "horse": "Rewired",
-          "stars": 1,
-          "odds": "100/1",
-          "jockey": "J Garritty",
-          "trainer": "T Davidson",
-          "total": 61.0,
+          "horse": "Humble Spark",
+          "stars": 3,
+          "odds": "4/1",
+          "jockey": "Lauren Young",
+          "trainer": "J S Goldie",
+          "dd": 4,
+          "total": 39,
           "boxes": {
-            "life": 21,
-            "trn": null,
-            "jky": null,
-            "ht": 40.0,
-            "hj": null,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 11,
-          "res": "LOSE",
-          "stake": 1.05,
-          "profit": -1.05,
-          "bank": 106.83
-        },
-        {
-          "rank": 3,
-          "horse": "Unchartedterritory",
-          "stars": 4,
-          "odds": "7/2",
-          "jockey": "D Tudhope",
-          "trainer": "D O'Meara",
-          "total": 43,
-          "boxes": {
-            "life": 10,
+            "life": 14,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 33,
+            "fav": 17,
             "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.34,
+          "profit": -0.34,
+          "bank": 34.18
+        },
+        {
+          "rank": 3,
+          "horse": "Spanish Hustle",
+          "stars": 4,
+          "odds": "15/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "dd": 3,
+          "total": 29,
+          "boxes": {
+            "life": 13,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": 10,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 1.05,
-          "profit": -0.16,
-          "bank": 106.83
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.34,
+          "profit": -0.34,
+          "bank": 34.18
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "11/4",
           "jockey": "Saffie Osborne",
           "trainer": "D Menuisier",
+          "dd": 2,
           "total": 44,
           "boxes": {
             "life": 11,
@@ -130,9 +134,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.07,
-          "profit": -0.24,
-          "bank": 107.77
+          "stake": 0.34,
+          "profit": -0.08,
+          "bank": 34.47
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "9/2",
           "jockey": "Jack Doughty",
           "trainer": "Dr R Newland",
+          "dd": 2,
           "total": 31,
           "boxes": {
             "life": 20,
@@ -158,9 +163,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.07,
-          "profit": -1.07,
-          "bank": 107.77
+          "stake": 0.34,
+          "profit": -0.34,
+          "bank": 34.47
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "7/2",
           "jockey": "Oisin Murphy",
           "trainer": "B R Millman",
+          "dd": 2,
           "total": 30,
           "boxes": {
             "life": 13,
@@ -186,9 +192,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.07,
-          "profit": 2.25,
-          "bank": 107.77
+          "stake": 0.34,
+          "profit": 0.71,
+          "bank": 34.47
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "6/5",
           "jockey": "D Tudhope",
           "trainer": "H Bethell",
+          "dd": 3,
           "total": 73,
           "boxes": {
             "life": 30,
@@ -225,9 +232,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.08,
-          "profit": -0.41,
-          "bank": 110.82
+          "stake": 0.34,
+          "profit": -0.13,
+          "bank": 35.43
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "4/1",
           "jockey": "Oliver Stammers",
           "trainer": "Grant Tuer",
+          "dd": 3,
           "total": 38,
           "boxes": {
             "life": 16,
@@ -253,9 +261,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.08,
-          "profit": -1.08,
-          "bank": 110.82
+          "stake": 0.34,
+          "profit": -0.34,
+          "bank": 35.43
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "7/1",
           "jockey": "K Stott",
           "trainer": "K A Ryan",
+          "dd": 3,
           "total": 35,
           "boxes": {
             "life": 17,
@@ -281,9 +290,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.08,
-          "profit": 4.54,
-          "bank": 110.82
+          "stake": 0.34,
+          "profit": 1.43,
+          "bank": 35.43
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "5/2",
           "jockey": "Tom Marquand",
           "trainer": "A W Carroll",
+          "dd": 3,
           "total": 34,
           "boxes": {
             "life": 12,
@@ -320,9 +330,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.11,
-          "profit": 1.67,
-          "bank": 110.27
+          "stake": 0.35,
+          "profit": 0.53,
+          "bank": 35.26
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "7/2",
           "jockey": "Charlie Tucker",
           "trainer": "B J Llewellyn",
+          "dd": 3,
           "total": 18,
           "boxes": {
             "life": 5,
@@ -348,9 +359,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.11,
-          "profit": -1.11,
-          "bank": 110.27
+          "stake": 0.35,
+          "profit": -0.35,
+          "bank": 35.26
         },
         {
           "rank": 3,
@@ -359,6 +370,7 @@
           "odds": "15/2",
           "jockey": "David Probert",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 18,
           "boxes": {
             "life": 7,
@@ -376,9 +388,9 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.11,
-          "profit": -1.11,
-          "bank": 110.27
+          "stake": 0.35,
+          "profit": -0.35,
+          "bank": 35.26
         }
       ]
     },
@@ -398,6 +410,7 @@
           "odds": "9/4",
           "jockey": "Oisin Murphy",
           "trainer": "G Brown",
+          "dd": 3,
           "total": 42,
           "boxes": {
             "life": 4,
@@ -415,9 +428,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.1,
-          "profit": -0.3,
-          "bank": 108.76
+          "stake": 0.35,
+          "profit": -0.1,
+          "bank": 34.46
         },
         {
           "rank": 2,
@@ -426,6 +439,7 @@
           "odds": "7/2",
           "jockey": "Charlie Tucker",
           "trainer": "B J Llewellyn",
+          "dd": 3,
           "total": 26,
           "boxes": {
             "life": 4,
@@ -443,37 +457,38 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.1,
-          "profit": -1.1,
-          "bank": 108.76
+          "stake": 0.35,
+          "profit": -0.35,
+          "bank": 34.46
         },
         {
           "rank": 3,
-          "horse": "Wellwhatshappenin",
-          "stars": 3,
+          "horse": "Angel's Call",
+          "stars": 4,
           "odds": "4/1",
-          "jockey": "Zoe Lewis",
-          "trainer": "D Flood",
-          "total": 23,
+          "jockey": "K T O'Neill",
+          "trainer": "Mrs N S Evans",
+          "dd": 3,
+          "total": 19,
           "boxes": {
-            "life": 12,
+            "life": 8,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 11,
+            "fav": 8,
             "cd": null,
             "dist": null,
-            "crs": null,
+            "crs": 3,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 1.1,
-          "profit": -0.11,
-          "bank": 108.76
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.35,
+          "profit": -0.35,
+          "bank": 34.46
         }
       ]
     },
@@ -493,6 +508,7 @@
           "odds": "11/8",
           "jockey": "Charlie Tucker",
           "trainer": "B J Llewellyn",
+          "dd": 3,
           "total": 57,
           "boxes": {
             "life": 14,
@@ -510,9 +526,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.09,
-          "profit": 0.9,
-          "bank": 108.2
+          "stake": 0.34,
+          "profit": 0.28,
+          "bank": 34.29
         },
         {
           "rank": 2,
@@ -521,6 +537,7 @@
           "odds": "13/8",
           "jockey": "C J Whiteley",
           "trainer": "Gihan Arnolda",
+          "dd": 3,
           "total": 29,
           "boxes": {
             "life": 7,
@@ -538,9 +555,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.09,
-          "profit": -0.37,
-          "bank": 108.2
+          "stake": 0.34,
+          "profit": -0.11,
+          "bank": 34.29
         },
         {
           "rank": 3,
@@ -549,6 +566,7 @@
           "odds": "11/1",
           "jockey": "Jack Nicholls",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 27,
           "boxes": {
             "life": 11,
@@ -566,9 +584,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.09,
-          "profit": -1.09,
-          "bank": 108.2
+          "stake": 0.34,
+          "profit": -0.34,
+          "bank": 34.29
         }
       ]
     }
@@ -578,19 +596,19 @@
     "races": 6,
     "settled": 18,
     "won": 5,
-    "placed": 6,
-    "lost": 7,
+    "placed": 4,
+    "lost": 9,
     "nr": 0,
     "pending": 0
   },
-  "staked": 19.5,
-  "returned": 22.5,
-  "profit": 3.0,
+  "staked": 6.18,
+  "returned": 6.53,
+  "profit": 0.35,
   "bank": {
-    "start": 105.2,
-    "end": 108.2,
-    "next_stake": 1.08,
+    "start": 33.94,
+    "end": 34.29,
+    "next_stake": 0.34,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

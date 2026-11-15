@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "15:55",
@@ -18,6 +18,7 @@
           "odds": "3/1",
           "jockey": "Ella McGarry",
           "trainer": "N G Richards",
+          "dd": 3,
           "total": 73.0,
           "boxes": {
             "life": 11,
@@ -35,9 +36,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.09,
-          "profit": -0.22,
-          "bank": 111.02
+          "stake": 0.26,
+          "profit": -0.05,
+          "bank": 26.42
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "11/2",
           "jockey": "Gregor Walkingshaw",
           "trainer": "L Russell & M Scudamore",
+          "dd": 3,
           "total": 56.0,
           "boxes": {
             "life": 18,
@@ -63,9 +65,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.09,
-          "profit": 3.6,
-          "bank": 111.02
+          "stake": 0.26,
+          "profit": 0.86,
+          "bank": 26.42
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "4/1",
           "jockey": "Miss Megan Davies",
           "trainer": "L Russell & M Scudamore",
+          "dd": 3,
           "total": 34,
           "boxes": {
             "life": 14,
@@ -91,9 +94,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.09,
-          "profit": -1.09,
-          "bank": 111.02
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 26.42
         }
       ]
     }
@@ -108,14 +111,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 3.27,
-  "returned": 5.56,
-  "profit": 2.29,
+  "staked": 0.78,
+  "returned": 1.33,
+  "profit": 0.55,
   "bank": {
-    "start": 108.73,
-    "end": 111.02,
-    "next_stake": 1.11,
+    "start": 25.87,
+    "end": 26.42,
+    "next_stake": 0.26,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "17:45",
@@ -18,6 +18,7 @@
           "odds": "6/4",
           "jockey": "Gina Mangan",
           "trainer": "C Mason",
+          "dd": 3,
           "total": 58,
           "boxes": {
             "life": 15,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.78,
-          "profit": 0.7,
-          "bank": 77.55
+          "stake": 0.49,
+          "profit": 0.44,
+          "bank": 48.72
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "5/2",
           "jockey": "K T O'Neill",
           "trainer": "S Dixon",
+          "dd": 3,
           "total": 30,
           "boxes": {
             "life": 3,
@@ -63,9 +65,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.78,
-          "profit": -0.19,
-          "bank": 77.55
+          "stake": 0.49,
+          "profit": -0.12,
+          "bank": 48.72
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "16/1",
           "jockey": "Oliver Searle",
           "trainer": "B R Millman",
+          "dd": 3,
           "total": 18,
           "boxes": {
             "life": 10,
@@ -91,9 +94,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.78,
-          "profit": -0.78,
-          "bank": 77.55
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.72
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "11/8",
           "jockey": "Jason Watson",
           "trainer": "M Appleby",
+          "dd": 3,
           "total": 55,
           "boxes": {
             "life": 17,
@@ -130,9 +134,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.78,
-          "profit": -0.78,
-          "bank": 79.81
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 49.36
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "11/2",
           "jockey": "Jack Doughty",
           "trainer": "B R Millman",
+          "dd": 3,
           "total": 37,
           "boxes": {
             "life": 21,
@@ -158,37 +163,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.78,
-          "profit": 2.57,
-          "bank": 79.81
+          "stake": 0.49,
+          "profit": 1.62,
+          "bank": 49.36
         },
         {
           "rank": 3,
-          "horse": "Grey Horizon",
+          "horse": "Evie Ross",
           "stars": 2,
-          "odds": "11/1",
-          "jockey": "K T O'Neill",
-          "trainer": "S Dixon",
-          "total": 30,
+          "odds": "7/1",
+          "jockey": "Jack Nicholls",
+          "trainer": "C G Cox",
+          "dd": 3,
+          "total": 23,
           "boxes": {
-            "life": 25,
+            "life": 12,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": null,
+            "fav": 8,
             "cd": null,
-            "dist": 5,
-            "crs": null,
+            "dist": null,
+            "crs": 3,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.78,
-          "profit": 0.47,
-          "bank": 79.81
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 49.36
         }
       ]
     }
@@ -198,19 +204,19 @@
     "races": 2,
     "settled": 6,
     "won": 2,
-    "placed": 2,
-    "lost": 2,
+    "placed": 1,
+    "lost": 3,
     "nr": 0,
     "pending": 0
   },
-  "staked": 4.68,
-  "returned": 6.67,
-  "profit": 1.99,
+  "staked": 2.94,
+  "returned": 3.41,
+  "profit": 0.47,
   "bank": {
-    "start": 77.82,
-    "end": 79.81,
-    "next_stake": 0.8,
+    "start": 48.89,
+    "end": 49.36,
+    "next_stake": 0.49,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

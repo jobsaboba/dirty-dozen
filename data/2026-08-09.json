@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:41",
@@ -18,6 +18,7 @@
           "odds": "5/1",
           "jockey": "Finley Marsh",
           "trainer": "Ollie Sangster",
+          "dd": 3,
           "total": 49,
           "boxes": {
             "life": 38,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.92,
-          "profit": 2.76,
-          "bank": 94.16
+          "stake": 0.46,
+          "profit": 1.38,
+          "bank": 47.59
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "11/4",
           "jockey": "P J Dobbs",
           "trainer": "Dylan Cunha",
+          "dd": 1,
           "total": 33,
           "boxes": {
             "life": null,
@@ -63,9 +65,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.92,
-          "profit": -0.21,
-          "bank": 94.16
+          "stake": 0.46,
+          "profit": -0.1,
+          "bank": 47.59
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "10/3",
           "jockey": "Pierre-Louis Jamin",
           "trainer": "A Watson",
+          "dd": 1,
           "total": 17,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.92,
-          "profit": -0.15,
-          "bank": 94.16
+          "stake": 0.46,
+          "profit": -0.08,
+          "bank": 47.59
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "11/4",
           "jockey": "Donagh Murphy",
           "trainer": "John O'Donoghue",
+          "dd": 2,
           "total": 50,
           "boxes": {
             "life": 33,
@@ -130,45 +134,18 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.94,
-          "profit": 1.55,
-          "bank": 95.6
+          "stake": 0.48,
+          "profit": 0.79,
+          "bank": 48.32
         },
         {
           "rank": 2,
-          "horse": "Global Success",
-          "stars": 5,
-          "odds": "5/4",
-          "jockey": "Taylor Fisher",
-          "trainer": "J S Moore",
-          "total": 33,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.94,
-          "profit": -0.35,
-          "bank": 95.6
-        },
-        {
-          "rank": 3,
           "horse": "Bahia Bonita",
           "stars": 4,
           "odds": "15/2",
           "jockey": "Finley Marsh",
           "trainer": "Jack Jones",
+          "dd": 2,
           "total": 33,
           "boxes": {
             "life": 25,
@@ -186,9 +163,38 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.94,
-          "profit": 0.24,
-          "bank": 95.6
+          "stake": 0.48,
+          "profit": 0.12,
+          "bank": 48.32
+        },
+        {
+          "rank": 3,
+          "horse": "Global Success",
+          "stars": 5,
+          "odds": "5/4",
+          "jockey": "Taylor Fisher",
+          "trainer": "J S Moore",
+          "dd": 1,
+          "total": 33,
+          "boxes": {
+            "life": null,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.48,
+          "profit": -0.18,
+          "bank": 48.32
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "7/4",
           "jockey": "Callum Shepherd",
           "trainer": "T Culhane & S Barclay",
+          "dd": 3,
           "total": 60,
           "boxes": {
             "life": 22,
@@ -225,9 +232,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.96,
-          "profit": -0.31,
-          "bank": 98.36
+          "stake": 0.48,
+          "profit": -0.16,
+          "bank": 49.69
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "4/1",
           "jockey": "P Cosgrave",
           "trainer": "Adam Kirby",
+          "dd": 3,
           "total": 44,
           "boxes": {
             "life": 24,
@@ -253,9 +261,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.96,
-          "profit": -0.1,
-          "bank": 98.36
+          "stake": 0.48,
+          "profit": -0.05,
+          "bank": 49.69
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "11/2",
           "jockey": "Rose Dawes",
           "trainer": "M D I Usher",
+          "dd": 3,
           "total": 25,
           "boxes": {
             "life": 12,
@@ -281,9 +290,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.96,
-          "profit": 3.17,
-          "bank": 98.36
+          "stake": 0.48,
+          "profit": 1.58,
+          "bank": 49.69
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "9/4",
           "jockey": "Callum Shepherd",
           "trainer": "M Murphy",
+          "dd": 3,
           "total": 62,
           "boxes": {
             "life": 19,
@@ -320,9 +330,9 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.98,
-          "profit": -0.98,
-          "bank": 95.42
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 48.19
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "5/1",
           "jockey": "George Wood",
           "trainer": "B R Millman",
+          "dd": 3,
           "total": 38,
           "boxes": {
             "life": 11,
@@ -348,9 +359,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.98,
-          "profit": -0.98,
-          "bank": 95.42
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 48.19
         },
         {
           "rank": 3,
@@ -359,6 +370,7 @@
           "odds": "11/2",
           "jockey": "Charlie Tucker",
           "trainer": "B J Llewellyn",
+          "dd": 3,
           "total": 23,
           "boxes": {
             "life": 5,
@@ -376,9 +388,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.98,
-          "profit": -0.98,
-          "bank": 95.42
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 48.19
         }
       ]
     }
@@ -393,14 +405,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 11.4,
-  "returned": 15.06,
-  "profit": 3.66,
+  "staked": 5.76,
+  "returned": 7.56,
+  "profit": 1.8,
   "bank": {
-    "start": 91.76,
-    "end": 95.42,
-    "next_stake": 0.95,
+    "start": 46.39,
+    "end": 48.19,
+    "next_stake": 0.48,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

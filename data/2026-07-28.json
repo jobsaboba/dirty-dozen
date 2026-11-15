@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "17:00",
@@ -18,6 +18,7 @@
           "odds": "4/1",
           "jockey": "Mason Paetel",
           "trainer": "James Owen",
+          "dd": 4,
           "total": 122.3,
           "boxes": {
             "life": 33,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.83,
-          "profit": 1.99,
-          "bank": 83.25
+          "stake": 0.49,
+          "profit": 1.18,
+          "bank": 48.92
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "9/2",
           "jockey": "Callum Hutchinson",
           "trainer": "Eve Johnson Houghton",
+          "dd": 1,
           "total": 17,
           "boxes": {
             "life": null,
@@ -63,9 +65,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 83.25
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.92
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "9/2",
           "jockey": "Jason Watson",
           "trainer": "B J Meehan",
+          "dd": 1,
           "total": 11,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 83.25
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.92
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "15/8",
           "jockey": "Mason Paetel",
           "trainer": "James Owen",
+          "dd": 4,
           "total": 80.3,
           "boxes": {
             "life": 7,
@@ -130,9 +134,9 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 80.76
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.58
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "15/8",
           "jockey": "Callum Hutchinson",
           "trainer": "Faye Bramley",
+          "dd": 4,
           "total": 62,
           "boxes": {
             "life": 21,
@@ -158,37 +163,38 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 80.76
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.58
         },
         {
           "rank": 3,
-          "horse": "Just Adair",
+          "horse": "Buck Barrow",
           "stars": 3,
-          "odds": "7/2",
-          "jockey": "Jason Watson",
-          "trainer": "J & A O'Neill",
-          "total": 29,
+          "odds": "18/1",
+          "jockey": "Finley Marsh",
+          "trainer": "A Wintle",
+          "dd": 3,
+          "total": 23,
           "boxes": {
-            "life": 18,
+            "life": 7,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 11,
-            "cd": null,
+            "fav": 6,
+            "cd": 10,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 80.76
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.49,
+          "profit": 0.64,
+          "bank": 48.58
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "15/8",
           "jockey": "Finley Marsh",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 50,
           "boxes": {
             "life": 12,
@@ -225,9 +232,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.81,
-          "profit": 0.91,
-          "bank": 81.02
+          "stake": 0.49,
+          "profit": 0.55,
+          "bank": 48.74
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "7/1",
           "jockey": "Tyler Heard",
           "trainer": "G Harris",
+          "dd": 3,
           "total": 39,
           "boxes": {
             "life": 26,
@@ -253,9 +261,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.81,
-          "profit": 0.16,
-          "bank": 81.02
+          "stake": 0.49,
+          "profit": 0.1,
+          "bank": 48.74
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "11/4",
           "jockey": "Taryn Langley",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 35,
           "boxes": {
             "life": 8,
@@ -281,9 +290,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 81.02
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.74
         }
       ]
     }
@@ -293,19 +302,19 @@
     "races": 3,
     "settled": 9,
     "won": 2,
-    "placed": 1,
-    "lost": 6,
+    "placed": 2,
+    "lost": 5,
     "nr": 0,
     "pending": 0
   },
-  "staked": 7.41,
-  "returned": 5.51,
-  "profit": -1.9,
+  "staked": 4.41,
+  "returned": 4.43,
+  "profit": 0.02,
   "bank": {
-    "start": 82.92,
-    "end": 81.02,
-    "next_stake": 0.81,
+    "start": 48.72,
+    "end": 48.74,
+    "next_stake": 0.49,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:18",
@@ -18,6 +18,7 @@
           "odds": "6/5",
           "jockey": "J Mitchell",
           "trainer": "R M Smith",
+          "dd": 3,
           "total": 55,
           "boxes": {
             "life": 12,
@@ -35,9 +36,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.84,
-          "profit": -0.32,
-          "bank": 84.79
+          "stake": 0.5,
+          "profit": -0.19,
+          "bank": 50.54
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "4/1",
           "jockey": "Billy Garritty",
           "trainer": "M & D Easterby",
+          "dd": 3,
           "total": 33,
           "boxes": {
             "life": 17,
@@ -63,9 +65,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.84,
-          "profit": 2.02,
-          "bank": 84.79
+          "stake": 0.5,
+          "profit": 1.2,
+          "bank": 50.54
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "3/1",
           "jockey": "Amie Waugh",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 28,
           "boxes": {
             "life": 6,
@@ -91,9 +94,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.84,
-          "profit": -0.84,
-          "bank": 84.79
+          "stake": 0.5,
+          "profit": -0.5,
+          "bank": 50.54
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "4/1",
           "jockey": "S H James",
           "trainer": "K P De Foy",
+          "dd": 3,
           "total": 65,
           "boxes": {
             "life": 43,
@@ -130,45 +134,18 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.85,
-          "profit": 2.04,
-          "bank": 85.75
+          "stake": 0.51,
+          "profit": 1.22,
+          "bank": 51.11
         },
         {
           "rank": 2,
-          "horse": "Divine Knight",
-          "stars": 3,
-          "odds": "9/4",
-          "jockey": "Harry Davies",
-          "trainer": "W J Haggas",
-          "total": 50,
-          "boxes": {
-            "life": 17,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.85,
-          "profit": -0.23,
-          "bank": 85.75
-        },
-        {
-          "rank": 3,
           "horse": "Dancingwithmyself",
           "stars": 3,
           "odds": "6/1",
           "jockey": "O J Orr",
           "trainer": "M L W Bell",
+          "dd": 3,
           "total": 40,
           "boxes": {
             "life": 24,
@@ -186,9 +163,38 @@
           },
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.85,
-          "profit": -0.85,
-          "bank": 85.75
+          "stake": 0.51,
+          "profit": -0.51,
+          "bank": 51.11
+        },
+        {
+          "rank": 3,
+          "horse": "Divine Knight",
+          "stars": 3,
+          "odds": "9/4",
+          "jockey": "Harry Davies",
+          "trainer": "W J Haggas",
+          "dd": 2,
+          "total": 50,
+          "boxes": {
+            "life": 17,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.51,
+          "profit": -0.14,
+          "bank": 51.11
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "11/10",
           "jockey": "D Allan",
           "trainer": "T D Easterby",
+          "dd": 3,
           "total": 53,
           "boxes": {
             "life": 15,
@@ -225,9 +232,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.86,
-          "profit": 0.57,
-          "bank": 86.54
+          "stake": 0.51,
+          "profit": 0.34,
+          "bank": 51.57
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "9/2",
           "jockey": "Amie Waugh",
           "trainer": "S Waugh",
+          "dd": 3,
           "total": 28,
           "boxes": {
             "life": 6,
@@ -253,9 +261,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.86,
-          "profit": -0.04,
-          "bank": 86.54
+          "stake": 0.51,
+          "profit": -0.03,
+          "bank": 51.57
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "8/1",
           "jockey": "P Mulrennan",
           "trainer": "Miss L A Perratt",
+          "dd": 2,
           "total": 22,
           "boxes": {
             "life": 12,
@@ -281,9 +290,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.86,
-          "profit": 0.26,
-          "bank": 86.54
+          "stake": 0.51,
+          "profit": 0.15,
+          "bank": 51.57
         }
       ]
     },
@@ -298,39 +307,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Rose Of Honour",
-          "stars": 4,
-          "odds": "6/1",
-          "jockey": "Lewis Edmunds",
-          "trainer": "J Tate",
-          "total": 68,
-          "boxes": {
-            "life": 60,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 8,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 10,
-          "res": "LOSE",
-          "stake": 0.87,
-          "profit": -0.87,
-          "bank": 84.48
-        },
-        {
-          "rank": 2,
           "horse": "Beautiful Diamond",
           "stars": 5,
           "odds": "11/8",
           "jockey": "S H James",
           "trainer": "K R Burke",
+          "dd": 3,
           "total": 65,
           "boxes": {
             "life": 22,
@@ -348,17 +330,18 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.87,
-          "profit": -0.32,
-          "bank": 84.48
+          "stake": 0.52,
+          "profit": -0.19,
+          "bank": 53.36
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Kinswoman",
           "stars": 3,
           "odds": "6/1",
           "jockey": "Harry Davies",
           "trainer": "W J Haggas",
+          "dd": 3,
           "total": 43,
           "boxes": {
             "life": 27,
@@ -376,9 +359,38 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.87,
-          "profit": -0.87,
-          "bank": 84.48
+          "stake": 0.52,
+          "profit": -0.52,
+          "bank": 53.36
+        },
+        {
+          "rank": 3,
+          "horse": "Argentine Tango",
+          "stars": 3,
+          "odds": "8/1",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "dd": 3,
+          "total": 30,
+          "boxes": {
+            "life": 19,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.52,
+          "profit": 2.5,
+          "bank": 53.36
         }
       ]
     },
@@ -398,6 +410,7 @@
           "odds": "11/2",
           "jockey": "O J Orr",
           "trainer": "R A Fahey",
+          "dd": 2,
           "total": 36,
           "boxes": {
             "life": 25,
@@ -415,45 +428,18 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.84,
-          "profit": -0.84,
-          "bank": 83.23
+          "stake": 0.53,
+          "profit": -0.53,
+          "bank": 54.65
         },
         {
           "rank": 2,
-          "horse": "Milford Grange",
-          "stars": 5,
-          "odds": "7/4",
-          "jockey": "Billy Garritty",
-          "trainer": "M & D Easterby",
-          "total": 33,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.84,
-          "profit": -0.27,
-          "bank": 83.23
-        },
-        {
-          "rank": 3,
           "horse": "Ellie's De Vega",
           "stars": 4,
           "odds": "10/3",
           "jockey": "Barry McHugh",
           "trainer": "N Wilson",
+          "dd": 2,
           "total": 28,
           "boxes": {
             "life": 11,
@@ -471,9 +457,38 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.84,
-          "profit": -0.14,
-          "bank": 83.23
+          "stake": 0.53,
+          "profit": -0.09,
+          "bank": 54.65
+        },
+        {
+          "rank": 3,
+          "horse": "Circle Of Trust",
+          "stars": 3,
+          "odds": "6/1",
+          "jockey": "T Eaves",
+          "trainer": "K A Ryan",
+          "dd": 2,
+          "total": 18,
+          "boxes": {
+            "life": 10,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.53,
+          "profit": 1.91,
+          "bank": 54.65
         }
       ]
     },
@@ -488,11 +503,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Parisiac",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Cara Tuke",
+          "trainer": "I Jardine",
+          "dd": 4,
+          "total": 33,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.55,
+          "profit": 0.06,
+          "bank": 53.61
+        },
+        {
+          "rank": 2,
           "horse": "Eternal Sunshine",
           "stars": 2,
           "odds": "10/3",
           "jockey": "Lauren Young",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 63,
           "boxes": {
             "life": 20,
@@ -510,17 +555,18 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 84.81
+          "stake": 0.55,
+          "profit": -0.55,
+          "bank": 53.61
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Aberama Gold",
           "stars": 3,
           "odds": "9/2",
           "jockey": "Mark Winn",
           "trainer": "D O'Meara",
+          "dd": 3,
           "total": 40,
           "boxes": {
             "life": 13,
@@ -538,37 +584,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.83,
-          "profit": -0.83,
-          "bank": 84.81
-        },
-        {
-          "rank": 3,
-          "horse": "Novamay",
-          "stars": 4,
-          "odds": "13/2",
-          "jockey": "Rhys Elliott",
-          "trainer": "M Dods",
-          "total": 39,
-          "boxes": {
-            "life": 23,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 6,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.83,
-          "profit": 3.24,
-          "bank": 84.81
+          "stake": 0.55,
+          "profit": -0.55,
+          "bank": 53.61
         }
       ]
     }
@@ -577,20 +595,20 @@
     "picks": 18,
     "races": 6,
     "settled": 18,
-    "won": 4,
+    "won": 5,
     "placed": 7,
-    "lost": 7,
+    "lost": 6,
     "nr": 0,
     "pending": 0
   },
-  "staked": 15.27,
-  "returned": 16.15,
-  "profit": 0.88,
+  "staked": 9.36,
+  "returned": 12.94,
+  "profit": 3.58,
   "bank": {
-    "start": 83.93,
-    "end": 84.81,
-    "next_stake": 0.85,
+    "start": 50.03,
+    "end": 53.61,
+    "next_stake": 0.54,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

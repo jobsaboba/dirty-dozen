@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "17:00",
@@ -18,6 +18,7 @@
           "odds": "17/2",
           "jockey": "Ashley Lewis",
           "trainer": "James Owen",
+          "dd": 4,
           "total": 73.3,
           "boxes": {
             "life": 12,
@@ -35,9 +36,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 81.83
+          "stake": 0.51,
+          "profit": -0.51,
+          "bank": 51.78
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "9/4",
           "jockey": "Rowan Scott",
           "trainer": "B R Millman",
+          "dd": 2,
           "total": 45,
           "boxes": {
             "life": 12,
@@ -63,9 +65,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 81.83
+          "stake": 0.51,
+          "profit": -0.51,
+          "bank": 51.78
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "9/2",
           "jockey": "Callum Hutchinson",
           "trainer": "Eve Johnson Houghton",
+          "dd": 2,
           "total": 23,
           "boxes": {
             "life": 12,
@@ -91,9 +94,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.81,
-          "profit": 2.19,
-          "bank": 81.83
+          "stake": 0.51,
+          "profit": 1.38,
+          "bank": 51.78
         }
       ]
     }
@@ -108,14 +111,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 2.43,
-  "returned": 3.0,
-  "profit": 0.57,
+  "staked": 1.53,
+  "returned": 1.89,
+  "profit": 0.36,
   "bank": {
-    "start": 81.26,
-    "end": 81.83,
-    "next_stake": 0.82,
+    "start": 51.42,
+    "end": 51.78,
+    "next_stake": 0.52,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

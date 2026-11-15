@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "16:42",
@@ -18,6 +18,7 @@
           "odds": "9/2",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
+          "dd": 6,
           "total": 169.85,
           "boxes": {
             "life": 25,
@@ -35,9 +36,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.96,
-          "profit": -0.05,
-          "bank": 96.36
+          "stake": 0.42,
+          "profit": -0.02,
+          "bank": 41.87
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "5/4",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 147.45,
           "boxes": {
             "life": 40,
@@ -63,37 +65,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.96,
-          "profit": 0.72,
-          "bank": 96.36
+          "stake": 0.42,
+          "profit": 0.32,
+          "bank": 41.87
         },
         {
           "rank": 3,
-          "horse": "Evenly",
-          "stars": 1,
-          "odds": "250/1",
-          "jockey": "B S Hughes",
-          "trainer": "D McCain Jnr",
-          "total": 43.55,
+          "horse": "Provision",
+          "stars": 4,
+          "odds": "85/40",
+          "jockey": "Isabelle Ryder",
+          "trainer": "F Brennan",
+          "dd": 3,
+          "total": 41.79,
           "boxes": {
-            "life": null,
+            "life": 9,
             "trn": null,
-            "jky": 20.55,
+            "jky": 15.79,
             "ht": null,
-            "hj": 23.0,
+            "hj": null,
             "tjc": null,
-            "fav": null,
+            "fav": 17,
             "cd": null,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.42,
+          "profit": -0.12,
+          "bank": 41.87
         }
       ]
     },
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Camino Rocio",
-          "stars": 2,
-          "odds": "7/1",
-          "jockey": "Harry Skelton",
-          "trainer": "D Skelton",
-          "total": 96.45,
-          "boxes": {
-            "life": 22,
-            "trn": null,
-            "jky": 35.45,
-            "ht": null,
-            "hj": 39.0,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 93.48
-        },
-        {
-          "rank": 2,
           "horse": "Hillview",
           "stars": 2,
           "odds": "11/1",
           "jockey": "G Sheehan",
           "trainer": "G Hanmer",
+          "dd": 4,
           "total": 91.85,
           "boxes": {
             "life": 17,
@@ -158,17 +134,18 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 93.48
+          "stake": 0.42,
+          "profit": -0.42,
+          "bank": 42.54
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Present Fair",
           "stars": 3,
           "odds": "7/2",
           "jockey": "Harry Brown",
           "trainer": "D McCain Jnr",
+          "dd": 4,
           "total": 61.22,
           "boxes": {
             "life": 12,
@@ -186,9 +163,38 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 93.48
+          "stake": 0.42,
+          "profit": -0.42,
+          "bank": 42.54
+        },
+        {
+          "rank": 3,
+          "horse": "Scottish Dancer",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "Harry Reed",
+          "trainer": "T Reed",
+          "dd": 4,
+          "total": 59.81,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": 14.81,
+            "ht": null,
+            "hj": 25.0,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.42,
+          "profit": 1.51,
+          "bank": 42.54
         }
       ]
     }
@@ -196,21 +202,21 @@
   "score": {
     "picks": 6,
     "races": 2,
-    "settled": 5,
-    "won": 1,
-    "placed": 1,
-    "lost": 3,
-    "nr": 1,
+    "settled": 6,
+    "won": 2,
+    "placed": 2,
+    "lost": 2,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 4.8,
-  "returned": 2.59,
-  "profit": -2.21,
+  "staked": 2.52,
+  "returned": 3.37,
+  "profit": 0.85,
   "bank": {
-    "start": 95.69,
-    "end": 93.48,
-    "next_stake": 0.93,
+    "start": 41.69,
+    "end": 42.54,
+    "next_stake": 0.43,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

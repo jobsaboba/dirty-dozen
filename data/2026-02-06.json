@@ -1,6 +1,6 @@
 {
   "date": "2026-02-06",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:55",
@@ -18,6 +18,7 @@
           "odds": "8/1",
           "jockey": "Sam Twiston-Davies",
           "trainer": "N & W Twiston-Davies",
+          "dd": 3,
           "total": 83.05,
           "boxes": {
             "life": 40,
@@ -46,6 +47,7 @@
           "odds": "5/1",
           "jockey": "Jack Tudor",
           "trainer": "Christian Williams",
+          "dd": 3,
           "total": 52.55,
           "boxes": {
             "life": 12,
@@ -74,6 +76,7 @@
           "odds": "8/1",
           "jockey": "D R Fox",
           "trainer": "L Russell & M Scudamore",
+          "dd": 3,
           "total": 35.92,
           "boxes": {
             "life": 11,
@@ -113,6 +116,7 @@
           "odds": "7/4",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 140.78,
           "boxes": {
             "life": 33,
@@ -141,6 +145,7 @@
           "odds": "5/1",
           "jockey": "Jack Andrews",
           "trainer": "T Ellis",
+          "dd": 3,
           "total": 65.69,
           "boxes": {
             "life": 50,
@@ -169,6 +174,7 @@
           "odds": "7/1",
           "jockey": "S Bowen",
           "trainer": "R Potter",
+          "dd": 3,
           "total": 56.0,
           "boxes": {
             "life": null,
@@ -207,10 +213,10 @@
   "returned": 0,
   "profit": 0,
   "bank": {
-    "start": 11.07,
-    "end": 11.07,
-    "next_stake": 0.11,
+    "start": 9.82,
+    "end": 9.82,
+    "next_stake": 0.1,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

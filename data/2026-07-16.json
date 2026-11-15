@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:15",
@@ -18,6 +18,7 @@
           "odds": "1/1",
           "jockey": "Jack Nicholls",
           "trainer": "I Jardine",
+          "dd": 3,
           "total": 62,
           "boxes": {
             "life": 19,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.78,
-          "profit": 0.47,
-          "bank": 78.33
+          "stake": 0.46,
+          "profit": 0.28,
+          "bank": 46.39
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "10/3",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 28,
           "boxes": {
             "life": 6,
@@ -63,37 +65,38 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.78,
-          "profit": -0.78,
-          "bank": 78.33
+          "stake": 0.46,
+          "profit": -0.46,
+          "bank": 46.39
         },
         {
           "rank": 3,
-          "horse": "Great Profit",
-          "stars": 4,
+          "horse": "Sixcor",
+          "stars": 2,
           "odds": "9/1",
-          "jockey": "Barry McHugh",
-          "trainer": "W G Harrison",
+          "jockey": "Tom Kiely-Marshall",
+          "trainer": "Miss L A Perratt",
+          "dd": 3,
           "total": 26,
           "boxes": {
-            "life": 18,
+            "life": 10,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 8,
-            "cd": null,
+            "fav": 6,
+            "cd": 10,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 2,
+          "pos": 3,
           "res": "PLACE",
-          "stake": 0.78,
-          "profit": 0.31,
-          "bank": 78.33
+          "stake": 0.46,
+          "profit": 0.18,
+          "bank": 46.39
         }
       ]
     },
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Norham",
-          "stars": 3,
-          "odds": "18/1",
-          "jockey": "P Cosgrave",
-          "trainer": "Adam Kirby",
-          "total": 67,
-          "boxes": {
-            "life": 67,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.78,
-          "profit": -0.78,
-          "bank": 79.56
-        },
-        {
-          "rank": 2,
           "horse": "Amber Ocean",
           "stars": 5,
           "odds": "5/1",
           "jockey": "Rossa Ryan",
           "trainer": "Dr R Newland",
+          "dd": 2,
           "total": 37,
           "boxes": {
             "life": 20,
@@ -158,9 +134,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.78,
-          "profit": 2.34,
-          "bank": 79.56
+          "stake": 0.46,
+          "profit": 1.38,
+          "bank": 47.12
+        },
+        {
+          "rank": 2,
+          "horse": "Norham",
+          "stars": 3,
+          "odds": "18/1",
+          "jockey": "P Cosgrave",
+          "trainer": "Adam Kirby",
+          "dd": 1,
+          "total": 67,
+          "boxes": {
+            "life": 67,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": null,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.46,
+          "profit": -0.46,
+          "bank": 47.12
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "5/6",
           "jockey": "Saffie Osborne",
           "trainer": "J A Osborne",
+          "dd": 1,
           "total": 33,
           "boxes": {
             "life": null,
@@ -186,9 +192,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.78,
-          "profit": -0.33,
-          "bank": 79.56
+          "stake": 0.46,
+          "profit": -0.19,
+          "bank": 47.12
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "7/2",
           "jockey": "Rossa Ryan",
           "trainer": "A W Carroll",
+          "dd": 4,
           "total": 50,
           "boxes": {
             "life": 9,
@@ -225,9 +232,9 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.8,
-          "profit": -0.8,
-          "bank": 78.0
+          "stake": 0.47,
+          "profit": -0.47,
+          "bank": 46.2
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "11/2",
           "jockey": "Lewis Edmunds",
           "trainer": "B R Millman",
+          "dd": 4,
           "total": 36,
           "boxes": {
             "life": 11,
@@ -253,9 +261,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.8,
-          "profit": 0.04,
-          "bank": 78.0
+          "stake": 0.47,
+          "profit": 0.02,
+          "bank": 46.2
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "13/2",
           "jockey": "Joe Leavy",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 25,
           "boxes": {
             "life": 7,
@@ -281,9 +290,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.8,
-          "profit": -0.8,
-          "bank": 78.0
+          "stake": 0.47,
+          "profit": -0.47,
+          "bank": 46.2
         }
       ]
     }
@@ -298,14 +307,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 7.08,
-  "returned": 6.75,
-  "profit": -0.33,
+  "staked": 4.17,
+  "returned": 3.98,
+  "profit": -0.19,
   "bank": {
-    "start": 78.33,
-    "end": 78.0,
-    "next_stake": 0.78,
+    "start": 46.39,
+    "end": 46.2,
+    "next_stake": 0.46,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

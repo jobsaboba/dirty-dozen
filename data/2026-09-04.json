@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "16:10",
@@ -18,6 +18,7 @@
           "odds": "3/1",
           "jockey": "Danny McMenamin",
           "trainer": "N G Richards",
+          "dd": 5,
           "total": 139.45,
           "boxes": {
             "life": 31,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.97,
-          "profit": 1.75,
-          "bank": 97.74
+          "stake": 0.43,
+          "profit": 0.77,
+          "bank": 43.31
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "3/1",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 103.45,
           "boxes": {
             "life": 12,
@@ -63,37 +65,38 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.97,
-          "profit": -0.19,
-          "bank": 97.74
+          "stake": 0.43,
+          "profit": -0.09,
+          "bank": 43.31
         },
         {
           "rank": 3,
-          "horse": "Dante's Inferno",
+          "horse": "Bobby Socks",
           "stars": 2,
-          "odds": "9/1",
-          "jockey": "J J Burke",
-          "trainer": "T Culhane & S Barclay",
-          "total": 40.59,
+          "odds": "25/1",
+          "jockey": "Sean Quinlan",
+          "trainer": "Lizzie Quinlan",
+          "dd": 3,
+          "total": 37.0,
           "boxes": {
-            "life": null,
+            "life": 17,
             "trn": null,
-            "jky": 20.59,
+            "jky": 15.0,
             "ht": null,
-            "hj": 20.0,
+            "hj": null,
             "tjc": null,
             "fav": null,
             "cd": null,
-            "dist": null,
+            "dist": 5,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 6,
+          "pos": 7,
           "res": "LOSE",
-          "stake": 0.97,
-          "profit": -0.97,
-          "bank": 97.74
+          "stake": 0.43,
+          "profit": -0.43,
+          "bank": 43.31
         }
       ]
     }
@@ -108,14 +111,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 2.91,
-  "returned": 3.5,
-  "profit": 0.59,
+  "staked": 1.29,
+  "returned": 1.54,
+  "profit": 0.25,
   "bank": {
-    "start": 97.15,
-    "end": 97.74,
-    "next_stake": 0.98,
+    "start": 43.06,
+    "end": 43.31,
+    "next_stake": 0.43,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-02-15",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:50",
@@ -18,6 +18,7 @@
           "odds": "30/100",
           "jockey": "N de Boinville",
           "trainer": "N J Henderson",
+          "dd": 4,
           "total": 99.5,
           "boxes": {
             "life": 25,
@@ -35,9 +36,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 11.61
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.17
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "7/1",
           "jockey": "Paul O'Brien",
           "trainer": "Harry Derham",
+          "dd": 4,
           "total": 76.75,
           "boxes": {
             "life": 25,
@@ -63,37 +65,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.46,
-          "bank": 11.61
+          "stake": 0.1,
+          "profit": 0.42,
+          "bank": 10.17
         },
         {
           "rank": 3,
-          "horse": "Guet Apens",
+          "horse": "Elemental Eye",
           "stars": 3,
-          "odds": "22/1",
-          "jockey": "Craig Nichol",
-          "trainer": "O Greenall & J Guerriero",
-          "total": 35.0,
+          "odds": "66/1",
+          "jockey": "Sean Quinlan",
+          "trainer": "I Jardine",
+          "dd": 4,
+          "total": 33.0,
           "boxes": {
-            "life": 27,
+            "life": 10,
             "trn": null,
-            "jky": 0.0,
+            "jky": 15.0,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 8,
+            "fav": null,
             "cd": null,
-            "dist": null,
-            "crs": null,
+            "dist": 5,
+            "crs": 3,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.11,
-          "profit": 0.19,
-          "bank": 11.61
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.17
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "6/5",
           "jockey": "Jamie Hamilton",
           "trainer": "Ruth Jefferson",
+          "dd": 3,
           "total": 58,
           "boxes": {
             "life": 15,
@@ -130,9 +134,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
-          "profit": -0.05,
-          "bank": 11.44
+          "stake": 0.1,
+          "profit": -0.04,
+          "bank": 10.03
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "20/1",
           "jockey": "B S Hughes",
           "trainer": "I Jardine",
+          "dd": 3,
           "total": 50.55,
           "boxes": {
             "life": 7,
@@ -158,9 +163,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.44
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.03
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "5/1",
           "jockey": "C O'Farrell",
           "trainer": "Ewan Whillans",
+          "dd": 3,
           "total": 39,
           "boxes": {
             "life": 18,
@@ -186,9 +192,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.1,
           "profit": 0.0,
-          "bank": 11.44
+          "bank": 10.03
         }
       ]
     }
@@ -198,19 +204,19 @@
     "races": 2,
     "settled": 6,
     "won": 1,
-    "placed": 3,
-    "lost": 2,
+    "placed": 2,
+    "lost": 3,
     "nr": 0,
     "pending": 0
   },
-  "staked": 0.69,
-  "returned": 1.06,
-  "profit": 0.37,
+  "staked": 0.6,
+  "returned": 0.68,
+  "profit": 0.08,
   "bank": {
-    "start": 11.07,
-    "end": 11.44,
-    "next_stake": 0.11,
+    "start": 9.95,
+    "end": 10.03,
+    "next_stake": 0.1,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

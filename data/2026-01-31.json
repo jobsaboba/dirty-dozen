@@ -1,6 +1,6 @@
 {
   "date": "2026-01-31",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:43",
@@ -18,6 +18,7 @@
           "odds": "7/2",
           "jockey": "C Gethings",
           "trainer": "A Ralph",
+          "dd": 4,
           "total": 83.11,
           "boxes": {
             "life": 29,
@@ -46,6 +47,7 @@
           "odds": "18/1",
           "jockey": "B S Hughes",
           "trainer": "D McCain Jnr",
+          "dd": 4,
           "total": 70.55,
           "boxes": {
             "life": 17,
@@ -63,9 +65,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.87
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.53
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "18/1",
           "jockey": "Stan Sheppard",
           "trainer": "T Lacey",
+          "dd": 4,
           "total": 56.0,
           "boxes": {
             "life": 14,
@@ -91,9 +94,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.87
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.53
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "10/3",
           "jockey": "Danny McMenamin",
           "trainer": "N G Richards",
+          "dd": 6,
           "total": 141.07,
           "boxes": {
             "life": 24,
@@ -130,45 +134,18 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.51
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.2
         },
         {
           "rank": 2,
-          "horse": "Teddy Blue",
-          "stars": 3,
-          "odds": "12/1",
-          "jockey": "Paul O'Brien",
-          "trainer": "Harry Derham",
-          "total": 62.75,
-          "boxes": {
-            "life": 22,
-            "trn": 21.7,
-            "jky": 19.05,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.51
-        },
-        {
-          "rank": 3,
           "horse": "Insurrection",
           "stars": 4,
           "odds": "10/3",
           "jockey": "Freddie Keighley",
           "trainer": "P F Nicholls",
+          "dd": 4,
           "total": 55.53,
           "boxes": {
             "life": 18,
@@ -186,9 +163,38 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.51
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.2
+        },
+        {
+          "rank": 3,
+          "horse": "Teddy Blue",
+          "stars": 3,
+          "odds": "12/1",
+          "jockey": "Paul O'Brien",
+          "trainer": "Harry Derham",
+          "dd": 3,
+          "total": 62.75,
+          "boxes": {
+            "life": 22,
+            "trn": 21.7,
+            "jky": 19.05,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": null,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.2
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "22/1",
           "jockey": "Danny McMenamin",
           "trainer": "N G Richards",
+          "dd": 5,
           "total": 90.07,
           "boxes": {
             "life": 11,
@@ -225,45 +232,18 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.66
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.03
         },
         {
           "rank": 2,
-          "horse": "Magna Victor",
-          "stars": 5,
-          "odds": "10/3",
-          "jockey": "C Gethings",
-          "trainer": "A Ralph",
-          "total": 87.11,
-          "boxes": {
-            "life": 33,
-            "trn": null,
-            "jky": 11.11,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.12,
-          "profit": 0.24,
-          "bank": 11.66
-        },
-        {
-          "rank": 3,
           "horse": "As Fast As Wind",
           "stars": 3,
           "odds": "15/2",
           "jockey": "Paul O'Brien",
           "trainer": "T Davidson",
+          "dd": 5,
           "total": 79.05,
           "boxes": {
             "life": 9,
@@ -281,9 +261,38 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.1,
           "profit": 0.03,
-          "bank": 11.66
+          "bank": 10.03
+        },
+        {
+          "rank": 3,
+          "horse": "Gemini Man",
+          "stars": 3,
+          "odds": "5/1",
+          "jockey": "B S Hughes",
+          "trainer": "I Jardine",
+          "dd": 5,
+          "total": 66.55,
+          "boxes": {
+            "life": 10,
+            "trn": null,
+            "jky": 20.55,
+            "ht": null,
+            "hj": 23.0,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.03
         }
       ]
     }
@@ -292,20 +301,20 @@
     "picks": 9,
     "races": 3,
     "settled": 8,
-    "won": 1,
+    "won": 0,
     "placed": 1,
-    "lost": 6,
+    "lost": 7,
     "nr": 1,
     "pending": 0
   },
-  "staked": 0.96,
-  "returned": 0.51,
-  "profit": -0.45,
+  "staked": 0.85,
+  "returned": 0.13,
+  "profit": -0.72,
   "bank": {
-    "start": 12.11,
-    "end": 11.66,
-    "next_stake": 0.12,
+    "start": 10.75,
+    "end": 10.03,
+    "next_stake": 0.1,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

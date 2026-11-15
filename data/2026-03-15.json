@@ -1,6 +1,6 @@
 {
   "date": "2026-03-15",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "14:10",
@@ -18,6 +18,7 @@
           "odds": "2/1",
           "jockey": "Harry Cobden",
           "trainer": "Miss E C Lavelle",
+          "dd": 4,
           "total": 117.88,
           "boxes": {
             "life": 50,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.13,
-          "bank": 11.23
+          "stake": 0.1,
+          "profit": 0.12,
+          "bank": 10.43
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "4/6",
           "jockey": "James Bowen",
           "trainer": "N J Henderson",
+          "dd": 3,
           "total": 84.0,
           "boxes": {
             "life": 22,
@@ -63,9 +65,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11,
-          "profit": -0.05,
-          "bank": 11.23
+          "stake": 0.1,
+          "profit": -0.04,
+          "bank": 10.43
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "50/1",
           "jockey": "Jonjo O'Neill Jr.",
           "trainer": "J & A O'Neill",
+          "dd": 2,
           "total": 40.22,
           "boxes": {
             "life": 25,
@@ -91,9 +94,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 11.23
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.43
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "10/3",
           "jockey": "Stan Sheppard",
           "trainer": "T Lacey",
+          "dd": 5,
           "total": 73.0,
           "boxes": {
             "life": 14,
@@ -136,39 +140,12 @@
         },
         {
           "rank": 2,
-          "horse": "Express Surprise",
-          "stars": 4,
-          "odds": "11/4",
-          "jockey": "R Patrick",
-          "trainer": "C Boultbee-Brooks",
-          "total": 62,
-          "boxes": {
-            "life": 24,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.18,
-          "bank": 11.41
-        },
-        {
-          "rank": 3,
           "horse": "The Big Reveal",
           "stars": 4,
           "odds": "7/2",
           "jockey": "Joe Anderson",
           "trainer": "G Harris",
+          "dd": 4,
           "total": 50.67,
           "boxes": {
             "life": 13,
@@ -180,6 +157,35 @@
             "fav": 11,
             "cd": 10,
             "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
+        },
+        {
+          "rank": 3,
+          "horse": "Always Busy",
+          "stars": 4,
+          "odds": "15/2",
+          "jockey": "Jack Tudor",
+          "trainer": "Christian Williams",
+          "dd": 4,
+          "total": 29.55,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": 7.55,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
             "crs": null,
             "trnc": null,
             "cjkc": null
@@ -203,39 +209,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Analiese",
-          "stars": 4,
-          "odds": "7/4",
-          "jockey": "Charlie Deutsch",
-          "trainer": "Mrs M Rowley",
-          "total": 69,
-          "boxes": {
-            "life": 36,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.12,
-          "bank": 11.31
-        },
-        {
-          "rank": 2,
           "horse": "Rula Bula",
           "stars": 3,
           "odds": "9/1",
           "jockey": "Jonjo O'Neill Jr.",
           "trainer": "J & A O'Neill",
+          "dd": 3,
           "total": 48.22,
           "boxes": {
             "life": 25,
@@ -253,37 +232,67 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 11.31
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.5
         },
         {
-          "rank": 3,
-          "horse": "Flying Fortune",
+          "rank": 2,
+          "horse": "Cast's Tasha",
           "stars": 2,
-          "odds": "14/1",
-          "jockey": "James Bowen",
-          "trainer": "M Bowen",
-          "total": 43,
+          "odds": "11/1",
+          "jockey": "Ben Jones",
+          "trainer": "Ben Clarke",
+          "dd": 3,
+          "total": 29,
           "boxes": {
-            "life": 33,
+            "life": 13,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": null,
+            "fav": 6,
             "cd": 10,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 11.31
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": 0.06,
+          "bank": 10.5
+        },
+        {
+          "rank": 3,
+          "horse": "Analiese",
+          "stars": 4,
+          "odds": "7/4",
+          "jockey": "Charlie Deutsch",
+          "trainer": "Mrs M Rowley",
+          "dd": 2,
+          "total": 69,
+          "boxes": {
+            "life": 36,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.1,
+          "profit": 0.11,
+          "bank": 10.5
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "2/1",
           "jockey": "Fern O'Brien",
           "trainer": "F O'Brien",
+          "dd": 2,
           "total": 42,
           "boxes": {
             "life": 25,
@@ -320,9 +330,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.13,
-          "bank": 11.41
+          "stake": 0.1,
+          "profit": 0.12,
+          "bank": 10.69
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "12/1",
           "jockey": "Lewis Saunders",
           "trainer": "O Murphy",
+          "dd": 2,
           "total": 39.33,
           "boxes": {
             "life": null,
@@ -348,37 +359,38 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.11,
-          "profit": 0.08,
-          "bank": 11.41
+          "stake": 0.1,
+          "profit": 0.07,
+          "bank": 10.69
         },
         {
           "rank": 3,
-          "horse": "L'aurige",
-          "stars": 3,
-          "odds": "6/4",
-          "jockey": "Freddie Gordon",
-          "trainer": "C Gordon",
-          "total": 33,
+          "horse": "Moments Away",
+          "stars": 4,
+          "odds": "5/1",
+          "jockey": "Freddie Keighley",
+          "trainer": "M Keighley",
+          "dd": 2,
+          "total": 18.53,
           "boxes": {
             "life": null,
             "trn": null,
-            "jky": null,
+            "jky": 10.53,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 33,
+            "fav": 8,
             "cd": null,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 11.41
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": 0.0,
+          "bank": 10.69
         }
       ]
     }
@@ -386,21 +398,21 @@
   "score": {
     "picks": 12,
     "races": 4,
-    "settled": 10,
-    "won": 4,
-    "placed": 2,
-    "lost": 4,
-    "nr": 2,
+    "settled": 9,
+    "won": 3,
+    "placed": 4,
+    "lost": 2,
+    "nr": 3,
     "pending": 0
   },
-  "staked": 1.1,
-  "returned": 1.25,
-  "profit": 0.15,
+  "staked": 0.9,
+  "returned": 1.14,
+  "profit": 0.24,
   "bank": {
-    "start": 11.26,
-    "end": 11.41,
+    "start": 10.45,
+    "end": 10.69,
     "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-01-08",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:40",
@@ -18,6 +18,7 @@
           "odds": "10/11",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 174.78,
           "boxes": {
             "life": 67,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.05,
-          "bank": 10.57
+          "stake": 0.11,
+          "profit": 0.06,
+          "bank": 10.62
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "6/5",
           "jockey": "Sean Houlihan",
           "trainer": "P Hobbs & J White",
+          "dd": 4,
           "total": 73.67,
           "boxes": {
             "life": 40,
@@ -63,9 +65,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.1,
+          "stake": 0.11,
           "profit": -0.04,
-          "bank": 10.57
+          "bank": 10.62
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "12/1",
           "jockey": "Kielan Woods",
           "trainer": "D Elsworth & R Hatch",
+          "dd": 3,
           "total": 43.370000000000005,
           "boxes": {
             "life": 17,
@@ -91,9 +94,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.1,
-          "profit": 0.07,
-          "bank": 10.57
+          "stake": 0.11,
+          "profit": 0.08,
+          "bank": 10.62
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "11/10",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 5,
           "total": 135.78,
           "boxes": {
             "life": 25,
@@ -132,43 +136,16 @@
           "res": "LOSE",
           "stake": 0.11,
           "profit": -0.11,
-          "bank": 10.57
+          "bank": 10.75
         },
         {
           "rank": 2,
-          "horse": "Trade War",
-          "stars": 3,
-          "odds": "40/1",
-          "jockey": "S Bowen",
-          "trainer": "Evan Williams",
-          "total": 50.0,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": 25.0,
-            "ht": null,
-            "hj": 25.0,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 10.57
-        },
-        {
-          "rank": 3,
           "horse": "Bobby's Nelson",
           "stars": 4,
           "odds": "10/3",
           "jockey": "Sean Houlihan",
           "trainer": "P Hobbs & J White",
+          "dd": 3,
           "total": 43.67,
           "boxes": {
             "life": 20,
@@ -188,7 +165,36 @@
           "res": "WIN",
           "stake": 0.11,
           "profit": 0.22,
-          "bank": 10.57
+          "bank": 10.75
+        },
+        {
+          "rank": 3,
+          "horse": "Jury's In",
+          "stars": 3,
+          "odds": "7/1",
+          "jockey": "Charlie Hammond",
+          "trainer": "S Edmunds",
+          "dd": 3,
+          "total": 39.54,
+          "boxes": {
+            "life": 20,
+            "trn": null,
+            "jky": 11.54,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": 0.02,
+          "bank": 10.75
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "3/1",
           "jockey": "S Bowen",
           "trainer": "O Murphy",
+          "dd": 5,
           "total": 119.0,
           "boxes": {
             "life": 33,
@@ -227,15 +234,45 @@
           "res": "LOSE",
           "stake": 0.11,
           "profit": -0.11,
-          "bank": 10.76
+          "bank": 10.65
         },
         {
           "rank": 2,
+          "horse": "Pachacuti",
+          "stars": 3,
+          "odds": "11/2",
+          "jockey": "Jack Tudor",
+          "trainer": "D Pipe",
+          "dd": 4,
+          "total": 28.55,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": 7.55,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.11,
+          "profit": 0.01,
+          "bank": 10.65
+        },
+        {
+          "rank": 3,
           "horse": "Bluella Bresil",
           "stars": 3,
           "odds": "25/1",
           "jockey": "Joe Anderson",
           "trainer": "Jamie Snowden",
+          "dd": 3,
           "total": 88.67,
           "boxes": {
             "life": null,
@@ -256,34 +293,6 @@
           "stake": null,
           "profit": null,
           "bank": null
-        },
-        {
-          "rank": 3,
-          "horse": "Fresh Speculation",
-          "stars": 4,
-          "odds": "9/2",
-          "jockey": "David Bass",
-          "trainer": "H D Daly",
-          "total": 47,
-          "boxes": {
-            "life": 20,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.3,
-          "bank": 10.76
         }
       ]
     },
@@ -298,39 +307,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Itseemslikeit",
-          "stars": 5,
-          "odds": "5/2",
-          "jockey": "Jack Tudor",
-          "trainer": "D Pipe",
-          "total": 81.55,
-          "boxes": {
-            "life": 33,
-            "trn": null,
-            "jky": 7.55,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": 5,
-            "crs": 3,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.17,
-          "bank": 10.8
-        },
-        {
-          "rank": 2,
           "horse": "Hurricane Highway",
           "stars": 3,
           "odds": "9/2",
           "jockey": "S Bowen",
           "trainer": "Evan Williams",
+          "dd": 6,
           "total": 76.0,
           "boxes": {
             "life": 7,
@@ -350,35 +332,65 @@
           "res": "LOSE",
           "stake": 0.11,
           "profit": -0.11,
-          "bank": 10.8
+          "bank": 10.6
         },
         {
-          "rank": 3,
-          "horse": "Hunter Legend",
-          "stars": 4,
-          "odds": "10/3",
-          "jockey": "Charlie Deutsch",
-          "trainer": "Miss V Williams",
-          "total": 38,
+          "rank": 2,
+          "horse": "Itseemslikeit",
+          "stars": 5,
+          "odds": "5/2",
+          "jockey": "Jack Tudor",
+          "trainer": "D Pipe",
+          "dd": 5,
+          "total": 81.55,
           "boxes": {
-            "life": 21,
+            "life": 33,
             "trn": null,
-            "jky": null,
+            "jky": 7.55,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 17,
+            "fav": 33,
             "cd": null,
-            "dist": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.11,
+          "profit": 0.17,
+          "bank": 10.6
+        },
+        {
+          "rank": 3,
+          "horse": "Stellar Stream",
+          "stars": 2,
+          "odds": "11/2",
+          "jockey": "Callum Pritchard",
+          "trainer": "K Woollacott",
+          "dd": 4,
+          "total": 30.33,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": 8.33,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 3,
-          "res": "PLACE",
+          "pos": 6,
+          "res": "LOSE",
           "stake": 0.11,
-          "profit": -0.02,
-          "bank": 10.8
+          "profit": -0.11,
+          "bank": 10.6
         }
       ]
     },
@@ -398,6 +410,7 @@
           "odds": "11/2",
           "jockey": "S Bowen",
           "trainer": "B Pauling",
+          "dd": 4,
           "total": 64.0,
           "boxes": {
             "life": 6,
@@ -417,43 +430,16 @@
           "res": "PLACE",
           "stake": 0.11,
           "profit": 0.01,
-          "bank": 10.59
+          "bank": 10.39
         },
         {
           "rank": 2,
-          "horse": "Nedzor",
-          "stars": 4,
-          "odds": "10/3",
-          "jockey": "Ned Fox",
-          "trainer": "Henry Oliver",
-          "total": 33.0,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": 0.0,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 10.59
-        },
-        {
-          "rank": 3,
           "horse": "Bombay Pete",
           "stars": 3,
           "odds": "9/2",
           "jockey": "Jack Tudor",
           "trainer": "Christian Williams",
+          "dd": 2,
           "total": 24.55,
           "boxes": {
             "life": null,
@@ -473,7 +459,36 @@
           "res": "LOSE",
           "stake": 0.11,
           "profit": -0.11,
-          "bank": 10.59
+          "bank": 10.39
+        },
+        {
+          "rank": 3,
+          "horse": "Leech",
+          "stars": 4,
+          "odds": "9/2",
+          "jockey": "Ellis Collier",
+          "trainer": "Evan Williams",
+          "dd": 2,
+          "total": 17,
+          "boxes": {
+            "life": 6,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.39
         }
       ]
     },
@@ -493,6 +508,7 @@
           "odds": "13/2",
           "jockey": "S Bowen",
           "trainer": "M Bowen",
+          "dd": 4,
           "total": 68.0,
           "boxes": {
             "life": 8,
@@ -510,17 +526,47 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 10.78
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.16
         },
         {
           "rank": 2,
+          "horse": "Daany",
+          "stars": 2,
+          "odds": "40/1",
+          "jockey": "Callum Pritchard",
+          "trainer": "J Tickle",
+          "dd": 4,
+          "total": 27.33,
+          "boxes": {
+            "life": 11,
+            "trn": null,
+            "jky": 8.33,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": null,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 10.16
+        },
+        {
+          "rank": 3,
           "horse": "Copper Cove",
           "stars": 3,
           "odds": "5/2",
           "jockey": "Kielan Woods",
           "trainer": "D Elsworth & R Hatch",
+          "dd": 3,
           "total": 60.370000000000005,
           "boxes": {
             "life": 9,
@@ -538,37 +584,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.11,
+          "stake": 0.1,
           "profit": -0.03,
-          "bank": 10.78
-        },
-        {
-          "rank": 3,
-          "horse": "El Gavilan",
-          "stars": 4,
-          "odds": "5/1",
-          "jockey": "R Patrick",
-          "trainer": "C Boultbee-Brooks",
-          "total": 29,
-          "boxes": {
-            "life": 18,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 11,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.33,
-          "bank": 10.78
+          "bank": 10.16
         }
       ]
     }
@@ -577,20 +595,20 @@
     "picks": 18,
     "races": 6,
     "settled": 17,
-    "won": 5,
-    "placed": 5,
-    "lost": 7,
+    "won": 3,
+    "placed": 6,
+    "lost": 8,
     "nr": 1,
     "pending": 0
   },
   "staked": 1.84,
-  "returned": 2.13,
-  "profit": 0.29,
+  "returned": 1.48,
+  "profit": -0.36,
   "bank": {
-    "start": 10.49,
-    "end": 10.78,
-    "next_stake": 0.11,
+    "start": 10.52,
+    "end": 10.16,
+    "next_stake": 0.1,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

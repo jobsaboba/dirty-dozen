@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:40",
@@ -18,6 +18,7 @@
           "odds": "4/7",
           "jockey": "Rowan Scott",
           "trainer": "T Davidson",
+          "dd": 3,
           "total": 82.0,
           "boxes": {
             "life": 9,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.2,
-          "profit": 0.07,
-          "bank": 19.77
+          "stake": 0.15,
+          "profit": 0.05,
+          "bank": 15.04
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "11/2",
           "jockey": "Cara Tuke",
           "trainer": "I Jardine",
+          "dd": 3,
           "total": 40,
           "boxes": {
             "life": 13,
@@ -63,9 +65,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.2,
-          "profit": -0.2,
-          "bank": 19.77
+          "stake": 0.15,
+          "profit": -0.15,
+          "bank": 15.04
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "11/1",
           "jockey": "C Lee",
           "trainer": "R M Smith",
+          "dd": 3,
           "total": 26,
           "boxes": {
             "life": 12,
@@ -91,9 +94,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.2,
-          "profit": -0.2,
-          "bank": 19.77
+          "stake": 0.15,
+          "profit": -0.15,
+          "bank": 15.04
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "7/4",
           "jockey": "Oliver Stammers",
           "trainer": "Grant Tuer",
+          "dd": 3,
           "total": 52,
           "boxes": {
             "life": 14,
@@ -130,9 +134,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.2,
-          "profit": -0.07,
-          "bank": 20.46
+          "stake": 0.15,
+          "profit": -0.05,
+          "bank": 15.56
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "9/2",
           "jockey": "P Mulrennan",
           "trainer": "J Candlish",
+          "dd": 3,
           "total": 33,
           "boxes": {
             "life": 17,
@@ -158,9 +163,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.2,
-          "profit": -0.2,
-          "bank": 20.46
+          "stake": 0.15,
+          "profit": -0.15,
+          "bank": 15.56
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "8/1",
           "jockey": "Lauren Young",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 32,
           "boxes": {
             "life": 16,
@@ -186,9 +192,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.2,
-          "profit": 0.96,
-          "bank": 20.46
+          "stake": 0.15,
+          "profit": 0.72,
+          "bank": 15.56
         }
       ]
     },
@@ -203,67 +209,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Mission Command",
-          "stars": 3,
-          "odds": "7/2",
-          "jockey": "P Mulrennan",
-          "trainer": "J Candlish",
-          "total": 47,
-          "boxes": {
-            "life": 14,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.2,
-          "profit": -0.03,
-          "bank": 20.71
-        },
-        {
-          "rank": 2,
-          "horse": "Tattie Bogle",
-          "stars": 4,
-          "odds": "4/1",
-          "jockey": "A Mullen",
-          "trainer": "C Johnston",
-          "total": 29,
-          "boxes": {
-            "life": 12,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.2,
-          "profit": 0.48,
-          "bank": 20.71
-        },
-        {
-          "rank": 3,
           "horse": "Qazaq",
           "stars": 5,
           "odds": "5/1",
           "jockey": "Greg Fairley",
           "trainer": "I Jardine",
+          "dd": 3,
           "total": 29,
           "boxes": {
             "life": 13,
@@ -281,9 +232,67 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.2,
-          "profit": -0.2,
-          "bank": 20.71
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.22
+        },
+        {
+          "rank": 2,
+          "horse": "Giorgio M",
+          "stars": 3,
+          "odds": "7/1",
+          "jockey": "Jack Nicholls",
+          "trainer": "D M Loughnane",
+          "dd": 3,
+          "total": 24,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.22
+        },
+        {
+          "rank": 3,
+          "horse": "Mission Command",
+          "stars": 3,
+          "odds": "7/2",
+          "jockey": "P Mulrennan",
+          "trainer": "J Candlish",
+          "dd": 2,
+          "total": 47,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.16,
+          "profit": -0.02,
+          "bank": 15.22
         }
       ]
     },
@@ -298,11 +307,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Without Delay",
+          "stars": 3,
+          "odds": "17/2",
+          "jockey": "William Pyle",
+          "trainer": "Miss Tracy Waggott",
+          "dd": 4,
+          "total": 25,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.15,
+          "profit": -0.15,
+          "bank": 14.91
+        },
+        {
+          "rank": 2,
           "horse": "Filey Beach",
           "stars": 3,
           "odds": "6/4",
           "jockey": "Joanna Mason",
           "trainer": "Mrs R Carr",
+          "dd": 3,
           "total": 59,
           "boxes": {
             "life": 16,
@@ -320,17 +359,18 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.21,
-          "profit": -0.21,
-          "bank": 20.64
+          "stake": 0.15,
+          "profit": -0.15,
+          "bank": 14.91
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "The Gay Blade",
           "stars": 5,
           "odds": "9/2",
           "jockey": "A Mullen",
           "trainer": "I Jardine",
+          "dd": 3,
           "total": 37,
           "boxes": {
             "life": 16,
@@ -348,37 +388,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.21,
+          "stake": 0.15,
           "profit": -0.01,
-          "bank": 20.64
-        },
-        {
-          "rank": 3,
-          "horse": "Classy Clarets",
-          "stars": 3,
-          "odds": "12/1",
-          "jockey": "Greg Fairley",
-          "trainer": "I Jardine",
-          "total": 30,
-          "boxes": {
-            "life": 19,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 6,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.21,
-          "profit": 0.15,
-          "bank": 20.64
+          "bank": 14.91
         }
       ]
     }
@@ -387,20 +399,20 @@
     "picks": 12,
     "races": 4,
     "settled": 12,
-    "won": 3,
-    "placed": 4,
-    "lost": 5,
+    "won": 2,
+    "placed": 3,
+    "lost": 7,
     "nr": 0,
     "pending": 0
   },
-  "staked": 2.43,
-  "returned": 2.97,
-  "profit": 0.54,
+  "staked": 1.83,
+  "returned": 1.45,
+  "profit": -0.38,
   "bank": {
-    "start": 20.1,
-    "end": 20.64,
-    "next_stake": 0.21,
+    "start": 15.29,
+    "end": 14.91,
+    "next_stake": 0.15,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

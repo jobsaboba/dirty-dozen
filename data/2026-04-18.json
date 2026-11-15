@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:17",
@@ -18,6 +18,7 @@
           "odds": "1/1",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
+          "dd": 7,
           "total": 198.81,
           "boxes": {
             "life": 25,
@@ -35,9 +36,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.13,
-          "profit": -0.05,
-          "bank": 13.51
+          "stake": 0.11,
+          "profit": -0.04,
+          "bank": 11.43
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "11/4",
           "jockey": "Theo Gillard",
           "trainer": "D McCain Jnr",
+          "dd": 4,
           "total": 67.34,
           "boxes": {
             "life": 35,
@@ -63,37 +65,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.13,
-          "profit": 0.21,
-          "bank": 13.51
+          "stake": 0.11,
+          "profit": 0.18,
+          "bank": 11.43
         },
         {
           "rank": 3,
-          "horse": "Anxious Moments",
+          "horse": "Knock Off Soxs",
           "stars": 3,
-          "odds": "25/1",
-          "jockey": "R P McLernon",
-          "trainer": "C E Longsdon",
-          "total": 48.91,
+          "odds": "7/2",
+          "jockey": "Callum Pritchard",
+          "trainer": "K Woollacott",
+          "dd": 3,
+          "total": 36.33,
           "boxes": {
-            "life": 33,
+            "life": 17,
             "trn": null,
-            "jky": 15.91,
+            "jky": 8.33,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": null,
+            "fav": 11,
             "cd": null,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 11,
+          "pos": 4,
           "res": "LOSE",
-          "stake": 0.13,
-          "profit": -0.13,
-          "bank": 13.51
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 11.43
         }
       ]
     },
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Kdeux Saint Fray",
-          "stars": 3,
-          "odds": "7/2",
-          "jockey": "Sam Twiston-Davies",
-          "trainer": "A J Honeyball",
-          "total": 79.05,
-          "boxes": {
-            "life": 25,
-            "trn": null,
-            "jky": 21.05,
-            "ht": null,
-            "hj": 22.0,
-            "tjc": null,
-            "fav": 11,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.14,
-          "profit": -0.14,
-          "bank": 13.21
-        },
-        {
-          "rank": 2,
           "horse": "Young Jack",
           "stars": 2,
           "odds": "13/2",
           "jockey": "Danny McMenamin",
           "trainer": "C Grant",
+          "dd": 5,
           "total": 75.07,
           "boxes": {
             "life": 19,
@@ -158,9 +134,38 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.14,
-          "profit": -0.14,
-          "bank": 13.21
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 11.19
+        },
+        {
+          "rank": 2,
+          "horse": "Kdeux Saint Fray",
+          "stars": 3,
+          "odds": "7/2",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "A J Honeyball",
+          "dd": 4,
+          "total": 79.05,
+          "boxes": {
+            "life": 25,
+            "trn": null,
+            "jky": 21.05,
+            "ht": null,
+            "hj": 22.0,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 11.19
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "10/3",
           "jockey": "D R Fox",
           "trainer": "L Russell & M Scudamore",
+          "dd": 4,
           "total": 70.92,
           "boxes": {
             "life": 14,
@@ -186,9 +192,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.14,
+          "stake": 0.11,
           "profit": -0.02,
-          "bank": 13.21
+          "bank": 11.19
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "13/8",
           "jockey": "G Sheehan",
           "trainer": "G Hanmer",
+          "dd": 3,
           "total": 96.81,
           "boxes": {
             "life": null,
@@ -225,9 +232,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.13,
+          "stake": 0.11,
           "profit": -0.04,
-          "bank": 13.98
+          "bank": 11.83
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "7/1",
           "jockey": "Mr D Andrews",
           "trainer": "Mrs M Rowley",
+          "dd": 3,
           "total": 42,
           "boxes": {
             "life": 20,
@@ -253,9 +261,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.13,
-          "profit": -0.13,
-          "bank": 13.98
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 11.83
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "12/1",
           "jockey": "Jack Andrews",
           "trainer": "T Ellis",
+          "dd": 3,
           "total": 33.69,
           "boxes": {
             "life": 21,
@@ -281,9 +290,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.13,
-          "profit": 0.94,
-          "bank": 13.98
+          "stake": 0.11,
+          "profit": 0.79,
+          "bank": 11.83
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "13/8",
           "jockey": "Harry Cobden",
           "trainer": "P F Nicholls",
+          "dd": 5,
           "total": 121.88,
           "boxes": {
             "life": 33,
@@ -326,39 +336,12 @@
         },
         {
           "rank": 2,
-          "horse": "Dedicated Hero",
-          "stars": 2,
-          "odds": "12/1",
-          "jockey": "Danny McMenamin",
-          "trainer": "A M Thomson",
-          "total": 85.07,
-          "boxes": {
-            "life": 35,
-            "trn": null,
-            "jky": 24.07,
-            "ht": null,
-            "hj": 21.0,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.14,
-          "profit": 1.01,
-          "bank": 14.85
-        },
-        {
-          "rank": 3,
           "horse": "Secret Squirrel",
           "stars": 3,
           "odds": "11/2",
           "jockey": "J J Burke",
           "trainer": "H Morrison",
+          "dd": 5,
           "total": 84.59,
           "boxes": {
             "life": 31,
@@ -376,9 +359,38 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.14,
-          "profit": -0.14,
-          "bank": 14.85
+          "stake": 0.12,
+          "profit": -0.12,
+          "bank": 12.57
+        },
+        {
+          "rank": 3,
+          "horse": "Dedicated Hero",
+          "stars": 2,
+          "odds": "12/1",
+          "jockey": "Danny McMenamin",
+          "trainer": "A M Thomson",
+          "dd": 4,
+          "total": 85.07,
+          "boxes": {
+            "life": 35,
+            "trn": null,
+            "jky": 24.07,
+            "ht": null,
+            "hj": 21.0,
+            "tjc": null,
+            "fav": null,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "profit": 0.86,
+          "bank": 12.57
         }
       ]
     },
@@ -398,6 +410,7 @@
           "odds": "6/4",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 132.45,
           "boxes": {
             "life": 25,
@@ -421,39 +434,12 @@
         },
         {
           "rank": 2,
-          "horse": "Princess Keri",
-          "stars": 3,
-          "odds": "16/1",
-          "jockey": "Harry Cobden",
-          "trainer": "Mrs C Williams",
-          "total": 75.88,
-          "boxes": {
-            "life": 25,
-            "trn": null,
-            "jky": 21.88,
-            "ht": null,
-            "hj": 29.0,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
-        },
-        {
-          "rank": 3,
           "horse": "Game Colours",
           "stars": 3,
           "odds": "10/1",
           "jockey": "Sam Twiston-Davies",
           "trainer": "Ben Clarke",
+          "dd": 4,
           "total": 69.05,
           "boxes": {
             "life": 20,
@@ -471,9 +457,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.15,
-          "profit": 0.9,
-          "bank": 15.75
+          "stake": 0.13,
+          "profit": 0.78,
+          "bank": 13.35
+        },
+        {
+          "rank": 3,
+          "horse": "Fox's Fancy",
+          "stars": 3,
+          "odds": "9/2",
+          "jockey": "D R Fox",
+          "trainer": "L Russell & M Scudamore",
+          "dd": 4,
+          "total": 45.92,
+          "boxes": {
+            "life": 13,
+            "trn": null,
+            "jky": 18.92,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": null,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 0,
+          "res": "NR",
+          "stake": null,
+          "profit": null,
+          "bank": null
         }
       ]
     },
@@ -493,6 +508,7 @@
           "odds": "10/1",
           "jockey": "J J Burke",
           "trainer": "Jamie Snowden",
+          "dd": 5,
           "total": 142.59,
           "boxes": {
             "life": 30,
@@ -510,9 +526,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16,
-          "profit": 0.08,
-          "bank": 15.83
+          "stake": 0.13,
+          "profit": 0.07,
+          "bank": 13.42
         },
         {
           "rank": 2,
@@ -521,6 +537,7 @@
           "odds": "12/1",
           "jockey": "Harry Cobden",
           "trainer": "P F Nicholls",
+          "dd": 4,
           "total": 74.88,
           "boxes": {
             "life": 21,
@@ -549,6 +566,7 @@
           "odds": "25/1",
           "jockey": "Sean Quinlan",
           "trainer": "N G Richards",
+          "dd": 4,
           "total": 73.0,
           "boxes": {
             "life": 26,
@@ -588,6 +606,7 @@
           "odds": "4/1",
           "jockey": "N de Boinville",
           "trainer": "N J Henderson",
+          "dd": 4,
           "total": 80.5,
           "boxes": {
             "life": 22,
@@ -611,39 +630,12 @@
         },
         {
           "rank": 2,
-          "horse": "Las Canals",
-          "stars": 3,
-          "odds": "5/1",
-          "jockey": "Toby McCain-Mitchell",
-          "trainer": "O Greenall & J Guerriero",
-          "total": 78,
-          "boxes": {
-            "life": 67,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 11,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.16,
-          "profit": 0.48,
-          "bank": 16.31
-        },
-        {
-          "rank": 3,
           "horse": "Tramuntana",
           "stars": 3,
           "odds": "11/1",
           "jockey": "Lewis Saunders",
           "trainer": "O Murphy",
+          "dd": 3,
           "total": 56.33,
           "boxes": {
             "life": 18,
@@ -664,6 +656,35 @@
           "stake": null,
           "profit": null,
           "bank": null
+        },
+        {
+          "rank": 3,
+          "horse": "I C U In My Dreams",
+          "stars": 4,
+          "odds": "9/1",
+          "jockey": "Theo Gillard",
+          "trainer": "D McCain Jnr",
+          "dd": 3,
+          "total": 32.34,
+          "boxes": {
+            "life": 17,
+            "trn": null,
+            "jky": 10.34,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": null,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.13,
+          "profit": -0.13,
+          "bank": 13.29
         }
       ]
     },
@@ -678,67 +699,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Apache Tribe",
-          "stars": 4,
-          "odds": "5/6",
-          "jockey": "Danny Gilligan",
-          "trainer": "G Elliott",
-          "total": 111,
-          "boxes": {
-            "life": 75,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": 3,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.16,
-          "profit": 0.08,
-          "bank": 16.27
-        },
-        {
-          "rank": 2,
-          "horse": "Our Boy Stan",
-          "stars": 2,
-          "odds": "12/1",
-          "jockey": "S Bowen",
-          "trainer": "B Pauling",
-          "total": 90.0,
-          "boxes": {
-            "life": 40,
-            "trn": null,
-            "jky": 25.0,
-            "ht": null,
-            "hj": 25.0,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.16,
-          "profit": -0.16,
-          "bank": 16.27
-        },
-        {
-          "rank": 3,
           "horse": "Stride On",
           "stars": 3,
           "odds": "15/2",
           "jockey": "D R Fox",
           "trainer": "L Russell & M Scudamore",
+          "dd": 4,
           "total": 61.92,
           "boxes": {
             "life": 29,
@@ -756,9 +722,67 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16,
-          "profit": 0.04,
-          "bank": 16.27
+          "stake": 0.13,
+          "profit": 0.03,
+          "bank": 13.26
+        },
+        {
+          "rank": 2,
+          "horse": "Apache Tribe",
+          "stars": 4,
+          "odds": "5/6",
+          "jockey": "Danny Gilligan",
+          "trainer": "G Elliott",
+          "dd": 3,
+          "total": 111,
+          "boxes": {
+            "life": 75,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13,
+          "profit": 0.07,
+          "bank": 13.26
+        },
+        {
+          "rank": 3,
+          "horse": "Our Boy Stan",
+          "stars": 2,
+          "odds": "12/1",
+          "jockey": "S Bowen",
+          "trainer": "B Pauling",
+          "dd": 3,
+          "total": 90.0,
+          "boxes": {
+            "life": 40,
+            "trn": null,
+            "jky": 25.0,
+            "ht": null,
+            "hj": 25.0,
+            "tjc": null,
+            "fav": null,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.13,
+          "profit": -0.13,
+          "bank": 13.26
         }
       ]
     },
@@ -778,6 +802,7 @@
           "odds": "3/1",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
+          "dd": 6,
           "total": 176.81,
           "boxes": {
             "life": 8,
@@ -795,9 +820,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.16,
-          "profit": -0.16,
-          "bank": 16.94
+          "stake": 0.13,
+          "profit": -0.13,
+          "bank": 13.81
         },
         {
           "rank": 2,
@@ -806,6 +831,7 @@
           "odds": "10/3",
           "jockey": "Charlie Hammond",
           "trainer": "S Edmunds",
+          "dd": 4,
           "total": 53.54,
           "boxes": {
             "life": 20,
@@ -823,9 +849,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.16,
-          "profit": -0.03,
-          "bank": 16.94
+          "stake": 0.13,
+          "profit": -0.02,
+          "bank": 13.81
         },
         {
           "rank": 3,
@@ -834,6 +860,7 @@
           "odds": "9/1",
           "jockey": "Theo Gillard",
           "trainer": "D McCain Jnr",
+          "dd": 3,
           "total": 38.34,
           "boxes": {
             "life": 22,
@@ -851,9 +878,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.16,
-          "profit": 0.86,
-          "bank": 16.94
+          "stake": 0.13,
+          "profit": 0.7,
+          "bank": 13.81
         }
       ]
     },
@@ -868,67 +895,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Skerry Hill",
-          "stars": 4,
-          "odds": "7/4",
-          "jockey": "Danny Gilligan",
-          "trainer": "G Elliott",
-          "total": 138,
-          "boxes": {
-            "life": 100,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.17,
-          "profit": 0.18,
-          "bank": 16.93
-        },
-        {
-          "rank": 2,
-          "horse": "Keops Des Bordes",
-          "stars": 5,
-          "odds": "11/4",
-          "jockey": "Harry Skelton",
-          "trainer": "D Skelton",
-          "total": 124.45,
-          "boxes": {
-            "life": 33,
-            "trn": null,
-            "jky": 35.45,
-            "ht": null,
-            "hj": 39.0,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.17,
-          "profit": -0.17,
-          "bank": 16.93
-        },
-        {
-          "rank": 3,
           "horse": "Old Habits",
           "stars": 4,
           "odds": "4/1",
           "jockey": "S Bowen",
           "trainer": "O Murphy",
+          "dd": 5,
           "total": 99.0,
           "boxes": {
             "life": 33,
@@ -946,9 +918,67 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.17,
-          "profit": -0.02,
-          "bank": 16.93
+          "stake": 0.14,
+          "profit": -0.01,
+          "bank": 13.81
+        },
+        {
+          "rank": 2,
+          "horse": "Keops Des Bordes",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "dd": 4,
+          "total": 124.45,
+          "boxes": {
+            "life": 33,
+            "trn": null,
+            "jky": 35.45,
+            "ht": null,
+            "hj": 39.0,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.14,
+          "profit": -0.14,
+          "bank": 13.81
+        },
+        {
+          "rank": 3,
+          "horse": "Skerry Hill",
+          "stars": 4,
+          "odds": "7/4",
+          "jockey": "Danny Gilligan",
+          "trainer": "G Elliott",
+          "dd": 3,
+          "total": 138,
+          "boxes": {
+            "life": 100,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.14,
+          "profit": 0.15,
+          "bank": 13.81
         }
       ]
     },
@@ -968,6 +998,7 @@
           "odds": "6/1",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
+          "dd": 5,
           "total": 143.81,
           "boxes": {
             "life": null,
@@ -985,9 +1016,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.17,
-          "profit": -0.17,
-          "bank": 17.36
+          "stake": 0.14,
+          "profit": -0.14,
+          "bank": 14.16
         },
         {
           "rank": 2,
@@ -996,6 +1027,7 @@
           "odds": "11/8",
           "jockey": "N de Boinville",
           "trainer": "N J Henderson",
+          "dd": 3,
           "total": 74.5,
           "boxes": {
             "life": null,
@@ -1013,9 +1045,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.17,
-          "profit": -0.17,
-          "bank": 17.36
+          "stake": 0.14,
+          "profit": -0.14,
+          "bank": 14.16
         },
         {
           "rank": 3,
@@ -1024,6 +1056,7 @@
           "odds": "15/2",
           "jockey": "Charlie Deutsch",
           "trainer": "Mrs M Rowley",
+          "dd": 2,
           "total": 39,
           "boxes": {
             "life": 33,
@@ -1041,9 +1074,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.17,
-          "profit": 0.77,
-          "bank": 17.36
+          "stake": 0.14,
+          "profit": 0.63,
+          "bank": 14.16
         }
       ]
     }
@@ -1052,20 +1085,20 @@
     "picks": 33,
     "races": 11,
     "settled": 26,
-    "won": 9,
+    "won": 8,
     "placed": 7,
-    "lost": 10,
+    "lost": 11,
     "nr": 7,
     "pending": 0
   },
-  "staked": 3.93,
-  "returned": 7.81,
-  "profit": 3.88,
+  "staked": 3.24,
+  "returned": 6.0,
+  "profit": 2.76,
   "bank": {
-    "start": 13.48,
-    "end": 17.36,
-    "next_stake": 0.17,
+    "start": 11.4,
+    "end": 14.16,
+    "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:30",
@@ -18,6 +18,7 @@
           "odds": "3/1",
           "jockey": "D Nolan",
           "trainer": "R A Fahey",
+          "dd": 2,
           "total": 50,
           "boxes": {
             "life": 33,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.96,
-          "profit": 1.73,
-          "bank": 95.4
+          "stake": 0.42,
+          "profit": 0.76,
+          "bank": 41.77
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "15/8",
           "jockey": "Paddy Bradley",
           "trainer": "C Fellowes",
+          "dd": 1,
           "total": 33,
           "boxes": {
             "life": null,
@@ -63,9 +65,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 95.4
+          "stake": 0.42,
+          "profit": -0.42,
+          "bank": 41.77
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "9/2",
           "jockey": "K Stott",
           "trainer": "K A Ryan",
+          "dd": 1,
           "total": 11,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 95.4
+          "stake": 0.42,
+          "profit": -0.42,
+          "bank": 41.77
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "9/2",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 60,
           "boxes": {
             "life": 22,
@@ -130,9 +134,9 @@
           },
           "pos": 4,
           "res": "PLACE",
-          "stake": 0.95,
-          "profit": -0.05,
-          "bank": 93.45
+          "stake": 0.42,
+          "profit": -0.02,
+          "bank": 40.91
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "11/2",
           "jockey": "C Lee",
           "trainer": "Miss L A Perratt",
+          "dd": 3,
           "total": 30,
           "boxes": {
             "life": 14,
@@ -158,9 +163,9 @@
           },
           "pos": 16,
           "res": "LOSE",
-          "stake": 0.95,
-          "profit": -0.95,
-          "bank": 93.45
+          "stake": 0.42,
+          "profit": -0.42,
+          "bank": 40.91
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "22/1",
           "jockey": "Rhys Elliott",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 28,
           "boxes": {
             "life": 20,
@@ -186,9 +192,9 @@
           },
           "pos": 14,
           "res": "LOSE",
-          "stake": 0.95,
-          "profit": -0.95,
-          "bank": 93.45
+          "stake": 0.42,
+          "profit": -0.42,
+          "bank": 40.91
         }
       ]
     },
@@ -203,39 +209,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Wild Thoughts",
-          "stars": 4,
-          "odds": "11/4",
-          "jockey": "Saffie Osborne",
-          "trainer": "R Spencer",
-          "total": 69,
-          "boxes": {
-            "life": 36,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.93,
-          "profit": 1.53,
-          "bank": 93.12
-        },
-        {
-          "rank": 2,
           "horse": "Galyx",
           "stars": 3,
           "odds": "11/2",
           "jockey": "George Bass",
           "trainer": "J Channon",
+          "dd": 3,
           "total": 34,
           "boxes": {
             "life": 21,
@@ -253,17 +232,18 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 93.12
+          "stake": 0.41,
+          "profit": -0.41,
+          "bank": 39.68
         },
         {
-          "rank": 3,
+          "rank": 2,
           "horse": "Dain Ma Nut In",
           "stars": 2,
           "odds": "25/1",
           "jockey": "Jason Hart",
           "trainer": "L Russell & M Scudamore",
+          "dd": 3,
           "total": 34,
           "boxes": {
             "life": 26,
@@ -281,9 +261,38 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 93.12
+          "stake": 0.41,
+          "profit": -0.41,
+          "bank": 39.68
+        },
+        {
+          "rank": 3,
+          "horse": "Financer",
+          "stars": 3,
+          "odds": "17/2",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "dd": 3,
+          "total": 30,
+          "boxes": {
+            "life": 14,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.41,
+          "profit": -0.41,
+          "bank": 39.68
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "8/1",
           "jockey": "Jason Hart",
           "trainer": "T Davidson",
+          "dd": 4,
           "total": 65.0,
           "boxes": {
             "life": 9,
@@ -320,9 +330,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 91.31
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 38.9
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "4/1",
           "jockey": "D Tudhope",
           "trainer": "E Bethell",
+          "dd": 3,
           "total": 50,
           "boxes": {
             "life": 12,
@@ -348,9 +359,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 91.31
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 38.9
         },
         {
           "rank": 3,
@@ -359,6 +370,7 @@
           "odds": "11/2",
           "jockey": "O J Orr",
           "trainer": "R A Fahey",
+          "dd": 3,
           "total": 41,
           "boxes": {
             "life": 25,
@@ -376,9 +388,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.93,
-          "profit": 0.05,
-          "bank": 91.31
+          "stake": 0.4,
+          "profit": 0.02,
+          "bank": 38.9
         }
       ]
     },
@@ -393,39 +405,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "You Sexy Thing",
-          "stars": 4,
-          "odds": "10/3",
-          "jockey": "Saffie Osborne",
-          "trainer": "R Spencer",
-          "total": 41,
-          "boxes": {
-            "life": 8,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.91,
-          "profit": -0.91,
-          "bank": 93.31
-        },
-        {
-          "rank": 2,
           "horse": "Sailthisshipalone",
           "stars": 5,
           "odds": "7/1",
           "jockey": "Jason Hart",
           "trainer": "I Furtado",
+          "dd": 3,
           "total": 29,
           "boxes": {
             "life": 13,
@@ -443,37 +428,67 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.91,
-          "profit": 3.82,
-          "bank": 93.31
+          "stake": 0.39,
+          "profit": 1.64,
+          "bank": 40.23
         },
         {
-          "rank": 3,
-          "horse": "Roaring Ralph",
-          "stars": 2,
-          "odds": "25/1",
-          "jockey": "Mark Winn",
-          "trainer": "M Dods",
-          "total": 27,
+          "rank": 2,
+          "horse": "Barley",
+          "stars": 3,
+          "odds": "7/1",
+          "jockey": "D Allan",
+          "trainer": "T D Easterby",
+          "dd": 3,
+          "total": 20,
           "boxes": {
-            "life": 17,
+            "life": 7,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": null,
-            "cd": 10,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.39,
+          "profit": 0.08,
+          "bank": 40.23
+        },
+        {
+          "rank": 3,
+          "horse": "You Sexy Thing",
+          "stars": 4,
+          "odds": "10/3",
+          "jockey": "Saffie Osborne",
+          "trainer": "R Spencer",
+          "dd": 2,
+          "total": 41,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 13,
+          "pos": 4,
           "res": "LOSE",
-          "stake": 0.91,
-          "profit": -0.91,
-          "bank": 93.31
+          "stake": 0.39,
+          "profit": -0.39,
+          "bank": 40.23
         }
       ]
     },
@@ -493,6 +508,7 @@
           "odds": "3/1",
           "jockey": "D Allan",
           "trainer": "T D Easterby",
+          "dd": 3,
           "total": 49,
           "boxes": {
             "life": 11,
@@ -510,9 +526,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 94.24
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 40.63
         },
         {
           "rank": 2,
@@ -521,6 +537,7 @@
           "odds": "5/1",
           "jockey": "Saffie Osborne",
           "trainer": "R Spencer",
+          "dd": 3,
           "total": 36,
           "boxes": {
             "life": 14,
@@ -538,9 +555,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.93,
-          "profit": 2.79,
-          "bank": 94.24
+          "stake": 0.4,
+          "profit": 1.2,
+          "bank": 40.63
         },
         {
           "rank": 3,
@@ -549,6 +566,7 @@
           "odds": "7/1",
           "jockey": "Jack Nicholls",
           "trainer": "I Jardine",
+          "dd": 3,
           "total": 34,
           "boxes": {
             "life": 16,
@@ -566,9 +584,9 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.93,
-          "profit": -0.93,
-          "bank": 94.24
+          "stake": 0.4,
+          "profit": -0.4,
+          "bank": 40.63
         }
       ]
     },
@@ -583,39 +601,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Ashnak",
-          "stars": 4,
-          "odds": "4/1",
-          "jockey": "D Tudhope",
-          "trainer": "D O'Meara",
-          "total": 40,
-          "boxes": {
-            "life": 7,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.94,
-          "profit": -0.94,
-          "bank": 92.36
-        },
-        {
-          "rank": 2,
           "horse": "Spirit Of Acklam",
           "stars": 3,
           "odds": "5/1",
           "jockey": "Joanna Mason",
           "trainer": "M & D Easterby",
+          "dd": 4,
           "total": 40,
           "boxes": {
             "life": 24,
@@ -633,9 +624,38 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.94,
+          "stake": 0.41,
           "profit": 0.0,
-          "bank": 92.36
+          "bank": 39.81
+        },
+        {
+          "rank": 2,
+          "horse": "Ashnak",
+          "stars": 4,
+          "odds": "4/1",
+          "jockey": "D Tudhope",
+          "trainer": "D O'Meara",
+          "dd": 2,
+          "total": 40,
+          "boxes": {
+            "life": 7,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.41,
+          "profit": -0.41,
+          "bank": 39.81
         },
         {
           "rank": 3,
@@ -644,6 +664,7 @@
           "odds": "4/1",
           "jockey": "Saffie Osborne",
           "trainer": "C Johnston",
+          "dd": 2,
           "total": 34,
           "boxes": {
             "life": 17,
@@ -661,9 +682,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.94,
-          "profit": -0.94,
-          "bank": 92.36
+          "stake": 0.41,
+          "profit": -0.41,
+          "bank": 39.81
         }
       ]
     }
@@ -672,20 +693,20 @@
     "picks": 21,
     "races": 7,
     "settled": 21,
-    "won": 4,
-    "placed": 3,
+    "won": 3,
+    "placed": 4,
     "lost": 14,
     "nr": 0,
     "pending": 0
   },
-  "staked": 19.65,
-  "returned": 16.42,
-  "profit": -3.23,
+  "staked": 8.55,
+  "returned": 6.51,
+  "profit": -2.04,
   "bank": {
-    "start": 95.59,
-    "end": 92.36,
-    "next_stake": 0.92,
+    "start": 41.85,
+    "end": 39.81,
+    "next_stake": 0.4,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

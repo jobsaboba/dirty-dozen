@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:46",
@@ -13,11 +13,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Speed Davis",
+          "stars": 3,
+          "odds": "5/1",
+          "jockey": "Harry Brown",
+          "trainer": "D McCain Jnr",
+          "dd": 4,
+          "total": 65.22,
+          "boxes": {
+            "life": 22,
+            "trn": null,
+            "jky": 22.22,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.26,
+          "profit": 0.0,
+          "bank": 26.16
+        },
+        {
+          "rank": 2,
           "horse": "Glance Of Glory",
           "stars": 3,
           "odds": "10/3",
           "jockey": "Freddie Keighley",
           "trainer": "M Keighley",
+          "dd": 3,
           "total": 76.0,
           "boxes": {
             "life": 33,
@@ -40,40 +70,13 @@
           "bank": null
         },
         {
-          "rank": 2,
-          "horse": "Speed Davis",
-          "stars": 3,
-          "odds": "5/1",
-          "jockey": "Harry Brown",
-          "trainer": "D McCain Jnr",
-          "total": 65.22,
-          "boxes": {
-            "life": 22,
-            "trn": null,
-            "jky": 22.22,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 11,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 1.11,
-          "profit": 0.0,
-          "bank": 109.91
-        },
-        {
           "rank": 3,
           "horse": "Crystal Glance",
           "stars": 4,
           "odds": "4/1",
           "jockey": "Ben Smith",
           "trainer": "O Greenall & J Guerriero",
+          "dd": 3,
           "total": 49.0,
           "boxes": {
             "life": 29,
@@ -91,9 +94,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.11,
-          "profit": -1.11,
-          "bank": 109.91
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 26.16
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "2/5",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 157.45,
           "boxes": {
             "life": 50,
@@ -130,9 +134,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.1,
-          "profit": 0.26,
-          "bank": 109.35
+          "stake": 0.26,
+          "profit": 0.06,
+          "bank": 26.03
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "15/2",
           "jockey": "Jack Andrews",
           "trainer": "T Ellis",
+          "dd": 2,
           "total": 24.69,
           "boxes": {
             "life": null,
@@ -158,9 +163,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.1,
-          "profit": 0.28,
-          "bank": 109.35
+          "stake": 0.26,
+          "profit": 0.07,
+          "bank": 26.03
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "10/1",
           "jockey": "Theo Gillard",
           "trainer": "D McCain Jnr",
+          "dd": 2,
           "total": 18.34,
           "boxes": {
             "life": null,
@@ -186,9 +192,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.1,
-          "profit": -1.1,
-          "bank": 109.35
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 26.03
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "5/2",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 127.45,
           "boxes": {
             "life": 20,
@@ -225,45 +232,18 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.09,
-          "profit": -1.09,
-          "bank": 110.77
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 26.37
         },
         {
           "rank": 2,
-          "horse": "Hot Goddess",
-          "stars": 3,
-          "odds": "17/2",
-          "jockey": "S Bowen",
-          "trainer": "M Keighley",
-          "total": 58.0,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": 25.0,
-            "ht": null,
-            "hj": 25.0,
-            "tjc": null,
-            "fav": 8,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 1.09,
-          "profit": -1.09,
-          "bank": 110.77
-        },
-        {
-          "rank": 3,
           "horse": "Iamyouare",
           "stars": 3,
           "odds": "11/2",
           "jockey": "Theo Gillard",
           "trainer": "D McCain Jnr",
+          "dd": 4,
           "total": 53.34,
           "boxes": {
             "life": 27,
@@ -281,9 +261,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.09,
-          "profit": 3.6,
-          "bank": 110.77
+          "stake": 0.26,
+          "profit": 0.86,
+          "bank": 26.37
+        },
+        {
+          "rank": 3,
+          "horse": "Crystal Spring",
+          "stars": 4,
+          "odds": "3/1",
+          "jockey": "Charlie Hammond",
+          "trainer": "S Edmunds",
+          "dd": 4,
+          "total": 44.54,
+          "boxes": {
+            "life": 11,
+            "trn": null,
+            "jky": 11.54,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 26.37
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "4/1",
           "jockey": "J J Burke",
           "trainer": "Jamie Snowden",
+          "dd": 7,
           "total": 174.59,
           "boxes": {
             "life": 40,
@@ -320,9 +330,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.11,
-          "profit": -1.11,
-          "bank": 109.83
+          "stake": 0.26,
+          "profit": -0.26,
+          "bank": 26.15
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "13/2",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 4,
           "total": 107.45,
           "boxes": {
             "life": 25,
@@ -348,9 +359,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.11,
-          "profit": 0.17,
-          "bank": 109.83
+          "stake": 0.26,
+          "profit": 0.04,
+          "bank": 26.15
         },
         {
           "rank": 3,
@@ -359,6 +370,7 @@
           "odds": "3/1",
           "jockey": "James Bowen",
           "trainer": "N J Henderson",
+          "dd": 4,
           "total": 96.0,
           "boxes": {
             "life": 29,
@@ -398,6 +410,7 @@
           "odds": "3/1",
           "jockey": "Harry Brown",
           "trainer": "D McCain Jnr",
+          "dd": 3,
           "total": 63.22,
           "boxes": {
             "life": 8,
@@ -415,9 +428,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.1,
-          "profit": -0.22,
-          "bank": 116.21
+          "stake": 0.26,
+          "profit": -0.05,
+          "bank": 27.66
         },
         {
           "rank": 2,
@@ -426,6 +439,7 @@
           "odds": "12/1",
           "jockey": "Jonjo O'Neill Jr.",
           "trainer": "J & A O'Neill",
+          "dd": 3,
           "total": 40.22,
           "boxes": {
             "life": 20,
@@ -454,6 +468,7 @@
           "odds": "10/1",
           "jockey": "Paul O'Brien",
           "trainer": "J W Mullins",
+          "dd": 2,
           "total": 36.05,
           "boxes": {
             "life": 17,
@@ -471,9 +486,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.1,
-          "profit": 6.6,
-          "bank": 116.21
+          "stake": 0.26,
+          "profit": 1.56,
+          "bank": 27.66
         }
       ]
     },
@@ -493,6 +508,7 @@
           "odds": "7/2",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 5,
           "total": 135.45,
           "boxes": {
             "life": 25,
@@ -510,9 +526,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.16,
-          "profit": -1.16,
-          "bank": 114.93
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 27.35
         },
         {
           "rank": 2,
@@ -521,6 +537,7 @@
           "odds": "14/1",
           "jockey": "J J Burke",
           "trainer": "David Dennis",
+          "dd": 4,
           "total": 60.59,
           "boxes": {
             "life": 15,
@@ -538,9 +555,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.16,
-          "profit": 1.04,
-          "bank": 114.93
+          "stake": 0.28,
+          "profit": 0.25,
+          "bank": 27.35
         },
         {
           "rank": 3,
@@ -549,6 +566,7 @@
           "odds": "15/2",
           "jockey": "S Bowen",
           "trainer": "Miss R Curtis",
+          "dd": 3,
           "total": 58.0,
           "boxes": {
             "life": null,
@@ -566,9 +584,9 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.16,
-          "profit": -1.16,
-          "bank": 114.93
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 27.35
         }
       ]
     }
@@ -583,14 +601,14 @@
     "nr": 3,
     "pending": 0
   },
-  "staked": 16.69,
-  "returned": 20.6,
-  "profit": 3.91,
+  "staked": 3.96,
+  "returned": 4.89,
+  "profit": 0.93,
   "bank": {
-    "start": 111.02,
-    "end": 114.93,
-    "next_stake": 1.15,
+    "start": 26.42,
+    "end": 27.35,
+    "next_stake": 0.27,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

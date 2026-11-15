@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "15:20",
@@ -18,6 +18,7 @@
           "odds": "8/13",
           "jockey": "Jonjo O'Neill Jr.",
           "trainer": "J & A O'Neill",
+          "dd": 3,
           "total": 81.22,
           "boxes": {
             "life": 33,
@@ -35,9 +36,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.11,
-          "profit": -0.05,
-          "bank": 10.7
+          "stake": 0.1,
+          "profit": -0.04,
+          "bank": 9.91
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "8/1",
           "jockey": "Ryan Mania",
           "trainer": "A Nicol",
+          "dd": 3,
           "total": 70.0,
           "boxes": {
             "life": 50,
@@ -63,9 +65,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 10.7
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 9.91
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "15/2",
           "jockey": "B S Hughes",
           "trainer": "D McCain Jnr",
+          "dd": 3,
           "total": 54.55,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.11,
-          "profit": -0.11,
-          "bank": 10.7
+          "stake": 0.1,
+          "profit": -0.1,
+          "bank": 9.91
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "17/2",
           "jockey": "Danny McMenamin",
           "trainer": "N G Richards",
+          "dd": 6,
           "total": 117.07,
           "boxes": {
             "life": 20,
@@ -136,39 +140,12 @@
         },
         {
           "rank": 2,
-          "horse": "Chanceawetmorning",
-          "stars": 3,
-          "odds": "5/2",
-          "jockey": "Mr O McGill",
-          "trainer": "N C Kelly",
-          "total": 57,
-          "boxes": {
-            "life": 24,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
-        },
-        {
-          "rank": 3,
           "horse": "Red Cadillac",
           "stars": 3,
           "odds": "17/2",
           "jockey": "Callum Bewley",
           "trainer": "N G Richards",
+          "dd": 3,
           "total": 52.0,
           "boxes": {
             "life": 17,
@@ -186,9 +163,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.11,
-          "profit": 0.56,
-          "bank": 11.26
+          "stake": 0.1,
+          "profit": 0.51,
+          "bank": 10.45
+        },
+        {
+          "rank": 3,
+          "horse": "Kazar Forez",
+          "stars": 4,
+          "odds": "15/2",
+          "jockey": "Joshua Thompson",
+          "trainer": "Micky Hammond",
+          "dd": 3,
+          "total": 45.69,
+          "boxes": {
+            "life": 30,
+            "trn": null,
+            "jky": 7.69,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.1,
+          "profit": 0.03,
+          "bank": 10.45
         }
       ]
     }
@@ -196,21 +202,21 @@
   "score": {
     "picks": 6,
     "races": 2,
-    "settled": 4,
+    "settled": 5,
     "won": 1,
-    "placed": 1,
+    "placed": 2,
     "lost": 2,
-    "nr": 2,
+    "nr": 1,
     "pending": 0
   },
-  "staked": 0.44,
-  "returned": 0.73,
-  "profit": 0.29,
+  "staked": 0.5,
+  "returned": 0.8,
+  "profit": 0.3,
   "bank": {
-    "start": 10.97,
-    "end": 11.26,
-    "next_stake": 0.11,
+    "start": 10.15,
+    "end": 10.45,
+    "next_stake": 0.1,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

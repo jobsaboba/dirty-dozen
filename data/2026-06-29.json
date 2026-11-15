@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "16:22",
@@ -13,11 +13,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Beaune",
+          "stars": 2,
+          "odds": "7/1",
+          "jockey": "Alexandra Egan",
+          "trainer": "B J Llewellyn",
+          "dd": 3,
+          "total": 21,
+          "boxes": {
+            "life": 10,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.52,
+          "profit": -0.52,
+          "bank": 51.33
+        },
+        {
+          "rank": 2,
           "horse": "Ibn Sirin",
           "stars": 3,
           "odds": "6/1",
           "jockey": "Edward Greatrex",
           "trainer": "Harry Charlton",
+          "dd": 2,
           "total": 58.0,
           "boxes": {
             "life": null,
@@ -35,17 +65,18 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.82,
-          "profit": -0.82,
-          "bank": 81.11
+          "stake": 0.52,
+          "profit": -0.52,
+          "bank": 51.33
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Worlington",
           "stars": 4,
           "odds": "15/8",
           "jockey": "Billy Loughnane",
           "trainer": "G Boughey",
+          "dd": 2,
           "total": 43,
           "boxes": {
             "life": 10,
@@ -63,37 +94,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.82,
-          "profit": 0.92,
-          "bank": 81.11
-        },
-        {
-          "rank": 3,
-          "horse": "Captain Cairney",
-          "stars": 5,
-          "odds": "9/2",
-          "jockey": "Jack Doughty",
-          "trainer": "W Muir & C Grassick",
-          "total": 28,
-          "boxes": {
-            "life": 17,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 11,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 0.82,
-          "profit": -0.82,
-          "bank": 81.11
+          "stake": 0.52,
+          "profit": 0.59,
+          "bank": 51.33
         }
       ]
     }
@@ -108,14 +111,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 2.46,
-  "returned": 1.74,
-  "profit": -0.72,
+  "staked": 1.56,
+  "returned": 1.11,
+  "profit": -0.45,
   "bank": {
-    "start": 81.83,
-    "end": 81.11,
-    "next_stake": 0.81,
+    "start": 51.78,
+    "end": 51.33,
+    "next_stake": 0.51,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

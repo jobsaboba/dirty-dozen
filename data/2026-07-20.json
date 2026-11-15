@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "14:30",
@@ -13,67 +13,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Jordan Electrics",
-          "stars": 5,
-          "odds": "11/4",
-          "jockey": "P Mulrennan",
-          "trainer": "J S Goldie",
-          "total": 62,
-          "boxes": {
-            "life": 19,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 1,
-          "res": "WIN",
-          "stake": 0.78,
-          "profit": 1.29,
-          "bank": 78.39
-        },
-        {
-          "rank": 2,
-          "horse": "Lord Roxby",
-          "stars": 3,
-          "odds": "7/2",
-          "jockey": "Alex Jary",
-          "trainer": "N Tinkler",
-          "total": 37,
-          "boxes": {
-            "life": 15,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.78,
-          "profit": -0.12,
-          "bank": 78.39
-        },
-        {
-          "rank": 3,
           "horse": "Dandy Magic",
           "stars": 3,
           "odds": "8/1",
           "jockey": "Lauren Young",
           "trainer": "J S Goldie",
+          "dd": 4,
           "total": 30,
           "boxes": {
             "life": 14,
@@ -91,9 +36,67 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.78,
-          "profit": -0.78,
-          "bank": 78.39
+          "stake": 0.46,
+          "profit": -0.46,
+          "bank": 46.43
+        },
+        {
+          "rank": 2,
+          "horse": "Jordan Electrics",
+          "stars": 5,
+          "odds": "11/4",
+          "jockey": "P Mulrennan",
+          "trainer": "J S Goldie",
+          "dd": 3,
+          "total": 62,
+          "boxes": {
+            "life": 19,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.46,
+          "profit": 0.76,
+          "bank": 46.43
+        },
+        {
+          "rank": 3,
+          "horse": "Lord Roxby",
+          "stars": 3,
+          "odds": "7/2",
+          "jockey": "Alex Jary",
+          "trainer": "N Tinkler",
+          "dd": 3,
+          "total": 37,
+          "boxes": {
+            "life": 15,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.46,
+          "profit": -0.07,
+          "bank": 46.43
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "9/4",
           "jockey": "Jason Hart",
           "trainer": "T Davidson",
+          "dd": 4,
           "total": 76.0,
           "boxes": {
             "life": 9,
@@ -130,9 +134,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.78,
-          "profit": -0.21,
-          "bank": 78.45
+          "stake": 0.46,
+          "profit": -0.13,
+          "bank": 47.2
         },
         {
           "rank": 2,
@@ -141,6 +145,7 @@
           "odds": "9/4",
           "jockey": "Sean Kirrane",
           "trainer": "M Dods",
+          "dd": 3,
           "total": 56,
           "boxes": {
             "life": 13,
@@ -158,37 +163,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.78,
-          "profit": 1.05,
-          "bank": 78.45
+          "stake": 0.46,
+          "profit": 0.62,
+          "bank": 47.2
         },
         {
           "rank": 3,
-          "horse": "Krissy",
+          "horse": "Starliner",
           "stars": 3,
-          "odds": "13/2",
-          "jockey": "Rhys Elliott",
-          "trainer": "J S Goldie",
-          "total": 30,
+          "odds": "11/1",
+          "jockey": "William Pyle",
+          "trainer": "Miss L A Perratt",
+          "dd": 3,
+          "total": 25,
           "boxes": {
-            "life": 22,
+            "life": 9,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 8,
-            "cd": null,
+            "fav": 6,
+            "cd": 10,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 9,
-          "res": "LOSE",
-          "stake": 0.78,
-          "profit": -0.78,
-          "bank": 78.45
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.46,
+          "profit": 0.28,
+          "bank": 47.2
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "5/2",
           "jockey": "C Lee",
           "trainer": "R M Smith",
+          "dd": 3,
           "total": 55,
           "boxes": {
             "life": 12,
@@ -225,9 +232,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.78,
-          "profit": -0.78,
-          "bank": 80.17
+          "stake": 0.47,
+          "profit": -0.47,
+          "bank": 48.23
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "9/2",
           "jockey": "Jason Hart",
           "trainer": "Ewan Whillans",
+          "dd": 2,
           "total": 26,
           "boxes": {
             "life": 9,
@@ -253,9 +261,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.78,
-          "profit": 2.11,
-          "bank": 80.17
+          "stake": 0.47,
+          "profit": 1.27,
+          "bank": 48.23
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "10/1",
           "jockey": "Shay Farmer",
           "trainer": "R M Smith",
+          "dd": 2,
           "total": 19,
           "boxes": {
             "life": 9,
@@ -281,9 +290,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.78,
-          "profit": 0.39,
-          "bank": 80.17
+          "stake": 0.47,
+          "profit": 0.23,
+          "bank": 48.23
         }
       ]
     }
@@ -293,19 +302,19 @@
     "races": 3,
     "settled": 9,
     "won": 3,
-    "placed": 3,
-    "lost": 3,
+    "placed": 4,
+    "lost": 2,
     "nr": 0,
     "pending": 0
   },
-  "staked": 7.02,
-  "returned": 9.19,
-  "profit": 2.17,
+  "staked": 4.17,
+  "returned": 6.2,
+  "profit": 2.03,
   "bank": {
-    "start": 78.0,
-    "end": 80.17,
-    "next_stake": 0.8,
+    "start": 46.2,
+    "end": 48.23,
+    "next_stake": 0.48,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

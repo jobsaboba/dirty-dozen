@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "12:50",
@@ -18,6 +18,7 @@
           "odds": "2/1",
           "jockey": "Miss S L Bowen",
           "trainer": "A W Carroll",
+          "dd": 5,
           "total": 102.0,
           "boxes": {
             "life": 14,
@@ -35,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.39,
-          "profit": 0.47,
-          "bank": 38.54
+          "stake": 0.25,
+          "profit": 0.3,
+          "bank": 24.33
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "9/4",
           "jockey": "Mr Fletcher Yarham",
           "trainer": "Dylan Cunha",
+          "dd": 3,
           "total": 28,
           "boxes": {
             "life": 8,
@@ -63,9 +65,9 @@
           },
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.39,
-          "profit": -0.39,
-          "bank": 38.54
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 24.33
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "17/2",
           "jockey": "Mr Harry Rimell",
           "trainer": "T Faulkner",
+          "dd": 3,
           "total": 22,
           "boxes": {
             "life": 9,
@@ -91,9 +94,9 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.39,
-          "profit": -0.39,
-          "bank": 38.54
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 24.33
         }
       ]
     },
@@ -108,67 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Little She",
-          "stars": 4,
-          "odds": "4/1",
-          "jockey": "Miss Alice Tregoning",
-          "trainer": "M P Tregoning",
-          "total": 33,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.39,
-          "profit": -0.04,
-          "bank": 38.07
-        },
-        {
-          "rank": 2,
-          "horse": "Artavian",
-          "stars": 5,
-          "odds": "4/1",
-          "jockey": "Mr Frederick Tett",
-          "trainer": "P R Chamings",
-          "total": 26,
-          "boxes": {
-            "life": 9,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.39,
-          "profit": -0.04,
-          "bank": 38.07
-        },
-        {
-          "rank": 3,
           "horse": "San Francisco Bay",
           "stars": 3,
           "odds": "9/2",
           "jockey": "Mr Henry Main",
           "trainer": "H Candy",
+          "dd": 3,
           "total": 24,
           "boxes": {
             "life": 8,
@@ -186,9 +134,67 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.39,
-          "profit": -0.39,
-          "bank": 38.07
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 24.93
+        },
+        {
+          "rank": 2,
+          "horse": "Palazzo Persico",
+          "stars": 2,
+          "odds": "15/2",
+          "jockey": "Mr William Pearman",
+          "trainer": "A W Carroll",
+          "dd": 3,
+          "total": 24,
+          "boxes": {
+            "life": 13,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.24,
+          "profit": 1.08,
+          "bank": 24.93
+        },
+        {
+          "rank": 3,
+          "horse": "Man Is King",
+          "stars": 4,
+          "odds": "6/1",
+          "jockey": "Mr Fletcher Yarham",
+          "trainer": "D Flood",
+          "dd": 3,
+          "total": 20,
+          "boxes": {
+            "life": 7,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 24.93
         }
       ]
     },
@@ -203,11 +209,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Judge Frank",
+          "stars": 2,
+          "odds": "10/1",
+          "jockey": "William Carson",
+          "trainer": "J L Flint",
+          "dd": 4,
+          "total": 22,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 24.18
+        },
+        {
+          "rank": 2,
           "horse": "Dinah Myte",
           "stars": 3,
           "odds": "5/2",
           "jockey": "George Bass",
           "trainer": "J Gallagher",
+          "dd": 3,
           "total": 50,
           "boxes": {
             "life": 12,
@@ -225,17 +261,18 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.38,
-          "profit": -0.38,
-          "bank": 36.93
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 24.18
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Ajrad",
           "stars": 5,
           "odds": "5/1",
           "jockey": "Darragh Keenan",
           "trainer": "B R Millman",
+          "dd": 3,
           "total": 32,
           "boxes": {
             "life": 11,
@@ -253,37 +290,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.38,
-          "profit": -0.38,
-          "bank": 36.93
-        },
-        {
-          "rank": 3,
-          "horse": "Scenario",
-          "stars": 2,
-          "odds": "15/2",
-          "jockey": "Kieren Fox",
-          "trainer": "A W Carroll",
-          "total": 24,
-          "boxes": {
-            "life": 11,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 8,
-            "cd": null,
-            "dist": 5,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 0.38,
-          "profit": -0.38,
-          "bank": 36.93
+          "stake": 0.25,
+          "profit": -0.25,
+          "bank": 24.18
         }
       ]
     },
@@ -303,6 +312,7 @@
           "odds": "10/3",
           "jockey": "Jason Watson",
           "trainer": "E De Giles",
+          "dd": 3,
           "total": 53,
           "boxes": {
             "life": 10,
@@ -320,9 +330,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.37,
-          "profit": -0.06,
-          "bank": 38.05
+          "stake": 0.24,
+          "profit": -0.04,
+          "bank": 25.15
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "7/1",
           "jockey": "Charles Bishop",
           "trainer": "M Murphy",
+          "dd": 3,
           "total": 32,
           "boxes": {
             "life": 19,
@@ -348,37 +359,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.37,
-          "profit": 1.55,
-          "bank": 38.05
+          "stake": 0.24,
+          "profit": 1.01,
+          "bank": 25.15
         },
         {
           "rank": 3,
-          "horse": "Homeland",
+          "horse": "Scarfo",
           "stars": 4,
-          "odds": "9/2",
-          "jockey": "Zoe Lewis",
-          "trainer": "T Faulkner",
-          "total": 27,
+          "odds": "5/1",
+          "jockey": "Charlie Tucker",
+          "trainer": "B J Llewellyn",
+          "dd": 3,
+          "total": 26,
           "boxes": {
-            "life": 10,
+            "life": 5,
             "trn": null,
             "jky": null,
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 17,
-            "cd": null,
+            "fav": 11,
+            "cd": 10,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.37,
-          "profit": -0.37,
-          "bank": 38.05
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.24,
+          "profit": 0.0,
+          "bank": 25.15
         }
       ]
     }
@@ -387,20 +399,20 @@
     "picks": 12,
     "races": 4,
     "settled": 12,
-    "won": 2,
-    "placed": 3,
+    "won": 3,
+    "placed": 2,
     "lost": 7,
     "nr": 0,
     "pending": 0
   },
-  "staked": 4.59,
-  "returned": 3.79,
-  "profit": -0.8,
+  "staked": 2.94,
+  "returned": 3.56,
+  "profit": 0.62,
   "bank": {
-    "start": 38.85,
-    "end": 38.05,
-    "next_stake": 0.38,
+    "start": 24.53,
+    "end": 25.15,
+    "next_stake": 0.25,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

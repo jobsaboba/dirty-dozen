@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:10",
@@ -13,39 +13,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Torneo",
-          "stars": 5,
-          "odds": "10/3",
-          "jockey": "G Sheehan",
-          "trainer": "Jamie Snowden",
-          "total": 175.81,
-          "boxes": {
-            "life": 23,
-            "trn": 36.0,
-            "jky": 32.81,
-            "ht": 36.0,
-            "hj": 31.0,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.55
-        },
-        {
-          "rank": 2,
           "horse": "Doyen Du Bar",
           "stars": 4,
           "odds": "2/1",
           "jockey": "Danny McMenamin",
           "trainer": "N G Richards",
+          "dd": 7,
           "total": 159.07,
           "boxes": {
             "life": 44,
@@ -63,9 +36,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "profit": 0.14,
-          "bank": 11.55
+          "stake": 0.11,
+          "profit": 0.13,
+          "bank": 10.69
+        },
+        {
+          "rank": 2,
+          "horse": "Torneo",
+          "stars": 5,
+          "odds": "10/3",
+          "jockey": "G Sheehan",
+          "trainer": "Jamie Snowden",
+          "dd": 6,
+          "total": 175.81,
+          "boxes": {
+            "life": 23,
+            "trn": 36.0,
+            "jky": 32.81,
+            "ht": 36.0,
+            "hj": 31.0,
+            "tjc": null,
+            "fav": 17,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.69
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "9/2",
           "jockey": "Craig Nichol",
           "trainer": "T Davidson",
+          "dd": 4,
           "total": 83.0,
           "boxes": {
             "life": 22,
@@ -91,9 +94,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.11,
           "profit": -0.01,
-          "bank": 11.55
+          "bank": 10.69
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "10/1",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
+          "dd": 5,
           "total": 173.81,
           "boxes": {
             "life": 38,
@@ -130,26 +134,27 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.11,
           "profit": 0.06,
-          "bank": 11.61
+          "bank": 10.75
         },
         {
           "rank": 2,
-          "horse": "Le Beau Madrik",
-          "stars": 4,
-          "odds": "7/2",
-          "jockey": "Harry Skelton",
-          "trainer": "D Skelton",
-          "total": 129.45,
+          "horse": "Red Oak",
+          "stars": 3,
+          "odds": "28/1",
+          "jockey": "S Bowen",
+          "trainer": "James Owen",
+          "dd": 5,
+          "total": 126.3,
           "boxes": {
-            "life": 38,
-            "trn": null,
-            "jky": 35.45,
-            "ht": null,
-            "hj": 39.0,
+            "life": 20,
+            "trn": 28.3,
+            "jky": 25.0,
+            "ht": 28.0,
+            "hj": 25.0,
             "tjc": null,
-            "fav": 17,
+            "fav": null,
             "cd": null,
             "dist": null,
             "crs": null,
@@ -164,20 +169,21 @@
         },
         {
           "rank": 3,
-          "horse": "Red Oak",
-          "stars": 3,
-          "odds": "28/1",
-          "jockey": "S Bowen",
-          "trainer": "James Owen",
-          "total": 126.3,
+          "horse": "Le Beau Madrik",
+          "stars": 4,
+          "odds": "7/2",
+          "jockey": "Harry Skelton",
+          "trainer": "D Skelton",
+          "dd": 4,
+          "total": 129.45,
           "boxes": {
-            "life": 20,
-            "trn": 28.3,
-            "jky": 25.0,
-            "ht": 28.0,
-            "hj": 25.0,
+            "life": 38,
+            "trn": null,
+            "jky": 35.45,
+            "ht": null,
+            "hj": 39.0,
             "tjc": null,
-            "fav": null,
+            "fav": 17,
             "cd": null,
             "dist": null,
             "crs": null,
@@ -208,6 +214,7 @@
           "odds": "16/1",
           "jockey": "S Bowen",
           "trainer": "James Owen",
+          "dd": 6,
           "total": 124.3,
           "boxes": {
             "life": 13,
@@ -225,9 +232,9 @@
           },
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.51
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.66
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "7/1",
           "jockey": "Harry Skelton",
           "trainer": "D Skelton",
+          "dd": 5,
           "total": 102.45,
           "boxes": {
             "life": 12,
@@ -253,9 +261,9 @@
           },
           "pos": 4,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.11,
           "profit": 0.02,
-          "bank": 11.51
+          "bank": 10.66
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "7/1",
           "jockey": "Danny McMenamin",
           "trainer": "A M Thomson",
+          "dd": 5,
           "total": 98.07,
           "boxes": {
             "life": 35,
@@ -303,6 +312,7 @@
           "odds": "5/2",
           "jockey": "S Bowen",
           "trainer": "O Murphy",
+          "dd": 5,
           "total": 113.0,
           "boxes": {
             "life": 25,
@@ -320,9 +330,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.11,
           "profit": -0.03,
-          "bank": 11.37
+          "bank": 10.53
         },
         {
           "rank": 2,
@@ -331,6 +341,7 @@
           "odds": "11/4",
           "jockey": "B S Hughes",
           "trainer": "N G Richards",
+          "dd": 5,
           "total": 108.55,
           "boxes": {
             "life": 19,
@@ -348,9 +359,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.12,
-          "profit": -0.12,
-          "bank": 11.37
+          "stake": 0.11,
+          "profit": -0.11,
+          "bank": 10.53
         },
         {
           "rank": 3,
@@ -359,6 +370,7 @@
           "odds": "11/2",
           "jockey": "J J Burke",
           "trainer": "F O'Brien",
+          "dd": 4,
           "total": 80.59,
           "boxes": {
             "life": 29,
@@ -376,9 +388,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.12,
+          "stake": 0.11,
           "profit": 0.01,
-          "bank": 11.37
+          "bank": 10.53
         }
       ]
     },
@@ -398,6 +410,7 @@
           "odds": "1/10",
           "jockey": "G Sheehan",
           "trainer": "Jamie Snowden",
+          "dd": 7,
           "total": 211.81,
           "boxes": {
             "life": 38,
@@ -417,7 +430,7 @@
           "res": "WIN",
           "stake": 0.11,
           "profit": 0.01,
-          "bank": 11.16
+          "bank": 10.32
         },
         {
           "rank": 2,
@@ -426,6 +439,7 @@
           "odds": "16/1",
           "jockey": "B S Hughes",
           "trainer": "Ruth Jefferson",
+          "dd": 4,
           "total": 74.55,
           "boxes": {
             "life": 25,
@@ -445,7 +459,7 @@
           "res": "LOSE",
           "stake": 0.11,
           "profit": -0.11,
-          "bank": 11.16
+          "bank": 10.32
         },
         {
           "rank": 3,
@@ -454,6 +468,7 @@
           "odds": "10/1",
           "jockey": "Bruce Lynn",
           "trainer": "N W Alexander",
+          "dd": 4,
           "total": 34.0,
           "boxes": {
             "life": 10,
@@ -473,7 +488,7 @@
           "res": "LOSE",
           "stake": 0.11,
           "profit": -0.11,
-          "bank": 11.16
+          "bank": 10.32
         }
       ]
     }
@@ -488,14 +503,14 @@
     "nr": 3,
     "pending": 0
   },
-  "staked": 1.41,
-  "returned": 1.03,
-  "profit": -0.38,
+  "staked": 1.32,
+  "returned": 0.96,
+  "profit": -0.36,
   "bank": {
-    "start": 11.54,
-    "end": 11.16,
-    "next_stake": 0.11,
+    "start": 10.68,
+    "end": 10.32,
+    "next_stake": 0.1,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

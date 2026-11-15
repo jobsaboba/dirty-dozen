@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:48",
@@ -13,11 +13,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Misemerald",
+          "stars": 3,
+          "odds": "6/1",
+          "jockey": "K Stott",
+          "trainer": "P A Kirby",
+          "dd": 4,
+          "total": 28,
+          "boxes": {
+            "life": 9,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": 5,
+            "crs": 3,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.29,
+          "profit": -0.29,
+          "bank": 29.6
+        },
+        {
+          "rank": 2,
           "horse": "Kelpie Grey",
           "stars": 3,
           "odds": "11/8",
           "jockey": "P Mulrennan",
           "trainer": "J S Goldie",
+          "dd": 3,
           "total": 52,
           "boxes": {
             "life": 9,
@@ -35,17 +65,18 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.96,
-          "profit": -0.35,
-          "bank": 97.5
+          "stake": 0.29,
+          "profit": -0.11,
+          "bank": 29.6
         },
         {
-          "rank": 2,
+          "rank": 3,
           "horse": "Monhammer",
           "stars": 4,
           "odds": "5/1",
           "jockey": "C Lee",
           "trainer": "Miss L A Perratt",
+          "dd": 3,
           "total": 39,
           "boxes": {
             "life": 12,
@@ -63,37 +94,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.96,
-          "profit": 2.88,
-          "bank": 97.5
-        },
-        {
-          "rank": 3,
-          "horse": "Filey Beach",
-          "stars": 5,
-          "odds": "6/1",
-          "jockey": "J P Sullivan",
-          "trainer": "Mrs R Carr",
-          "total": 34,
-          "boxes": {
-            "life": 16,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 8,
-            "cd": 10,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 97.5
+          "stake": 0.29,
+          "profit": 0.87,
+          "bank": 29.6
         }
       ]
     },
@@ -108,11 +111,41 @@
       "picks": [
         {
           "rank": 1,
+          "horse": "Inns And Out",
+          "stars": 3,
+          "odds": "11/2",
+          "jockey": "Jason Hart",
+          "trainer": "T D Easterby",
+          "dd": 3,
+          "total": 28,
+          "boxes": {
+            "life": 12,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 6,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 28.97
+        },
+        {
+          "rank": 2,
           "horse": "Brandenburg",
           "stars": 5,
           "odds": "4/1",
           "jockey": "P Mulrennan",
           "trainer": "Mrs A Duffield",
+          "dd": 2,
           "total": 44,
           "boxes": {
             "life": 33,
@@ -130,37 +163,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.97,
-          "profit": -0.97,
-          "bank": 96.24
-        },
-        {
-          "rank": 2,
-          "horse": "Sir Sirius",
-          "stars": 3,
-          "odds": "3/1",
-          "jockey": "K Stott",
-          "trainer": "K A Ryan",
-          "total": 33,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.97,
-          "profit": -0.19,
-          "bank": 96.24
+          "stake": 0.3,
+          "profit": -0.3,
+          "bank": 28.97
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "4/1",
           "jockey": "C Lee",
           "trainer": "K R Burke",
+          "dd": 2,
           "total": 31,
           "boxes": {
             "life": 14,
@@ -186,9 +192,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.97,
-          "profit": -0.1,
-          "bank": 96.24
+          "stake": 0.3,
+          "profit": -0.03,
+          "bank": 28.97
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "11/4",
           "jockey": "K Stott",
           "trainer": "K A Ryan",
+          "dd": 3,
           "total": 46,
           "boxes": {
             "life": 8,
@@ -225,9 +232,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.96,
-          "profit": -0.22,
-          "bank": 94.1
+          "stake": 0.29,
+          "profit": -0.07,
+          "bank": 28.32
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "7/2",
           "jockey": "C Lee",
           "trainer": "T D Barron",
+          "dd": 3,
           "total": 36,
           "boxes": {
             "life": 9,
@@ -253,9 +261,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 94.1
+          "stake": 0.29,
+          "profit": -0.29,
+          "bank": 28.32
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "9/1",
           "jockey": "Alex Jary",
           "trainer": "N Tinkler",
+          "dd": 3,
           "total": 36,
           "boxes": {
             "life": 23,
@@ -281,9 +290,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.96,
-          "profit": -0.96,
-          "bank": 94.1
+          "stake": 0.29,
+          "profit": -0.29,
+          "bank": 28.32
         }
       ]
     }
@@ -293,19 +302,19 @@
     "races": 3,
     "settled": 9,
     "won": 1,
-    "placed": 4,
-    "lost": 4,
+    "placed": 3,
+    "lost": 5,
     "nr": 0,
     "pending": 0
   },
-  "staked": 8.67,
-  "returned": 6.84,
-  "profit": -1.83,
+  "staked": 2.64,
+  "returned": 1.83,
+  "profit": -0.81,
   "bank": {
-    "start": 95.93,
-    "end": 94.1,
-    "next_stake": 0.94,
+    "start": 29.13,
+    "end": 28.32,
+    "next_stake": 0.28,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

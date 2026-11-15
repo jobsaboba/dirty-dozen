@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "14:30",
@@ -18,6 +18,7 @@
           "odds": "13/8",
           "jockey": "Oisin Murphy",
           "trainer": "B R Millman",
+          "dd": 3,
           "total": 58,
           "boxes": {
             "life": 15,
@@ -35,9 +36,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.81,
-          "profit": -0.27,
-          "bank": 80.18
+          "stake": 0.48,
+          "profit": -0.16,
+          "bank": 47.75
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "16/1",
           "jockey": "P J Dobbs",
           "trainer": "A Wintle",
+          "dd": 3,
           "total": 29,
           "boxes": {
             "life": 21,
@@ -63,9 +65,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 80.18
+          "stake": 0.48,
+          "profit": -0.48,
+          "bank": 47.75
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "6/1",
           "jockey": "Ryan Kavanagh",
           "trainer": "Mrs N S Evans",
+          "dd": 3,
           "total": 28,
           "boxes": {
             "life": 7,
@@ -108,39 +111,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Rosemary's Rose",
-          "stars": 4,
-          "odds": "1/1",
-          "jockey": "Oisin Murphy",
-          "trainer": "B R Millman",
-          "total": 41,
-          "boxes": {
-            "life": 8,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 0.8,
-          "profit": -0.32,
-          "bank": 81.86
-        },
-        {
-          "rank": 2,
           "horse": "Kaleidoscope Eyes",
           "stars": 5,
           "odds": "3/1",
           "jockey": "R P Downey",
           "trainer": "B J Llewellyn",
+          "dd": 3,
           "total": 41.0,
           "boxes": {
             "life": 14,
@@ -158,9 +134,38 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.8,
-          "profit": 1.44,
-          "bank": 81.86
+          "stake": 0.48,
+          "profit": 0.86,
+          "bank": 48.76
+        },
+        {
+          "rank": 2,
+          "horse": "Rosemary's Rose",
+          "stars": 4,
+          "odds": "1/1",
+          "jockey": "Oisin Murphy",
+          "trainer": "B R Millman",
+          "dd": 2,
+          "total": 41,
+          "boxes": {
+            "life": 8,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.48,
+          "profit": -0.19,
+          "bank": 48.76
         },
         {
           "rank": 3,
@@ -169,6 +174,7 @@
           "odds": "12/1",
           "jockey": "Tom Marquand",
           "trainer": "Ollie Sangster",
+          "dd": 2,
           "total": 16,
           "boxes": {
             "life": 8,
@@ -186,9 +192,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.8,
-          "profit": 0.56,
-          "bank": 81.86
+          "stake": 0.48,
+          "profit": 0.34,
+          "bank": 48.76
         }
       ]
     },
@@ -208,6 +214,7 @@
           "odds": "10/11",
           "jockey": "Ray Dawson",
           "trainer": "R Varian",
+          "dd": 2,
           "total": 100,
           "boxes": {
             "life": 67,
@@ -225,9 +232,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.82,
-          "profit": 0.45,
-          "bank": 81.21
+          "stake": 0.49,
+          "profit": 0.27,
+          "bank": 48.37
         },
         {
           "rank": 2,
@@ -236,6 +243,7 @@
           "odds": "5/1",
           "jockey": "Tom Marquand",
           "trainer": "W J Haggas",
+          "dd": 2,
           "total": 36,
           "boxes": {
             "life": 25,
@@ -253,9 +261,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.82,
-          "profit": -0.82,
-          "bank": 81.21
+          "stake": 0.49,
+          "profit": -0.49,
+          "bank": 48.37
         },
         {
           "rank": 3,
@@ -264,6 +272,7 @@
           "odds": "13/8",
           "jockey": "Billy Loughnane",
           "trainer": "J Butler",
+          "dd": 1,
           "total": 17,
           "boxes": {
             "life": null,
@@ -281,9 +290,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.82,
-          "profit": -0.28,
-          "bank": 81.21
+          "stake": 0.49,
+          "profit": -0.17,
+          "bank": 48.37
         }
       ]
     },
@@ -298,39 +307,12 @@
       "picks": [
         {
           "rank": 1,
-          "horse": "Condotti",
-          "stars": 3,
-          "odds": "13/8",
-          "jockey": "Oisin Murphy",
-          "trainer": "H Palmer",
-          "total": 39,
-          "boxes": {
-            "life": 6,
-            "trn": null,
-            "jky": null,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 33,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 79.59
-        },
-        {
-          "rank": 2,
           "horse": "Jimmy Mark",
           "stars": 3,
           "odds": "11/2",
           "jockey": "Rossa Ryan",
           "trainer": "Zoe Hawkins",
+          "dd": 4,
           "total": 30,
           "boxes": {
             "life": 14,
@@ -348,18 +330,19 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.81,
-          "profit": -0.81,
-          "bank": 79.59
+          "stake": 0.48,
+          "profit": -0.48,
+          "bank": 46.93
         },
         {
-          "rank": 3,
-          "horse": "Grindleton",
-          "stars": 5,
-          "odds": "5/1",
-          "jockey": "Tom Marquand",
-          "trainer": "D & C Kubler",
-          "total": 27,
+          "rank": 2,
+          "horse": "Beaune",
+          "stars": 3,
+          "odds": "11/2",
+          "jockey": "Harry Vigors",
+          "trainer": "B J Llewellyn",
+          "dd": 3,
+          "total": 26,
           "boxes": {
             "life": 10,
             "trn": null,
@@ -367,18 +350,47 @@
             "ht": null,
             "hj": null,
             "tjc": null,
-            "fav": 17,
+            "fav": 11,
+            "cd": null,
+            "dist": 5,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.48,
+          "profit": -0.48,
+          "bank": 46.93
+        },
+        {
+          "rank": 3,
+          "horse": "Condotti",
+          "stars": 3,
+          "odds": "13/8",
+          "jockey": "Oisin Murphy",
+          "trainer": "H Palmer",
+          "dd": 2,
+          "total": 39,
+          "boxes": {
+            "life": 6,
+            "trn": null,
+            "jky": null,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 33,
             "cd": null,
             "dist": null,
             "crs": null,
             "trnc": null,
             "cjkc": null
           },
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 0.81,
-          "profit": 0.0,
-          "bank": 79.59
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.48,
+          "profit": -0.48,
+          "bank": 46.93
         }
       ]
     }
@@ -388,19 +400,19 @@
     "races": 4,
     "settled": 11,
     "won": 2,
-    "placed": 5,
-    "lost": 4,
+    "placed": 4,
+    "lost": 5,
     "nr": 1,
     "pending": 0
   },
-  "staked": 8.91,
-  "returned": 7.24,
-  "profit": -1.67,
+  "staked": 5.31,
+  "returned": 3.85,
+  "profit": -1.46,
   "bank": {
-    "start": 81.26,
-    "end": 79.59,
-    "next_stake": 0.8,
+    "start": 48.39,
+    "end": 46.93,
+    "next_stake": 0.47,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }

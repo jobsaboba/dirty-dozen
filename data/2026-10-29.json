@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated": "2026-11-15T06:12:44+0000",
+  "updated": "2026-11-15T07:00:20+0000",
   "races": [
     {
       "time": "13:30",
@@ -18,6 +18,7 @@
           "odds": "9/2",
           "jockey": "Harry Cobden",
           "trainer": "P F Nicholls",
+          "dd": 3,
           "total": 67.88,
           "boxes": {
             "life": null,
@@ -35,9 +36,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.15,
-          "profit": -1.15,
-          "bank": 118.66
+          "stake": 0.27,
+          "profit": -0.27,
+          "bank": 28.23
         },
         {
           "rank": 2,
@@ -46,6 +47,7 @@
           "odds": "15/2",
           "jockey": "Jonjo O'Neill Jr.",
           "trainer": "J & A O'Neill",
+          "dd": 2,
           "total": 65.22,
           "boxes": {
             "life": 50,
@@ -63,9 +65,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.15,
-          "profit": 5.17,
-          "bank": 118.66
+          "stake": 0.27,
+          "profit": 1.22,
+          "bank": 28.23
         },
         {
           "rank": 3,
@@ -74,6 +76,7 @@
           "odds": "5/2",
           "jockey": "Charlie Hammond",
           "trainer": "S Edmunds",
+          "dd": 2,
           "total": 44.54,
           "boxes": {
             "life": null,
@@ -91,9 +94,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.15,
-          "profit": -0.29,
-          "bank": 118.66
+          "stake": 0.27,
+          "profit": -0.07,
+          "bank": 28.23
         }
       ]
     },
@@ -113,6 +116,7 @@
           "odds": "9/4",
           "jockey": "Harry Cobden",
           "trainer": "P Hobbs & J White",
+          "dd": 3,
           "total": 83.88,
           "boxes": {
             "life": null,
@@ -130,17 +134,47 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.19,
-          "profit": -0.33,
-          "bank": 120.35
+          "stake": 0.28,
+          "profit": -0.08,
+          "bank": 28.63
         },
         {
           "rank": 2,
+          "horse": "Elusive Pb",
+          "stars": 3,
+          "odds": "9/2",
+          "jockey": "Harry Reed",
+          "trainer": "Nick Scholfield",
+          "dd": 3,
+          "total": 47.81,
+          "boxes": {
+            "life": null,
+            "trn": null,
+            "jky": 14.81,
+            "ht": null,
+            "hj": 25.0,
+            "tjc": null,
+            "fav": 8,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": null
+          },
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.28,
+          "profit": -0.28,
+          "bank": 28.63
+        },
+        {
+          "rank": 3,
           "horse": "Headofthevalley",
           "stars": 3,
           "odds": "9/2",
           "jockey": "Adam Wedge",
           "trainer": "Mrs C Williams",
+          "dd": 2,
           "total": 61,
           "boxes": {
             "life": 50,
@@ -158,37 +192,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 1.19,
-          "profit": 3.21,
-          "bank": 120.35
-        },
-        {
-          "rank": 3,
-          "horse": "Tottie's Moon",
-          "stars": 2,
-          "odds": "125/1",
-          "jockey": "S Bowen",
-          "trainer": "M Bowen",
-          "total": 50.0,
-          "boxes": {
-            "life": null,
-            "trn": null,
-            "jky": 25.0,
-            "ht": null,
-            "hj": 25.0,
-            "tjc": null,
-            "fav": null,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 1.19,
-          "profit": -1.19,
-          "bank": 120.35
+          "stake": 0.28,
+          "profit": 0.76,
+          "bank": 28.63
         }
       ]
     }
@@ -203,14 +209,14 @@
     "nr": 0,
     "pending": 0
   },
-  "staked": 7.02,
-  "returned": 12.44,
-  "profit": 5.42,
+  "staked": 1.65,
+  "returned": 2.93,
+  "profit": 1.28,
   "bank": {
-    "start": 114.93,
-    "end": 120.35,
-    "next_stake": 1.2,
+    "start": 27.35,
+    "end": 28.63,
+    "next_stake": 0.29,
     "season_start": 10.0,
-    "season_end": 250.54
+    "season_end": 55.94
   }
 }
