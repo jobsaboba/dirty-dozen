@@ -76,7 +76,6 @@
   .pick .st{color:var(--gold); font-size:.6rem; letter-spacing:1px; flex-shrink:0}
   .pick .jt{display:block; font-size:.62rem; color:var(--dim); margin-top:1px;
     overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
-  .pick .od{color:var(--sky); font-weight:800; font-size:.7rem}
 
   /* the boxes: gold = how many of the twelve criteria it scores in (0–12),
      green = the raw points total across them — both on the pick's right */
@@ -267,6 +266,7 @@ function render(){
     let picks = "";
     for(const p of rc.picks){
       const stars = p.stars ? "★".repeat(Math.min(p.stars, 5)) : "";
+      const jt = [p.jockey, p.trainer].filter(Boolean).join(" / ");
       const b12 = BOXES.map(k => {
         const v = (p.boxes || {})[k];
         return '<div class="b12"><div class="bl">' + BOX_LABELS[k] + '</div>' +
@@ -277,8 +277,7 @@ function render(){
         '<div class="rk">' + p.rank + '</div>' +
         '<div class="mid"><div class="hn"><span class="nm">' + esc(p.horse) + '</span>' +
         (stars ? '<span class="st">' + stars + '</span>' : '') + '</div>' +
-        '<span class="jt">' + esc([p.jockey, p.trainer].filter(Boolean).join(" / ")) +
-        ' · <span class="od">' + esc(p.odds || "—") + '</span></span></div>' +
+        (jt ? '<span class="jt">' + esc(jt) + '</span>' : '') + '</div>' +
         '<div class="scoregrp">' +
         '<div class="dbox"><div class="tv">' + p.dd + '</div><div class="tl">of 12</div></div>' +
         '<div class="tbox"><div class="tv">' + fmt(p.total) + '</div><div class="tl">pts</div></div>' +
