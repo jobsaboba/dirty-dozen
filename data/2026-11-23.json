@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T14:14:42+0000",
+  "updated": "2026-11-23T14:31:04+0000",
   "races": [
     {
       "time": "12:25",
@@ -779,7 +779,7 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": null,
+          "res": "NR",
           "stake": null,
           "profit": null,
           "bank": null
@@ -2656,8 +2656,8 @@
     "won": 1,
     "placed": 4,
     "lost": 13,
-    "nr": 1,
-    "pending": 62
+    "nr": 2,
+    "pending": 61
   },
   "staked": 0.93,
   "returned": 0.41,
