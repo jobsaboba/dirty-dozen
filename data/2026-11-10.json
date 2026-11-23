@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated": "2026-11-23T13:31:02+0000",
+  "updated": "2026-11-23T14:14:42+0000",
   "races": [
     {
       "time": "12:30",
@@ -36,9 +36,9 @@
           },
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.39,
-          "profit": -0.39,
-          "bank": 47.46
+          "stake": 0.13,
+          "profit": -0.13,
+          "bank": 16.07
         },
         {
           "rank": 2,
@@ -65,9 +65,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.39,
-          "profit": 9.36,
-          "bank": 47.46
+          "stake": 0.13,
+          "profit": 3.12,
+          "bank": 16.07
         },
         {
           "rank": 3,
@@ -94,9 +94,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.39,
-          "profit": -0.39,
-          "bank": 47.46
+          "stake": 0.13,
+          "profit": -0.13,
+          "bank": 16.07
         }
       ]
     },
@@ -134,9 +134,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.47,
-          "profit": -0.21,
-          "bank": 46.71
+          "stake": 0.16,
+          "profit": -0.07,
+          "bank": 15.82
         },
         {
           "rank": 2,
@@ -163,9 +163,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.47,
-          "profit": -0.07,
-          "bank": 46.71
+          "stake": 0.16,
+          "profit": -0.02,
+          "bank": 15.82
         },
         {
           "rank": 3,
@@ -192,9 +192,9 @@
           },
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.47,
-          "profit": -0.47,
-          "bank": 46.71
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.82
         }
       ]
     },
@@ -232,9 +232,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.47,
-          "profit": -0.05,
-          "bank": 46.89
+          "stake": 0.16,
+          "profit": -0.02,
+          "bank": 15.88
         },
         {
           "rank": 2,
@@ -261,9 +261,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.47,
-          "profit": 0.7,
-          "bank": 46.89
+          "stake": 0.16,
+          "profit": 0.24,
+          "bank": 15.88
         },
         {
           "rank": 3,
@@ -290,9 +290,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.47,
-          "profit": -0.47,
-          "bank": 46.89
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.88
         }
       ]
     },
@@ -330,9 +330,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.47,
-          "profit": 0.63,
-          "bank": 46.9
+          "stake": 0.16,
+          "profit": 0.22,
+          "bank": 15.89
         },
         {
           "rank": 2,
@@ -359,9 +359,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.47,
-          "profit": -0.47,
-          "bank": 46.9
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.89
         },
         {
           "rank": 3,
@@ -388,9 +388,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.47,
-          "profit": -0.15,
-          "bank": 46.9
+          "stake": 0.16,
+          "profit": -0.05,
+          "bank": 15.89
         }
       ]
     },
@@ -428,9 +428,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.47,
+          "stake": 0.16,
           "profit": 0.0,
-          "bank": 45.96
+          "bank": 15.57
         },
         {
           "rank": 2,
@@ -457,9 +457,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.47,
-          "profit": -0.47,
-          "bank": 45.96
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.57
         },
         {
           "rank": 3,
@@ -486,9 +486,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.47,
-          "profit": -0.47,
-          "bank": 45.96
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.57
         }
       ]
     },
@@ -526,9 +526,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.46,
-          "profit": 0.32,
-          "bank": 45.36
+          "stake": 0.16,
+          "profit": 0.11,
+          "bank": 15.36
         },
         {
           "rank": 2,
@@ -555,9 +555,9 @@
           },
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.46,
-          "profit": -0.46,
-          "bank": 45.36
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.36
         },
         {
           "rank": 3,
@@ -584,9 +584,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.46,
-          "profit": -0.46,
-          "bank": 45.36
+          "stake": 0.16,
+          "profit": -0.16,
+          "bank": 15.36
         }
       ]
     },
@@ -624,9 +624,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.45,
-          "profit": 1.35,
-          "bank": 45.81
+          "stake": 0.15,
+          "profit": 0.45,
+          "bank": 15.51
         },
         {
           "rank": 2,
@@ -653,9 +653,9 @@
           },
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.45,
-          "profit": -0.45,
-          "bank": 45.81
+          "stake": 0.15,
+          "profit": -0.15,
+          "bank": 15.51
         },
         {
           "rank": 3,
@@ -682,9 +682,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.45,
-          "profit": -0.45,
-          "bank": 45.81
+          "stake": 0.15,
+          "profit": -0.15,
+          "bank": 15.51
         }
       ]
     },
@@ -797,14 +797,14 @@
     "nr": 3,
     "pending": 0
   },
-  "staked": 9.54,
-  "returned": 16.47,
-  "profit": 6.93,
+  "staked": 3.24,
+  "returned": 5.54,
+  "profit": 2.3,
   "bank": {
-    "start": 38.88,
-    "end": 45.81,
-    "next_stake": 0.46,
+    "start": 13.21,
+    "end": 15.51,
+    "next_stake": 0.16,
     "season_start": 10.0,
-    "season_end": 23.28
+    "season_end": 5.01
   }
 }

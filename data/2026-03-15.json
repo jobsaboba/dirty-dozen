@@ -1,6 +1,6 @@
 {
   "date": "2026-03-15",
-  "updated": "2026-11-23T13:31:02+0000",
+  "updated": "2026-11-23T14:14:42+0000",
   "races": [
     {
       "time": "14:10",
@@ -36,9 +36,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.12,
-          "bank": 10.43
+          "stake": 0.08,
+          "profit": 0.1,
+          "bank": 8.02
         },
         {
           "rank": 2,
@@ -65,9 +65,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.1,
-          "profit": -0.04,
-          "bank": 10.43
+          "stake": 0.08,
+          "profit": -0.03,
+          "bank": 8.02
         },
         {
           "rank": 3,
@@ -94,9 +94,9 @@
           },
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.1,
-          "profit": -0.1,
-          "bank": 10.43
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 8.02
         }
       ]
     },
@@ -133,10 +133,10 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 7.78
         },
         {
           "rank": 2,
@@ -162,10 +162,10 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 7.78
         },
         {
           "rank": 3,
@@ -191,10 +191,10 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": "NR",
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 7.78
         }
       ]
     },
@@ -232,9 +232,9 @@
           },
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.1,
-          "profit": -0.1,
-          "bank": 10.5
+          "stake": 0.08,
+          "profit": -0.08,
+          "bank": 7.83
         },
         {
           "rank": 2,
@@ -261,9 +261,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.1,
-          "profit": 0.06,
-          "bank": 10.5
+          "stake": 0.08,
+          "profit": 0.05,
+          "bank": 7.83
         },
         {
           "rank": 3,
@@ -290,9 +290,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.11,
-          "bank": 10.5
+          "stake": 0.08,
+          "profit": 0.08,
+          "bank": 7.83
         }
       ]
     },
@@ -330,9 +330,9 @@
           },
           "pos": 1,
           "res": "WIN",
-          "stake": 0.1,
-          "profit": 0.12,
-          "bank": 10.69
+          "stake": 0.08,
+          "profit": 0.1,
+          "bank": 7.99
         },
         {
           "rank": 2,
@@ -359,9 +359,9 @@
           },
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.1,
-          "profit": 0.07,
-          "bank": 10.69
+          "stake": 0.08,
+          "profit": 0.06,
+          "bank": 7.99
         },
         {
           "rank": 3,
@@ -388,9 +388,9 @@
           },
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.1,
+          "stake": 0.08,
           "profit": 0.0,
-          "bank": 10.69
+          "bank": 7.99
         }
       ]
     }
@@ -398,21 +398,21 @@
   "score": {
     "picks": 12,
     "races": 4,
-    "settled": 9,
+    "settled": 12,
     "won": 3,
     "placed": 4,
-    "lost": 2,
-    "nr": 3,
+    "lost": 5,
+    "nr": 0,
     "pending": 0
   },
-  "staked": 0.9,
-  "returned": 1.14,
-  "profit": 0.24,
+  "staked": 0.96,
+  "returned": 0.92,
+  "profit": -0.04,
   "bank": {
-    "start": 10.45,
-    "end": 10.69,
-    "next_stake": 0.11,
+    "start": 8.03,
+    "end": 7.99,
+    "next_stake": 0.08,
     "season_start": 10.0,
-    "season_end": 23.28
+    "season_end": 5.01
   }
 }
