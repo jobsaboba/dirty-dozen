@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T05:10:01+0000",
+  "updated": "2026-11-23T13:01:07+0000",
   "races": [
     {
       "time": "12:25",
@@ -34,11 +34,11 @@
             "trnc": null,
             "cjkc": 26.0
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 23.5
         },
         {
           "rank": 2,
@@ -63,40 +63,40 @@
             "trnc": 26.0,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.24,
+          "profit": -0.04,
+          "bank": 23.5
         },
         {
           "rank": 3,
-          "horse": "Pantile's Gift",
+          "horse": "James Choice",
           "stars": 3,
-          "odds": "10/1",
-          "jockey": "Harry Reed",
-          "trainer": "Harry Derham",
+          "odds": "9/2",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "W Greatrex",
           "dd": 4,
-          "total": 85.34,
+          "total": 84.63,
           "boxes": {
-            "life": 18,
-            "trn": 30.0,
-            "jky": 10.34,
-            "ht": null,
+            "life": 23,
+            "trn": null,
+            "jky": 15.63,
+            "ht": 29.0,
             "hj": null,
             "tjc": null,
-            "fav": null,
+            "fav": 17,
             "cd": null,
             "dist": null,
             "crs": null,
-            "trnc": 27.0,
+            "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 23.5
         }
       ]
     },
@@ -106,7 +106,7 @@
       "name": "Boat At Erbistock Handicap Chase (GBB Race)",
       "class": "4",
       "distance": "2m 1f 77y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft",
       "runners": 8,
       "picks": [
         {
@@ -133,7 +133,7 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": null,
+          "res": "NR",
           "stake": null,
           "profit": null,
           "bank": null
@@ -146,10 +146,10 @@
           "jockey": "Paul O'Brien",
           "trainer": "Harry Derham",
           "dd": 4,
-          "total": 77.23,
+          "total": 72.23,
           "boxes": {
             "life": 20,
-            "trn": 30.0,
+            "trn": 25.0,
             "jky": 19.23,
             "ht": null,
             "hj": null,
@@ -162,7 +162,7 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": null,
+          "res": "NR",
           "stake": null,
           "profit": null,
           "bank": null
@@ -190,11 +190,11 @@
             "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.24,
+          "profit": -0.24,
+          "bank": 23.26
         }
       ]
     },
@@ -230,11 +230,11 @@
             "trnc": 21.0,
             "cjkc": 26.0
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.23,
+          "profit": -0.08,
+          "bank": 23.16
         },
         {
           "rank": 2,
@@ -244,10 +244,10 @@
           "jockey": "R T Dunne",
           "trainer": "James Owen",
           "dd": 5,
-          "total": 66.76,
+          "total": 66.56,
           "boxes": {
             "life": 23,
-            "trn": 7.9,
+            "trn": 7.7,
             "jky": 2.86,
             "ht": null,
             "hj": null,
@@ -259,11 +259,11 @@
             "trnc": 27.0,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.23,
+          "profit": 0.21,
+          "bank": 23.16
         },
         {
           "rank": 3,
@@ -288,11 +288,11 @@
             "trnc": null,
             "cjkc": 20.0
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.23,
+          "profit": -0.23,
+          "bank": 23.16
         }
       ]
     },
@@ -302,7 +302,7 @@
       "name": "Bangor-On-Dee Memberships Now On Sale Novices' Handicap Chase (GBB Race)",
       "class": "4",
       "distance": "2m 4f 72y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft",
       "runners": 11,
       "picks": [
         {
@@ -401,7 +401,7 @@
       "class": "5",
       "distance": "1m 7f 171y",
       "going": "Good",
-      "runners": 12,
+      "runners": 11,
       "picks": [
         {
           "rank": 1,
@@ -498,7 +498,7 @@
       "name": "Wrexham Lager Novices' Handicap Chase (GBB Race)",
       "class": "4",
       "distance": "3m 30y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft",
       "runners": 12,
       "picks": [
         {
@@ -509,10 +509,10 @@
           "jockey": "Paul O'Brien",
           "trainer": "Harry Derham",
           "dd": 5,
-          "total": 73.23,
+          "total": 68.23,
           "boxes": {
             "life": 13,
-            "trn": 30.0,
+            "trn": 25.0,
             "jky": 19.23,
             "ht": null,
             "hj": null,
@@ -596,7 +596,7 @@
       "name": "Outerspace Group 'National Hunt' Maiden Hurdle (GBB Race)",
       "class": "4",
       "distance": "2m 3f 123y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
+      "going": "Good to Soft (Good in places)",
       "runners": 14,
       "picks": [
         {
@@ -694,8 +694,8 @@
       "name": "Mount Vines Mares' Maiden Hurdle (GBB Race)",
       "class": "4",
       "distance": "2m 145y",
-      "going": "Good to soft-soft in places on chase course (prec inspection 8am)",
-      "runners": 14,
+      "going": "Good to Soft (Good in places)",
+      "runners": 13,
       "picks": [
         {
           "rank": 1,
@@ -763,10 +763,10 @@
           "jockey": "Paul O'Brien",
           "trainer": "Harry Derham",
           "dd": 3,
-          "total": 60.230000000000004,
+          "total": 55.230000000000004,
           "boxes": {
             "life": 0,
-            "trn": 30.0,
+            "trn": 25.0,
             "jky": 19.23,
             "ht": null,
             "hj": null,
@@ -793,7 +793,7 @@
       "class": "5",
       "distance": "2m 4f 145y",
       "going": "Good",
-      "runners": 9,
+      "runners": 8,
       "picks": [
         {
           "rank": 1,
@@ -803,10 +803,10 @@
           "jockey": "Callum Pritchard",
           "trainer": "James Owen",
           "dd": 5,
-          "total": 90.53,
+          "total": 90.33,
           "boxes": {
             "life": 18,
-            "trn": 7.9,
+            "trn": 7.7,
             "jky": 11.63,
             "ht": null,
             "hj": null,
@@ -832,10 +832,10 @@
           "jockey": "Isabelle Ryder",
           "trainer": "Jamie Snowden",
           "dd": 5,
-          "total": 76.7,
+          "total": 78.0,
           "boxes": {
             "life": 3,
-            "trn": 22.7,
+            "trn": 24.0,
             "jky": 8.0,
             "ht": null,
             "hj": null,
@@ -891,7 +891,7 @@
       "class": "4",
       "distance": "2m 3f 137y",
       "going": "Good",
-      "runners": 11,
+      "runners": 10,
       "picks": [
         {
           "rank": 1,
@@ -924,35 +924,6 @@
         },
         {
           "rank": 2,
-          "horse": "Moab",
-          "stars": 4,
-          "odds": "10/3",
-          "jockey": "Jonjo O'Neill Jr.",
-          "trainer": "Miss H C Knight",
-          "dd": 4,
-          "total": 106.92,
-          "boxes": {
-            "life": 46,
-            "trn": null,
-            "jky": 22.92,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 17,
-            "cd": null,
-            "dist": null,
-            "crs": null,
-            "trnc": null,
-            "cjkc": 21.0
-          },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
-        },
-        {
-          "rank": 3,
           "horse": "Beau Quali",
           "stars": 4,
           "odds": "33/1",
@@ -979,6 +950,35 @@
           "stake": null,
           "profit": null,
           "bank": null
+        },
+        {
+          "rank": 3,
+          "horse": "Lyrical Choice",
+          "stars": 5,
+          "odds": "6/1",
+          "jockey": "David Bass",
+          "trainer": "H D Daly",
+          "dd": 4,
+          "total": 73.92,
+          "boxes": {
+            "life": 13,
+            "trn": null,
+            "jky": 26.92,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": 11,
+            "cd": null,
+            "dist": null,
+            "crs": null,
+            "trnc": 23.0,
+            "cjkc": null
+          },
+          "pos": 0,
+          "res": null,
+          "stake": null,
+          "profit": null,
+          "bank": null
         }
       ]
     },
@@ -989,7 +989,7 @@
       "class": "5",
       "distance": "1m 2f 42y",
       "going": "Standard",
-      "runners": 14,
+      "runners": 11,
       "picks": [
         {
           "rank": 1,
@@ -1097,10 +1097,10 @@
           "jockey": "Toby McCain-Mitchell",
           "trainer": "James Owen",
           "dd": 6,
-          "total": 175.9,
+          "total": 175.7,
           "boxes": {
             "life": 97,
-            "trn": 7.9,
+            "trn": 7.7,
             "jky": 8.0,
             "ht": null,
             "hj": null,
@@ -1126,10 +1126,10 @@
           "jockey": "Calum Hogan",
           "trainer": "Harry Derham",
           "dd": 5,
-          "total": 128.0,
+          "total": 123.0,
           "boxes": {
             "life": 49,
-            "trn": 30.0,
+            "trn": 25.0,
             "jky": 0.0,
             "ht": null,
             "hj": null,
@@ -1293,10 +1293,10 @@
           "jockey": "L Morris",
           "trainer": "James Owen",
           "dd": 6,
-          "total": 160.24,
+          "total": 160.04000000000002,
           "boxes": {
             "life": 77,
-            "trn": 7.9,
+            "trn": 7.7,
             "jky": 10.34,
             "ht": null,
             "hj": null,
@@ -1675,7 +1675,7 @@
       "class": "6",
       "distance": "5f 21y",
       "going": "Standard",
-      "runners": 11,
+      "runners": 10,
       "picks": [
         {
           "rank": 1,
@@ -1685,10 +1685,10 @@
           "jockey": "K Shoemark",
           "trainer": "James Owen",
           "dd": 6,
-          "total": 87.9,
+          "total": 87.7,
           "boxes": {
             "life": 24,
-            "trn": 7.9,
+            "trn": 7.7,
             "jky": 15.0,
             "ht": null,
             "hj": null,
@@ -2165,7 +2165,7 @@
       "class": "6",
       "distance": "5f",
       "going": "Standard",
-      "runners": 14,
+      "runners": 13,
       "picks": [
         {
           "rank": 1,
@@ -2198,35 +2198,6 @@
         },
         {
           "rank": 2,
-          "horse": "Miss Rainbow",
-          "stars": 3,
-          "odds": "8/1",
-          "jockey": "D Nolan",
-          "trainer": "Miss Tracy Waggott",
-          "dd": 4,
-          "total": 126.0,
-          "boxes": {
-            "life": 110,
-            "trn": null,
-            "jky": 0.0,
-            "ht": null,
-            "hj": null,
-            "tjc": null,
-            "fav": 8,
-            "cd": null,
-            "dist": 5,
-            "crs": 3,
-            "trnc": null,
-            "cjkc": null
-          },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
-        },
-        {
-          "rank": 3,
           "horse": "Too Much",
           "stars": 3,
           "odds": "10/1",
@@ -2253,6 +2224,35 @@
           "stake": null,
           "profit": null,
           "bank": null
+        },
+        {
+          "rank": 3,
+          "horse": "Cast No Shadow",
+          "stars": 2,
+          "odds": "25/1",
+          "jockey": "Cieren Fallon",
+          "trainer": "H Palmer",
+          "dd": 4,
+          "total": 79.0,
+          "boxes": {
+            "life": 27,
+            "trn": null,
+            "jky": 20.0,
+            "ht": null,
+            "hj": null,
+            "tjc": null,
+            "fav": null,
+            "cd": 10,
+            "dist": null,
+            "crs": null,
+            "trnc": null,
+            "cjkc": 22.0
+          },
+          "pos": 0,
+          "res": null,
+          "stake": null,
+          "profit": null,
+          "bank": null
         }
       ]
     },
@@ -2263,7 +2263,7 @@
       "class": "6",
       "distance": "7f 36y",
       "going": "Standard",
-      "runners": 12,
+      "runners": 11,
       "picks": [
         {
           "rank": 1,
@@ -2625,10 +2625,10 @@
           "jockey": "Jason Watson",
           "trainer": "James Owen",
           "dd": 4,
-          "total": 39.8,
+          "total": 39.6,
           "boxes": {
             "life": 8,
-            "trn": 7.9,
+            "trn": 7.7,
             "jky": 6.9,
             "ht": null,
             "hj": null,
@@ -2652,21 +2652,21 @@
   "score": {
     "picks": 81,
     "races": 27,
-    "settled": 0,
+    "settled": 7,
     "won": 0,
-    "placed": 0,
-    "lost": 0,
-    "nr": 0,
-    "pending": 81
+    "placed": 3,
+    "lost": 4,
+    "nr": 2,
+    "pending": 72
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 1.65,
+  "returned": 0.79,
+  "profit": -0.86,
   "bank": {
     "start": 24.02,
-    "end": 24.02,
-    "next_stake": 0.24,
+    "end": 23.16,
+    "next_stake": 0.23,
     "season_start": 10.0,
-    "season_end": 24.02
+    "season_end": 23.16
   }
 }
