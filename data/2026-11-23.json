@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "2026-11-23T18:31:18+0000",
+  "updated": "2026-11-23T19:02:28+0000",
   "races": [
     {
       "time": "12:25",
@@ -1896,11 +1896,11 @@
             "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.05,
+          "profit": 0.03,
+          "bank": 5.03
         },
         {
           "rank": 2,
@@ -1925,11 +1925,11 @@
             "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.05,
+          "profit": 0.02,
+          "bank": 5.03
         },
         {
           "rank": 3,
@@ -1954,11 +1954,11 @@
             "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 5.03
         }
       ]
     },
@@ -1994,11 +1994,11 @@
             "trnc": 24.0,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 5.08
         },
         {
           "rank": 2,
@@ -2023,11 +2023,11 @@
             "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 5.08
         },
         {
           "rank": 3,
@@ -2052,11 +2052,11 @@
             "trnc": null,
             "cjkc": null
           },
-          "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.05,
+          "profit": 0.15,
+          "bank": 5.08
         }
       ]
     },
@@ -2093,10 +2093,10 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 4.98
         },
         {
           "rank": 2,
@@ -2122,10 +2122,10 @@
             "cjkc": null
           },
           "pos": 0,
-          "res": null,
-          "stake": null,
-          "profit": null,
-          "bank": null
+          "res": "LOSE",
+          "stake": 0.05,
+          "profit": -0.05,
+          "bank": 4.98
         },
         {
           "rank": 3,
@@ -2652,21 +2652,21 @@
   "score": {
     "picks": 81,
     "races": 27,
-    "settled": 56,
-    "won": 8,
-    "placed": 16,
-    "lost": 32,
+    "settled": 64,
+    "won": 9,
+    "placed": 18,
+    "lost": 37,
     "nr": 2,
-    "pending": 23
+    "pending": 15
   },
-  "staked": 2.83,
-  "returned": 2.33,
-  "profit": -0.5,
+  "staked": 3.23,
+  "returned": 2.68,
+  "profit": -0.55,
   "bank": {
     "start": 5.53,
-    "end": 5.03,
+    "end": 4.98,
     "next_stake": 0.05,
     "season_start": 10.0,
-    "season_end": 5.03
+    "season_end": 4.98
   }
 }
