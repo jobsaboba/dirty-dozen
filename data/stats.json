@@ -3,14 +3,14 @@
     "picks": 2967,
     "races": 989,
     "days": 154,
-    "settled": 2720,
-    "won": 514,
-    "placed": 726,
-    "lost": 1480,
-    "nr": 148,
-    "pending": 99,
-    "staked": 354.14,
-    "returned": 349.16,
+    "settled": 2733,
+    "won": 517,
+    "placed": 730,
+    "lost": 1486,
+    "nr": 152,
+    "pending": 82,
+    "staked": 354.79,
+    "returned": 349.81,
     "profit": -4.98,
     "roi": -1.4,
     "bank_start": 10.0,
@@ -34,5 +34,5 @@
     "profit": 12.01,
     "picks": 21
   },
-  "updated": "2026-11-24T05:10:02+0000"
+  "updated": "2026-11-24T13:01:23+0000"
 }
